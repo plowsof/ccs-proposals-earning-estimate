@@ -1,5 +1,5 @@
 ---
-layout: ffs-cp
+layout: cp
 title: Create End-User Kovri documentation
 author: anonimal
 amount: 100

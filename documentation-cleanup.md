@@ -1,5 +1,5 @@
 ---
-layout: ffs-cp
+layout: cp
 title: Documentation and cleanup of source code 
 author: tewinget
 amount: 3,600

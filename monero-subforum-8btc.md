@@ -1,5 +1,5 @@
 ---
-layout: ffs-cp
+layout: cp
 title: Funding for a Monero subforum on the largest chinese BTC forum 8BTC
 author: firperfect
 amount: 570

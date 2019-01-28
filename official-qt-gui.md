@@ -1,5 +1,5 @@
 ---
-layout: ffs-cp
+layout: cp
 title: The official Qt GUI Project
 author: othe
 amount: 14,000

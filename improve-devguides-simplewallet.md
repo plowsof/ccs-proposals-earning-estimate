@@ -1,5 +1,5 @@
 ---
-layout: ffs-cp
+layout: cp
 title: Improving Developer Guides to include Simplewallet examples and Bitmonerod methods and examples
 author: bigreddmachine
 amount: 90
