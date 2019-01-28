@@ -1,5 +1,5 @@
 ---
-layout: ffs-cp
+layout: cp
 title: Release of new/updated pool software
 author: Snipa22
 amount: 800

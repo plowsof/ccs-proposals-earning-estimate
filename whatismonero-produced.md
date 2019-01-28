@@ -1,5 +1,5 @@
 ---
-layout: ffs-cp
+layout: cp
 title: What is Monero? is produced and open-sourced
 author: savandra
 amount: 72

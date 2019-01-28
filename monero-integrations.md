@@ -1,5 +1,5 @@
 ---
-layout: ffs-cp
+layout: cp
 title: Monero integrations with web apps
 author: serhack
 amount: 126

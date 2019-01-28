@@ -1,5 +1,5 @@
 ---
-layout: ffs-cp
+layout: cp
 title: Justin's Local Meetup Talks Proposal #2: April to June
 author: samsunggalaxyplayer
 amount: 26

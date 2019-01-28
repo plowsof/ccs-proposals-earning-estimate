@@ -1,5 +1,5 @@
 ---
-layout: ffs-wip
+layout: cp
 title: Getmonero.org Redesign because we're going to design all of the things and you can't stop us
 author: rehrar
 date: 02/14/2017

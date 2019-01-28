@@ -1,5 +1,5 @@
 ---
-layout: ffs-cp
+layout: cp
 title: Justin's Local Meetup Talks Proposal #1: Valencia, Graz, and Zagreb
 author: samsunggalaxyplayer
 amount: 66

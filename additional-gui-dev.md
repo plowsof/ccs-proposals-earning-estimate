@@ -1,5 +1,5 @@
 ---
-layout: ffs-cp
+layout: cp
 title: Additional GUI Developer
 author: Jaquee
 amount: 2,475

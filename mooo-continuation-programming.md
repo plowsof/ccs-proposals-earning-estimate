@@ -1,5 +1,5 @@
 ---
-layout: ffs-cp
+layout: cp
 title: A continuation for all purpose programming of what needs to get done in monero
 author: moneromooo
 amount: 18,000

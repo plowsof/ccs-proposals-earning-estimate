@@ -1,5 +1,5 @@
 ---
-layout: ffs-cp
+layout: cp
 title: More mooo coding goodness
 author: moneromooo
 amount: 1800

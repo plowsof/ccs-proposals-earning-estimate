@@ -1,5 +1,5 @@
 ---
-layout: ffs-cp
+layout: cp
 title: fluffyponys Conference Circuit Jan 2017 Edition
 author: fluffypony
 amount: 590

@@ -1,5 +1,5 @@
 ---
-layout: ffs-fr
+layout: fr
 title: QR Codes for Funding Required
 summary: The title says it all!
 author: m2049r
