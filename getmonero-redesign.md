@@ -1,6 +1,6 @@
 ---
 layout: cp
-title: Getmonero.org Redesign because we're going to design all of the things and you can't stop us
+title: Getmonero.org Redesign
 author: rehrar
 date: 02/14/2017
 amount: 100
@@ -24,8 +24,8 @@ milestones:
 payouts:
   - date: 12/31/2986
     amount: 10.70XMR
-  - date: 121212154524
-    amount: 4545
+  - date:
+    amount:
   - date: 
     amount:
   - date: 
