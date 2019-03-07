@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: el00ruobuob: JANUARY TO MARCH (PART TIME FOR A NEW QUARTER)
+title: "el00ruobuob: JANUARY TO MARCH (PART TIME FOR A NEW QUARTER)"
 author: el00ruobuob
 date: 02/03/2018
 amount: 45
