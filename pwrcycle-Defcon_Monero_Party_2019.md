@@ -25,10 +25,10 @@ In 2017 there was a small gathering funded by Defcon attendees in a small suite.
 In 2018 there was an official Monero Village at Defcon and a larger suite party.
 
 The funds would go toward:
-1. Hiring DJ (DJs from the hacker community bring more hackers to the event) 
-2. Creating Monero medallions, (as we have done the past 2 years #BadgeLife)
-3. Glowsticks, candy, party trinkets, etc
-4. Drinks
+1. Hiring DJ (DJs from the hacker community bring more hackers to the event) $1500 ($300/DJ)
+2. Creating Monero medallions, (as we have done the past 2 years #BadgeLife) $800 ($8.00/Medallion)
+3. Glowsticks, candy, party trinkets, signs, stickets, etc. $500
+4. Drinks (anything money not spent will be used to buy drinks to be given to Monero Badge holders) $200
 
 Links:
 2017 Announcement: https://np.reddit.com/r/Monero/comments/6mmebi/defcon_monero_party/
