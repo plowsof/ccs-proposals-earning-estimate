@@ -1,6 +1,6 @@
 ---
 layout: cp
-title: "NOETHERS: ATTEND STANFORD BLOCKCHAIN CONFERENCE 2019"
+title: "Noethers: Attend Stanford Blockchain Conference 2019"
 author: Sarang Noether
 date: October 2, 2018
 amount: 22
