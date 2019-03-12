@@ -1,3 +1,4 @@
+---
 layout: cp
 title: "el00ruobuob: Part Time for a new quarter (Oct-Dec)"
 author: el00ruobuob
