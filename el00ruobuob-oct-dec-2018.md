@@ -66,5 +66,6 @@ Work done would be seen on:
 * My github;
 * Monero Project GitHub;
 * Taiga.
+
 And if you want to donate to me directly, be my guest: 
 47xu3gQpF569au9C2ajo5SSMrWji6xnoE5vhr94EzFRaKAGw6hEGFXYAwVADKuRpzsjiU1PtmaVgcjUJF89ghGPhUXkndHc
