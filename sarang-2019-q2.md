@@ -19,6 +19,7 @@ You can read my monthly research reports for the current funding period:
 - [January](https://www.reddit.com/r/Monero/comments/al125c/january_monthly_report_from_sarang_noether/)
 - [February](https://www.reddit.com/r/Monero/comments/avdrbs/february_monthly_report_from_sarang_noether/)
 - March (forthcoming): Bulletproofs MPC, DLSAG applications and formalization, transaction models
+
 There has been a lot of work over the last few months to improve transaction privacy, optimize existing constructions, and analyze and test new mathematical and cryptographic schemes.
 
 There are many research topics planned for the next few months:
