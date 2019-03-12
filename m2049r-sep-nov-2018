@@ -1,0 +1,42 @@
+---
+layout: cp
+title: "M2049R: PART-TIME SEPTEMBER-NOVEMBER"
+author: m2049r
+date: September 21, 2018
+amount: 70
+milestones:
+  - name: Milestone 1 - Work
+    funds: 100% (70 XMR)
+    done:
+    status: finished
+payouts:
+  - date: January 3, 2019
+    amount: 70 XMR
+---
+**WHO**
+
+I am m2049r, creator of Monerujo - The Monero Android Wallet.
+
+**WHAT**
+
+I was funded March - August 2018 and would like to continue in that spirit. Please see previous posts for completed milestones & tasks.
+
+Primarily I will be moving the Monerujo App along according to our feature list on Taiga as well as improving the usability as dictated by the Monerujo Team.
+
+**HOW MUCH**
+
+12 weeks x 10 hours/week = 120 hours. @ 0.58XMR per hour = 70XMR.
+
+(June - August I spent 140 hours in addition to Ledger integration)
+
+**NEXT STEPS**
+
+*  OpenAlias support **[Released 2018-09-17]**
+*  Monero 0.13 support **[Beta 2018-10-09, Released 2018-10-14]**
+*  Automated Node discovery **[Alpha 2018-11-20]**
+*  Further Multisig Analysis & Design **[Suspended until it is clear what core GUI will do]**
+*  Talk at the HCPP18 **[Released 2018-10-07]**
+*  Continue development of Monerujo according to the Taiga Project **[ongiong, see Taige & GitHUb for details]**
+*  User Support & Bugfixing **[ongoing]**
+
+**The work for this FFS is complete, see Team Monerujo: Part-Time December-February for followup.**
