@@ -1,8 +1,8 @@
 ---
 layout: cp
-title: "el00ruobuob: Part Time for a new quarter (Oct-Dec)"
-author: el00ruobuob
-date: September 3, 2018
+title: "Continued funding for Surae for another quarter, September October November 2018"
+author: suraeNoether
+date: August 26, 2018
 amount: 280
 milestones:
   - name: Milestone 1 - September
