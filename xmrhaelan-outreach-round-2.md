@@ -5,16 +5,16 @@ author: xmrhaelan
 date: January 31, 2019
 amount: 84
 milestones:
-  - name:January
-    funds:28
+  - name: January
+    funds: 28
     done:
     status: unfinished
-  - name:February
-    funds:28
+  - name: February
+    funds: 28
     done:
     status: unfinished
-  - name:March
-    funds:28
+  - name: March
+    funds: 28
     done:
     status: unfinished
 payouts:
