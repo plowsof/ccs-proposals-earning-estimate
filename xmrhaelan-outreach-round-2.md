@@ -1,9 +1,9 @@
 ---
-layout:wip
-title:Monero Outreach quarterly and ongoing task funding
-author:xmrhaelan
-date:January 31, 2019
-amount:84
+layout: wip
+title: Monero Outreach quarterly and ongoing task funding
+author: xmrhaelan
+date: January 31, 2019
+amount: 84
 milestones:
   - name:January
     funds:28
