@@ -15,7 +15,7 @@ payouts:
 
 ---
 ### Proposal ###
-This proposal is to throw another Monero Party on Augutst 10th, 2019, Saturday night at Defcon 26 in Las Vegas, Nevada, USA. 
+This proposal is to throw another Monero Party on Augutst 10th, 2019, Saturday night at Defcon 27 in Las Vegas, Nevada, USA. 
 I have an agreement with a club at a Defcon hotel where we will provide DJs for the night and anyone with a Defcon Badge or Monero Badge gets in free +1 guest.
 
 ### Importance to the Monero Community ###
