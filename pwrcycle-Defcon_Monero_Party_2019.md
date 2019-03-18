@@ -3,7 +3,7 @@ layout: fr
 title: "Defcon Monero Party 2019"
 author: pwrcycle
 date: March 11, 2019
-amount:
+amount: 57
 milestones:
   - name: Prepare to throw the party
     funds: 60
