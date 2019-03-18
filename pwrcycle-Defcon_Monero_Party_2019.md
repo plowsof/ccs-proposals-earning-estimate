@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: Defcon_Monero_Party_2019
+title: "Defcon Monero Party 2019"
 author: pwrcycle
 date: March 11, 2019
 amount:
