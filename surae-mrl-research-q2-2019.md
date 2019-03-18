@@ -23,7 +23,7 @@ milestones:
 
 **RATES AND AMOUNTS** My rate is based on the 14-day moving average exponential on Kraken from 18 March 2018, which is approximately 50.50 USD per XMR, and my monthly rate of 10,400 USD per month.
 
-**AN IMPORTANT CHNAGE** Please read this paragraph carefully for an important change. Research funding over many months suffers from price volatility. Neither donors nor researchers at MRL know the value of donations when they are eventually paid out. To mitigate this and provide the most stability, this request will be paid out in full when it is funded. Please see the [request by Sarang here](https://ccs.getmonero.org/proposals/sarang-2019-q2.html) for a similar statement.
+**AN IMPORTANT CHANGE** Please read this paragraph carefully for an important change. Research funding over many months suffers from price volatility. Neither donors nor researchers at MRL know the value of donations when they are eventually paid out. To mitigate this and provide the most stability, this request will be paid out in full when it is funded. Please see the [request by Sarang here](https://ccs.getmonero.org/proposals/sarang-2019-q2.html) for a similar statement.
 
 **Conflicts of Interest** I have two conflicts to report, neither of which lead to any substantial monetary conflict of interest. First, I am the President of MAGIC, Multidisciplinary Academic Grants in Cryptocurrencies, for which I receive no compensation. I am also the sole proprietor of Colorado Crypto Conferences LLC, the company hosting the first Monero Konferenco in Denver on 22-23 June 2019. However, I have pledged the gross profit of the Monero Konferenco in 2019 toward the 2020 event and will receive no profit in 2019 from this event.
 
