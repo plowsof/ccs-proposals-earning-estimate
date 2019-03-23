@@ -8,11 +8,11 @@ milestones:
   - name: January
     funds: 28
     done:
-    status: unfinished
+    status: finished
   - name: February
     funds: 28
     done:
-    status: unfinished
+    status: finished
   - name: March
     funds: 28
     done:
