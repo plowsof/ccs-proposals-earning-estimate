@@ -7,11 +7,11 @@ amount: 423.93
 milestones:
   - name: Funding is released
     funds: 100% (423.93 XMR)
-    done:
-    status: unfinished
+    done: 31 March 2019
+    status: completed
 payouts:
-  - date:
-    amount:
+  - date: 31 March 2019
+    amount: 423.93
 ---
 Folks, hello once again. It's your pal Dr. Sarang Noether, here to request ongoing support for the next few months. My current funded research period is complete at the end of this month, and I'm ready to go for another three months of research and development for the Monero Research Lab.
 
