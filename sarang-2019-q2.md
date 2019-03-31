@@ -1,12 +1,12 @@
 ---
-layout: fr
+layout: wip
 title: "Sarang: research funding for 2019 Q2"
 author: Sarang Noether
 date: 12 March 2019
-amount: 638
+amount: 423.93
 milestones:
   - name: Funding is released
-    funds: 100% (638 XMR)
+    funds: 100% (423.93 XMR)
     done:
     status: unfinished
 payouts:
