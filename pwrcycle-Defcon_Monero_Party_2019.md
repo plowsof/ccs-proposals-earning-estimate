@@ -1,12 +1,12 @@
 ---
-layout: fr
+layout: wip
 title: "Defcon Monero Party 2019"
 author: pwrcycle
 date: March 11, 2019
 amount: 57
 milestones:
   - name: Prepare to throw the party
-    funds: 60
+    funds: 57
     done: 
     status: unfinished
 payouts:
