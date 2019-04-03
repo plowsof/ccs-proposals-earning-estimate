@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "el00ruobuob: JANUARY TO MARCH (PART TIME FOR A NEW QUARTER)"
 author: el00ruobuob
 date: 03/02/2019
@@ -8,15 +8,15 @@ milestones:
   - name: January
     funds: 33.33% (XMR 15)
     done: 
-    status: unfinished
+    status: completed
   - name: February
     funds: 33.33% (XMR 15)
     done: 
-    status: unfinished
+    status: completed
   - name: March
     funds: 33.33% (XMR 15)
     done: 
-    status: unfinished
+    status: completed
 payouts:
   - date: 
     amount: 
