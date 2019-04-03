@@ -18,12 +18,12 @@ milestones:
     done: March 31, 2019
     status: completed
 payouts:
-  - date: 
-    amount: 
-  - date: 
-    amount: 
-  - date: 
-    amount: 
+  - date: April 3, 2019
+    amount: 15
+  - date: April 3, 2019
+    amount: 15
+  - date: April 3, 2019
+    amount: 15
 
 ---
 
