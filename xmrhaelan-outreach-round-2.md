@@ -7,21 +7,21 @@ amount: 84
 milestones:
   - name: January
     funds: 28
-    done:
+    done: 31/01/2019
     status: finished
   - name: February
     funds: 28
-    done:
+    done: 28/02/2019
     status: finished
   - name: March
     funds: 28
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 31 December 2018
+    amount: 28 XMR
+  - date: 07 March 2019
+    amount: 28 xMR
   - date:
     amount:
 ---
