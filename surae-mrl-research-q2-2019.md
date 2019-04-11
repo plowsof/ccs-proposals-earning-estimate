@@ -9,6 +9,10 @@ milestones:
     funds: 100%
     done:
     status: unfinished
+payouts:
+  - date: 11 April 2019
+    amount: 618
+
 ---
 
 **WHO** My name is Brandon Goodell. I am Monero Research Lab’s first postdoctoral researcher into cryptocurrency. I have a Ph.D. in Mathematical Sciences from Clemson University, a M.Sc. in Mathematics from North Dakota State University, and a B.S. in Mathematics from Colorado State University. I taught as a graduate student for 9 years at the university level, and I have participated in the Monero community under the pseudonym Surae Noether on-and-off 2014-2016, and I have worked at MRL full-time since June 2017.
