@@ -7,16 +7,16 @@ amount: 46.8
 milestones:
   - name: February
     funds: 16.66% (XMR 7.8)
-    done:
-    status: unfinished
+    done: 28 February 2019
+    status: finished
   - name: March
     funds: 16.66% (XMR 7.8)
-    done:
-    status: unfinished
+    done: 31 March 2019
+    status: finished
   - name: April
     funds: 16.66% (XMR 7.8)
-    done:
-    status: unfinished
+    done: 30 April 2019
+    status: finished
   - name: May
     funds: 16.66% (XMR 7.8)
     done:
