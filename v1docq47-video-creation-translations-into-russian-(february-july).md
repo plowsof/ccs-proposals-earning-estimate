@@ -30,12 +30,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 7 May 2019
+    amount: 23.4
   - date:
     amount:
   - date:
