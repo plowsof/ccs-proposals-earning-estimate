@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Raise some XMR for the General Fund
 author: rehrar
 date: February 19, 2019
