@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "Sarang: research funding for 2019 Q1"
 author: Sarang Noether
 date: 4 December 2018
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: March
     funds: 33.33% (220.34 XMR)
-    done:
-    status: unfinished
+    done: 31 March 2019
+    status: finished
 payouts:
   - date: 4 February 2019
     amount: 220.33
   - date: 1 March 2019
     amount: 220.33
-  - date:
-    amount:
+  - date: 4 April 2019
+    amount: 220.34
 ---
 Friends, neighbors, well-wishers, hello. Dr. Sarang Noether here, back again for [Monero Research Lab 2: The Search For More Money](https://www.youtube.com/watch?v=fgRFQJCHcPw). My current funded research time is coming to a close, and I'm good to go for another three months of research and development for the Monero Research Lab.
 
