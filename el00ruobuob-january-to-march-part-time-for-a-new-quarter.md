@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "el00ruobuob: JANUARY TO MARCH (PART TIME FOR A NEW QUARTER)"
 author: el00ruobuob
 date: February 3, 2019
