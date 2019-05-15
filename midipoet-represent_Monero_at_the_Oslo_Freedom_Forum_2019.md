@@ -7,8 +7,8 @@ amount: 40 XMR
 milestones:
   - name: Book Flights and Hotel and Food
     funds: 20 XMR
-    done:
-    status: unfinished
+    done: 15 May 2019
+    status: finished
   - name: Return and deliver report
     funds: 20 XMR
     done:
