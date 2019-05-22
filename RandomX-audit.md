@@ -49,4 +49,10 @@ to CHF and EUR). The request is for 1400 XMR, using an exhange estimate of 1 XMR
 the funding is in fiat currency, this amount will be updated to reflect price fluctuations
 until funded.
 
-The reviews will be funded in this order as soon as sufficient funds are available.
+The reviews will be funded in this order as soon as sufficient funds are available. This means
+that as soon as enough funds have been raised to pay for Kudelski we will engage them to begin
+their review. If/when sufficient funds are raised to pay for X41 we will start that; if/when
+sufficient additional funds are raised to cover QuarksLab we will start that. If we don't raise
+enough funds to cover all 3 reviews we will go with whatever we can cover. Reviews must be
+completed by end of June so that any identified problems can be fixed by July, and ready for
+a code freeze and subsequent October release.
