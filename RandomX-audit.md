@@ -53,6 +53,9 @@ The reviews will be funded in this order as soon as sufficient funds are availab
 that as soon as enough funds have been raised to pay for Kudelski we will engage them to begin
 their review. If/when sufficient funds are raised to pay for X41 we will start that; if/when
 sufficient additional funds are raised to cover QuarksLab we will start that. If we don't raise
-enough funds to cover all 3 reviews we will go with whatever we can cover. Reviews must be
-completed by end of June so that any identified problems can be fixed by July, and ready for
-a code freeze and subsequent October release.
+enough funds to cover all 3 reviews we will go with whatever we can cover. As with any other CCS
+proposal, any funds collected that aren't sufficient to meet a funding target will be reverted
+to the general development fund.
+
+Reviews must be completed by end of June so that any identified problems can be fixed by July,
+and ready for a code freeze and subsequent October release.
