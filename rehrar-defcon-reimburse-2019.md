@@ -51,11 +51,11 @@ Let's talk about Defcon. Remember Defcon? Biggest hacker conference in the world
 A lot of planning a preperation has already been taking place on Taiga, #monero-defcon in IRC, and in #monero-community where we have biweekly Defcon meetings. What's been most recently discussed is the need that we have to get some key volunteers there to make this village a success. These roles are:
 
 - 2 A/V people, one for running sound, and the other for recording video. Reason: The Defcon people didn't do a fantastic job last year, and the videos turned out very underwhelming in terms of quality. So we want to do it ourselves this year.
-- 
+
 - Floor manager/MC, or someone to make sure everything runs smoothly once the village is set up, the presentations start on time, and a point of contact for all non-Defcon related stuff.
-- 
+
 - Full time volunteer, or someone that will be spending the majority of their time manning some of the informational tables at the start. Believe me, last year these tables got A LOT of traffic, and we were able to talk to tons and tons of people. Having someone there full-time would be awesome.
-- 
+
 - Michael. There's no other way to say it, but Michael's organic connections in the space are the reason we can put on a village, both last year and this year. He is Defcon's official contact for our village, and his presence is greatly required.
 
 We consider these the absolute must-haves in order for this village to funtion and be as successful (if not more) than last year. We are requesting for all expenses paid (flight, hotel, incidentals, Defcon cost) for these five people, who have already been chosen. They are ajs and midipoet, myself, sarang, and Michael respectively).
