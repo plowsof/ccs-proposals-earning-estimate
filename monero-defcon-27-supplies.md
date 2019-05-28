@@ -3,7 +3,7 @@ layout: fr
 title: Monero Defcon 27 Supplies
 author: ajs
 date: May 22, 2019
-amount: 38
+amount: 73
 milestones:
   - name: contract storage space, security deposit 
     funds: 52 XMR
