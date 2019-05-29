@@ -4,6 +4,7 @@ title: Defcon 2019 Volunteer Reimbursement
 author: rehrar
 date: May 20, 2019
 amount: 137
+gitlab_url: "https://repo.getmonero.org/monero-project/ccs-proposals/merge_requests/69"
 milestones:
   - name: Person 1 paid
     funds: 24.5
