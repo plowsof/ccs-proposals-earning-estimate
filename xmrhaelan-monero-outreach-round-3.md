@@ -1,29 +1,29 @@
 ---
 layout: fr
-title:Monero Outreach Round 3
-author:xmrhaelan
-date:May 22, 2019
-amount:110
+title: Monero Outreach Round 3
+author: xmrhaelan
+date: May 22, 2019
+amount: 110
 milestones:
-  - name:Milestone 1
-    funds:36.38
+  - name: Milestone 1
+    funds: 36.38
     done:
     status: unfinished
-  - name:Milestone 2
-    funds:36.68
+  - name: Milestone 2
+    funds: 36.68
     done:
     status: unfinished
-  - name:Milestone 3
-    funds:36.68
+  - name: Milestone 3
+    funds: 36.68
     done:
     status: unfinished
 payouts:
-  - date:TBD
-    amount:36.68
-  - date:TBD
-    amount:36.68
-  - date:TBD
-    amount:36.68
+  - date: TBD
+    amount: 36.68
+  - date: TBD
+    amount: 36.68
+  - date: TBD
+    amount: 36.68
 ---
 
 A big thanks again to everyone who supported Round 2 of funding for Monero Outreach! Final report can be found [here](https://www.reddit.com/r/Monero/comments/bonpt3/monero_outreach_round_2_ccs_final_report_see_what/). 
