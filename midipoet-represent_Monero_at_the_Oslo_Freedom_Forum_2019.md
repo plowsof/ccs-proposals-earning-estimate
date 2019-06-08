@@ -11,12 +11,12 @@ milestones:
     status: finished
   - name: Return and deliver report
     funds: 20 XMR
-    done:
-    status: unfinished
+    done: 8 June 2019
+    status: finished
 payouts:
   - date: May 15, 2019
     amount: 20 XMR
-  - date: June 1, 2019
+  - date: June 8, 2019
     amount: 20 XMR
 ---
 
