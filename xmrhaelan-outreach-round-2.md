@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Monero Outreach quarterly and ongoing task funding
 author: xmrhaelan
 date: January 31, 2019
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: March
     funds: 28
-    done:
-    status: unfinished
+    done: 31/3/19
+    status: finished
 payouts:
   - date: 31 December 2018
     amount: 28 XMR
   - date: 07 March 2019
     amount: 28 xMR
-  - date:
-    amount:
+  - date: 15 May 2019
+    amount: 28
 ---
 
 
