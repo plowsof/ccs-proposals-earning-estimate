@@ -19,8 +19,8 @@ milestones:
     status: finished
   - name: May
     funds: 16.66% (XMR 7.8)
-    done:
-    status: unfinished
+    done: 30 May 2019
+    status: finished
   - name: June
     funds: 16.66% (XMR 7.8)
     done:
