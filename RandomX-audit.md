@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: RandomX Audits
 author: Howard Chu
 date: 20 May 2019
@@ -20,11 +20,8 @@ milestones:
 payouts:
   - date: 30 May 2019
     amount: 1293.8
-  - date:
-    amount:
-  - date:
-    amount:
 ---
+
 This is the funding request for the audits for the RandomX Proof of Work algorithm that we've
 been working on for the past year or so. Our aim has been to develop a PoW that requires any
 implementation to include the major components of a CPU, and thus constrain all implementations
