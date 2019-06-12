@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Monero representation at the Oslo Freedom Forum 2019
 author: midipoet
 date: May 8, 2019
