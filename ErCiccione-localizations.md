@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "ErCiccione: Coordinator of the Localization Workgroup - March"
 author: ErCiccione
 date: 31 March 2019
