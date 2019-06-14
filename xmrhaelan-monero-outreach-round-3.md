@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Monero Outreach Round 3
 author: xmrhaelan
 date: May 22, 2019
