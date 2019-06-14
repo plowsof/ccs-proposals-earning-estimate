@@ -7,19 +7,19 @@ amount: 144
 milestones:
   - name: April
     funds: 33% (48 XMR)
-    done:
-    status: unfinished
+    done: 7 April 2019
+    status: finished
   - name: May
     funds: 33% (48 XMR)
-    done:
-    status: unfinished
+    done: 7 May 2019
+    status: finished
   - name: June
     funds: 33% (48 XMR)
-    done:
-    status: unfinished
+    done: 7 June 2019
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: 14 June 2019
+    amount: 144
 ---
 
 
