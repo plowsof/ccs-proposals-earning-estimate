@@ -3,15 +3,19 @@ layout: wip
 title: "Sarang: research funding for 2019 Q3"
 author: Sarang Noether
 date: 3 June 2019
-amount: 355 XMR
+amount: 355
 milestones:
   - name: Funding is released
     funds: 100% (355 XMR)
+    done: 14 June 2019
+    status: finished
+  - name: Work is done
+    funds: 0% (0 XMR)
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 14 June 2019
+    amount: 355 XMR
 ---
 Hello to you. This is Dr. Sarang Noether, requesting ongoing research funding for the next quarter. My current funding period is complete at the end of June, and I'm ready to go for another three months of research and development for the Monero Research Lab.
 
