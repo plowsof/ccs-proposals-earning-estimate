@@ -5,25 +5,27 @@ author: ajs
 date: May 22, 2019
 amount: 73
 milestones:
-  - name: contract storage space, security deposit 
-    funds: 52 XMR
-    done: June 15, 2019
-    status: unfinished
+  - name: contract storage space 
+    funds: 9 XMR
+    done: June 18, 2019
+    status: finished
   - name: purchase supplies
-    funds: 14 XMR
-    done: July 1, 2019
-    status: unfinished
-  - name: bring last year supplies, rental equipment
-    funds: 7 XMR
-    done: August 5, 2019
-    status: unfinished
+    funds: 17 XMR
+    done: June 18, 2019
+    status: finished
+  - name: bring last year supplies
+    funds: 1 XMR
+    done: June 18, 2019
+    status: finished
+  - name: donate extra to General Fund
+    funds: 46 XMR
+    done: June 18, 2019
+    status: finished
 payouts:
-  - date: June 15, 2019
-    amount: 52 XMR
-  - date: July 1, 2019
-    amount: 14 XMR
-  - date: August 5, 2019
-    amount: 7 XMR
+  - date: June 18, 2019
+    amount: 27 XMR
+  - date: June 18, 2019
+    amount: 46 XMR
 ---
 
 ### What
