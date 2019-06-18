@@ -28,6 +28,11 @@ payouts:
     amount: 46 XMR
 ---
 
+### Update
+
+Milestones and payouts have changed: https://www.reddit.com/r/Monero/comments/c1stli/status_update_defcon_av_supplies_ccs/
+
+
 ### What
 
 Last year the people at Defcon were nice enough to provide us Audio/Video recording for our village, however the quality could have been better as can be seen from the videos here:
