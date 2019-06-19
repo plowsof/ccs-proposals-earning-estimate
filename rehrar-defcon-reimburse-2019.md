@@ -7,40 +7,40 @@ amount: 137
 gitlab_url: "https://repo.getmonero.org/monero-project/ccs-proposals/merge_requests/69"
 milestones:
   - name: Person 1 paid
-    funds: 24.5
-    done:
-    status: unfinished
+    funds: 24.5 XMR
+    done: June 18, 2019
+    status: finished
   - name: Person 2 paid
-    funds: 22.5
-    done:
-    status: unfinished
+    funds: 22.5 XMR
+    done: June 18, 2019
+    status: finished
   - name: Person 3 paid
-    funds: 10.9
-    done:
-    status: unfinished
+    funds: 10.9 XMR
+    done: June 18, 2019
+    status: finished
   - name: Person 4 paid
-    funds: 28.2
-    done:
-    status: unfinished
+    funds: 28.2 XMR
+    done: June 18, 2019
+    status: finished
   - name: Person 5 paid
-    funds: 27.4
-    done:
-    status: unfinished
+    funds: 27.4 XMR
+    done: June 18, 2019
+    status: finished
   - name: Scholarships paid
-    funds: 23.5
+    funds: 23.5 XMR
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: June 18, 2019
+    amount: 24.5 XMR
+  - date: June 18, 2019
+    amount: 22.5 XMR
+  - date: June 18, 2019
+    amount: 10.9 XMR
+  - date: June 18, 2019
+    amount: 28.2 XMR
+  - date: June 18, 2019
+    amount: 27.4 XMR
   - date:
     amount:
 ---
