@@ -7,11 +7,11 @@ amount: 57
 milestones:
   - name: Prepare to throw the party
     funds: 57
-    done: 
-    status: unfinished
+    done: June 19, 2019
+    status: finished
 payouts:
-  - date: 
-    amount:
+  - date: June 19, 2019
+    amount: 57 XMR
 
 ---
 ### Proposal ###
