@@ -23,8 +23,8 @@ milestones:
     status: finished
   - name: June
     funds: 16.66% (XMR 7.8)
-    done:
-    status: unfinished
+    done: 30 June 2019
+    status: finished
   - name: July
     funds: 16.66% (XMR 7.8)
     done:
@@ -32,10 +32,8 @@ milestones:
 payouts:
   - date: 7 May 2019
     amount: 23.4
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 30 June 2019
+    amount: 15.6
   - date:
     amount:
 ---
