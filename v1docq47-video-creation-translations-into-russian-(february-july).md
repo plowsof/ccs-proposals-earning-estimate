@@ -32,7 +32,7 @@ milestones:
 payouts:
   - date: 7 May 2019
     amount: 23.4
-  - date: 30 June 2019
+  - date: 4 July 2019
     amount: 15.6
   - date:
     amount:
