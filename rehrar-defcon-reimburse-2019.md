@@ -28,8 +28,8 @@ milestones:
     status: finished
   - name: Scholarships paid
     funds: 23.5 XMR
-    done:
-    status: unfinished
+    done: July 9, 2019
+    status: finished
 payouts:
   - date: June 18, 2019
     amount: 24.5 XMR
@@ -41,8 +41,8 @@ payouts:
     amount: 28.2 XMR
   - date: June 18, 2019
     amount: 27.4 XMR
-  - date:
-    amount:
+  - date: July 9, 2019
+    amount: 23.5 XMR
 ---
 
 What's up everyone? Your friendly neighborhood rehrar here.
