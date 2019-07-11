@@ -21,7 +21,7 @@ milestones:
     funds: 0
     done:
     status: unfinished
-  - name: Lifetime Maintenance and Support
+  - name: Maintenance and Support
     funds: 8
     done:
     status: unfinished
@@ -68,14 +68,14 @@ Estimated time: 4 weeks.
 ### 4. Delivering Bot to Monero Project Team
 Ownership of the bot can be transferred to the official Monero Project Team (Core Team) at any point during the development, should they wish to do so. This official ‘Monero Team’ branding has the obvious advantage of increasing trust in the product, which should drive adoption on Telegram. The bot requires a Monero Wallet RPC Daemon running on a wallet that is also hosted on the node (meaning the operator holds the private keys and seed). All one needs to operate the bot on Telegram is a server (eg. Virtual Private Server or Virtual Machine) and a running Monero Wallet RPC (holding the wallet) that is connected to a remote node. Any chosen individual ‘of trust’ can host the wallet on any server of choice.
   
-### 5. Lifetime Maintenance and Support
-As the author, I will provide lifetime support for the code. Eg: Updates on the code when a new version of the Monero Wallet RPC is released, bug fixes, implementation of new features, maintaining Telegram API compatibility etc.
+### 5. Maintenance and Support
+As long as I am the author/maintainer of the repository, I will provide support for the code. Eg: Updates on the code when a new version of the Monero Wallet RPC is released, bug fixes, implementation of new features, maintaining Telegram API compatibility etc.
 
 ## Cost
 * Collect Feature Requests and Prototype the Telegram bot: 5 XMR
 * Implement Features: 7 XMR
 * Intensive Testing of Bot on Stagenet Within one or more Monero Telegram groups: 5 XMR
-* Lifetime Maintenance, hosting and Support: 8 XMR (one time fee) 
+* Maintenance and Support: 8 XMR (one time fee) 
 
 __Total: 25 XMR__
 
