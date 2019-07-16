@@ -3,18 +3,18 @@ layout: fr
 title: A Monero Tip Bot for Telegram
 author: HAH! Sun (omani)
 date: July 10, 2019
-amount: 25
+amount: 13
 milestones:
   - name: Collect Feature Requests and Prototype the Telegram bot
-    funds: 5
+    funds: 1
     done:
     status: unfinished
   - name: Implement Features
-    funds: 7
+    funds: 5
     done:
     status: unfinished
-  - name: Intensive Testing of Bot on Stagenet Within Monero Telegram Groups
-    funds: 5
+  - name: Intensive Testing of Bot on Stagenet Within Monero Telegram Groups / Bug Fixing
+    funds: 4
     done:
     status: unfinished
   - name: Delivering Bot to Monero Project Team
@@ -22,7 +22,7 @@ milestones:
     done:
     status: unfinished
   - name: Maintenance and Support
-    funds: 8
+    funds: 3
     done:
     status: unfinished
 payouts:
@@ -72,12 +72,12 @@ Ownership of the bot can be transferred to the official Monero Project Team (Cor
 As long as I am the author/maintainer of the repository, I will provide support for the code. Eg: Updates on the code when a new version of the Monero Wallet RPC is released, bug fixes, implementation of new features, maintaining Telegram API compatibility etc.
 
 ## Cost
-* Collect Feature Requests and Prototype the Telegram bot: 5 XMR
-* Implement Features: 7 XMR
-* Intensive Testing of Bot on Stagenet Within one or more Monero Telegram groups: 5 XMR
-* Maintenance and Support: 8 XMR (one time fee) 
+* Collect Feature Requests and Prototype the Telegram bot: 1 XMR
+* Implement Features: 5 XMR
+* Intensive Testing of Bot on Stagenet Within one or more Monero Telegram groups / Bug Fixing: 4 XMR
+* Maintenance and Support: 3 XMR (one time fee) 
 
-__Total: 25 XMR__
+__Total: 13 XMR__
 
 ## Notes
 *Authors wish*: I really hope that the Monero Team considers my proposal, and my track record, and takes up this offer. I am genuinely motivated by a desire to contribute towards the growth of the Monero community and the entire Monero ecosytem. 
