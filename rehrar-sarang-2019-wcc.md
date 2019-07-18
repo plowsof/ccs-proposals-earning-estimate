@@ -28,6 +28,6 @@ This year, we want to do the same. But bigger and better. WCC has invited us bac
 
 Enter you guys. As always, none of us is charging for our time. We're just asking for help with travel expenses. We're staying in a MUCH cheaper hotel than the Cosmopolitan (where the event is hosted), and we'll walk there every day. What is the community getting? 100% table time by myself, sarang, and Daniel Kim (who plans to attend this year again), and a talk by sarang to the populace. Daniel and I have both submitted talks as well, and they're deciding if they want us there (main track or dev track or none).
 
-Milestones to be paid out as soon as funding is completed (if moved and funded, of course) so that we can make the reservations ASAP.
+We're asking 30 XMR which covers both sarang and I's flights, hotel, incidentals, and meals. A 10% price movement buffer is included. Further info available to core team upon request (to preserve privacy). Milestones to be paid out as soon as funding is completed (if moved and funded, of course) so that we can make the reservations ASAP.
 
 Questions? Comments? Criticisms? Complaints?
