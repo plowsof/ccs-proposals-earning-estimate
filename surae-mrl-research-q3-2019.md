@@ -2,7 +2,7 @@
 layout: fr
 title: "Continued funding for Surae for another quarter, Aug Sep Nov 2019"
 author: suraeNoether
-date: 2019 July 20
+date: July 20 2019
 amount: 357
 milestones:
   - name: Funding is released
