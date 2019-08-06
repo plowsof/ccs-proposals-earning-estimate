@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "v1docq47: video creation / translations into russian (february - july)"
 author: v1docq47
 date: July 31, 2019
@@ -34,8 +34,8 @@ payouts:
     amount: 23.4
   - date: 4 July 2019
     amount: 15.6
-  - date:
-    amount:
+  - date: 8 August 2019
+    amount: 7.8
 ---
 
 Greeting everybody again!
