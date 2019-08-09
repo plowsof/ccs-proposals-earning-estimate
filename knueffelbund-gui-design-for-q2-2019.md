@@ -5,25 +5,21 @@ author: knueffelbund
 date: 3 April 2019
 amount: 37
 milestones:
-  - april:
+  - name: April
     funds: 33% (12 XMR)
-    done:
-    status: unfinished
-  - may:
+    done: 30 April 2019
+    status: finished
+  - name: May
     funds: 33% (12 XMR)
-    done:
-    status: unfinished
-  - june:
+    done: 13 May 2019
+    status: finished
+  - name: June
     funds: 33% (13 XMR)
-    done:
-    status: unfinished
+    done: 30 June 2019
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 8 August 2019
+    amount: 37
 
 
 ---
