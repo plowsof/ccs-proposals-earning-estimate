@@ -7,17 +7,17 @@ amount: 30
 milestones:
   - name: Payout rehrar
     funds: 13.4
-    done:
-    status: unfinished
+    done: 23 August 2019
+    status: finished
   - name: Payout sarang
     funds: 16.6
-    done:
-    status: unfinished
+    done: 23 August 2019
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 23 August 2019
+    amount: 13.4
+  - date: 23 August 2019
+    amount: 16.6
 ---
 
 What up everyone, it's your boy rehrar.
