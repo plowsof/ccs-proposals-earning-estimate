@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: knueffelbund GUI design for Q2 2019
 author: knueffelbund
 date: 3 April 2019
