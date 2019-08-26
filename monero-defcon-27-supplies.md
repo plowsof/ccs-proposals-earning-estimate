@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Monero Defcon 27 Supplies
 author: ajs
 date: May 22, 2019
