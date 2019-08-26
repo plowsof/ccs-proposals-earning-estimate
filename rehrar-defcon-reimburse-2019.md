@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Defcon 2019 Volunteer Reimbursement
 author: rehrar
 date: May 20, 2019
