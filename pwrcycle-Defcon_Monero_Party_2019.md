@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "Defcon Monero Party 2019"
 author: pwrcycle
 date: March 11, 2019
