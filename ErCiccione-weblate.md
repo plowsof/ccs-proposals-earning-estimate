@@ -3,7 +3,7 @@ layout: fr
 title: "New Localization platform: Weblate"
 author: ErCiccione
 date: 22 August 2019
-amount: 
+amount: 11
 milestones:
   - name: Replace Pootle with Weblate
     funds: 7.5
