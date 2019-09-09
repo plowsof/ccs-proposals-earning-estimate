@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: RandomX Audits
 author: Howard Chu
 date: 20 May 2019
@@ -7,16 +7,16 @@ amount: 1400
 milestones:
   - name: Kudelski
     funds: 215
-    done:
-    status: unfinished
+    done: 12 April 2019
+    status: finished
   - name: X41
     funds: 555
-    done:
-    status: unfinished
+    done: 10 May 2019
+    status: finished
   - name: QuarksLab
     funds: 625
-    done:
-    status: unfinished
+    done: 10 May 2019
+    status: finished
 payouts:
   - date: 30 May 2019
     amount: 1293.8
