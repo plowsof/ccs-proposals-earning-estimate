@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "Continued funding for Surae for another quarter, Aug Sep Nov 2019"
 author: suraeNoether
 date: July 20 2019
