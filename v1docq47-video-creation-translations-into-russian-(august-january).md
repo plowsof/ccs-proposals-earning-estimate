@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "v1docq47: video creation / translations into russian (august - january)"
 author: v1docq47
 date: January 31, 2020
