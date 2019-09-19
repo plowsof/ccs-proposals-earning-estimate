@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "New Localization platform: Weblate"
 author: ErCiccione
 date: 22 August 2019
