@@ -26,8 +26,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 1 October 2019
+    amount: 10
   - date:
     amount:
 ---
