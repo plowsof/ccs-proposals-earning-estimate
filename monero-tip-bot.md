@@ -7,20 +7,20 @@ amount: 13
 milestones:
   - name: Collect Feature Requests and Prototype the Telegram bot
     funds: 1
-    done:
-    status: unfinished
+    done: 1 October 2019
+    status: finished
   - name: Implement Features
     funds: 5
-    done:
-    status: unfinished
+    done: 1 October 2019
+    status: finished
   - name: Intensive Testing of Bot on Stagenet Within Monero Telegram Groups / Bug Fixing
     funds: 4
-    done:
-    status: unfinished
+    done: 1 October 2019
+    status: finished
   - name: Delivering Bot to Monero Project Team
     funds: 0
-    done:
-    status: unfinished
+    done: 1 October 2019
+    status: finished
   - name: Maintenance and Support
     funds: 3
     done:
