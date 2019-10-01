@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: A Monero Tip Bot for Telegram
 author: HAH! Sun (omani)
 date: July 10, 2019
