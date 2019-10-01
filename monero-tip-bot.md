@@ -19,8 +19,8 @@ milestones:
     status: finished
   - name: Delivering Bot to Monero Project Team
     funds: 0
-    done: 1 October 2019
-    status: finished
+    done:
+    status: unfinished
   - name: Maintenance and Support
     funds: 3
     done:
