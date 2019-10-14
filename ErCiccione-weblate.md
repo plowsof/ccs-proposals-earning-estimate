@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "New Localization platform: Weblate"
 author: ErCiccione
 date: 22 August 2019
@@ -7,15 +7,15 @@ amount: 11
 milestones:
   - name: Replace Pootle with Weblate
     funds: 7.5
-    done: 
-    status: unfinished
+    done: 13 October 2019
+    status: finished
   - name: Update documentation, import terminology guides and translation memories
     funds: 3.2
-    done: 
-    status: unfinished
+    done: 13 October 2019
+    status: finished
 payouts:
-  - date: 
-    amount: 
+  - date: 14 October 2019
+    amount: 11
 ---
 
 Hello everybody, as preannounced in past community meetings, in the [dedicated meeting of the localization workgroup](https://web.getmonero.org/2019/05/04/logs-for-the-localization-workgroup-meeting-held-on-2019-05-03.html) and in [this reddit post](https://old.reddit.com/r/Monero/comments/c06vuw/my_last_proposal_as_coordinator_of_the/), here is my CCS proposal for the integration of Weblate as new localization platform. I'll keep it as schematic and short as possible.
