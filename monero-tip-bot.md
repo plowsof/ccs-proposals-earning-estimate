@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: A Monero Tip Bot for Telegram
 author: HAH! Sun (omani)
 date: July 10, 2019
@@ -19,17 +19,17 @@ milestones:
     status: finished
   - name: Delivering Bot to Monero Project Team
     funds: 0
-    done:
-    status: unfinished
+    done: 17 October 2019
+    status: finished
   - name: Maintenance and Support
     funds: 3
-    done:
-    status: unfinished
+    done: 17 October 2019
+    status: finished
 payouts:
   - date: 1 October 2019
     amount: 10
-  - date:
-    amount:
+  - date: 18 October 2019
+    amount: 3
 ---
 
 # Monero Tipping Bot
