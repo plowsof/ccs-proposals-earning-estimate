@@ -1,8 +1,8 @@
 ---
 layout: fr
 title: Norwegian translation of the GUI
-author:
-date:
+author: Christopher
+date: October 23, 2019
 amount: 3
 milestones:
   - name: Translation of GUI to Norwegian
