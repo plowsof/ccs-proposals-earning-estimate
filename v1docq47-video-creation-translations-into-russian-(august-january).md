@@ -5,18 +5,18 @@ author: v1docq47
 date: January 31, 2020
 amount: 37.8
 milestones:
-  - name:
-    funds:
-    done:
-    status: unfinished
-  - name:
-    funds:
-    done:
-    status: unfinished
-  - name:
-    funds:
-    done:
-    status: unfinished
+  - name: August
+    funds: 16.66% (XMR 6.3)
+    done: 31 August 2019
+    status: finished
+  - name: September
+    funds: 16.66% (XMR 6.3) 
+    done: 30 September 2019
+    status: finished
+  - name: October
+    funds: 16.66% (XMR 6.3)
+    done: 31 October 2019
+    status: finished
   - name:
     funds:
     done:
