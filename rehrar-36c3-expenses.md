@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: rehrar to 36C3
 author: rehrar
 date: October 17, 2019
@@ -7,11 +7,11 @@ amount: 58.65
 milestones:
   - name: Payout to purchase the things
     funds: 58.65
-    done:
-    status: unfinished
+    done: October 11, 2019
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: October 11, 2019
+    amount: 58.65
 ---
 
 Heyo everyone. Welcome back to another edition of "rehrar asks for money to do Monero related things". In this episode, rehrar wants to go back to C3. So I guess this one is called rehrar to C3 2: Return of Jafar.
