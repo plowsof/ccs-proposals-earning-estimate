@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: World Crypto Con for rehrar and Sarang
 author: rehrar
 date: July 17, 2019
