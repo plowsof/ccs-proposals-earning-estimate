@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Surae Funding for Q2 2019
 author: Surae N
 date: 18 March 2019
@@ -7,8 +7,8 @@ amount: 618 XMR
 milestones:
   - name: Research begins and payout occurs upon completion of funding round
     funds: 100%
-    done:
-    status: unfinished
+    done: June 30, 2019
+    status: finished
 payouts:
   - date: 11 April 2019
     amount: 618
