@@ -7,7 +7,7 @@ amount: 618 XMR
 milestones:
   - name: Research begins and payout occurs upon completion of funding round
     funds: 100%
-    done: June 30, 2019
+    done: 30 June 2019
     status: finished
 payouts:
   - date: 11 April 2019
