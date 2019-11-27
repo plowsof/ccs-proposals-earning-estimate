@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "Multiple features and fixes for getmonero.org"
 author: erciccione
 date: 16 October 2019
