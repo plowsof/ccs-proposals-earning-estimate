@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: rehrar to 36C3
 author: rehrar
 date: October 17, 2019
