@@ -7,8 +7,8 @@ amount: 237
 milestones:
   - 1st-month:
     funds: 33% (79 XMR)
-    done:
-    status: unfinished
+    done: 11 November 2019
+    status: finished
   - 2nd-month:
     funds: 33% (79 XMR)
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 9 December 2019
+    amount: 79
   - date:
     amount:
   - date:
