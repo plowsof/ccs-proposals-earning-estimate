@@ -17,14 +17,14 @@ milestones:
     funds: 16.66% (XMR 6.3)
     done: 31 October 2019
     status: finished
-  - name:
-    funds:
-    done:
-    status: unfinished
-  - name:
-    funds:
-    done:
-    status: unfinished
+  - name: November
+    funds: 16.66% (XMR 6.3)
+    done: 30 November 2019
+    status: finished
+  - name: December
+    funds: 16.66% (XMR 6.3)
+    done: 31 December 2019
+    status: finished
   - name:
     funds:
     done:
