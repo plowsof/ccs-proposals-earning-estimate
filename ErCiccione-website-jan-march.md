@@ -2,7 +2,7 @@
 layout: fr
 title: "3 months part time work on Getmonero.org"
 author: erciccione
-date: 
+date: 1 January 2020
 amount: 174
 milestones:
   - name: January
