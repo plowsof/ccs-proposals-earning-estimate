@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "Sarang: research funding for 2019 Q4"
 author: Sarang Noether
 date: 6 September 2019
@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: Work is done
     funds: 0% (0 XMR)
-    done:
-    status: unfinished
+    done: 31 December 2019
+    status: finished
 payouts:
   - date: 23 September 2019
     amount: 417
