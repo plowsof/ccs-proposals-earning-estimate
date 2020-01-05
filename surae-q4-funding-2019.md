@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "Surae: research funding for Nov 2019 - Jan 2020"
 author: Surae Noether
 date: November 15, 2019
@@ -8,10 +8,10 @@ milestones:
   - name: Funding is released
     funds: 100% (499 XMR)
     done: 31 January 2020
-    status: unfinished
+    status: finished
 payouts:
-  - date: 
-    amount: 
+  - date: 4 January 2020
+    amount: 499
 ---
 
 *WHO* My name is Brandon Goodell. I am Monero Research Lab’s first postdoctoral researcher into cryptocurrency. I have a Ph.D. in Mathematical Sciences from Clemson University, a M.Sc. in Mathematics from North Dakota State University, and a B.S. in Mathematics from Colorado State University. I taught as a graduate student for 9 years at the university level, and I have participated in the Monero community under the pseudonym Surae Noether on-and-off 2014-2016, and I have worked at MRL full-time since June 2017.
