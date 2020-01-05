@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "Continued funding for Surae for another quarter, Aug Sep Nov 2019"
 author: suraeNoether
 date: 20 July 2019
@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: Work is done
     funds: 0% (0 XMR)
-    done:
-    status: unfinished
+    done: 30 November 2019
+    status: finished
 payouts:
   - date: 23 September 2019
     amount: 357
