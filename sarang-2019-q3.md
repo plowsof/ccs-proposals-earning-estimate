@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: Work is done
     funds: 0% (0 XMR)
-    done:
-    status: unfinished
+    done: 30 September 2019
+    status: finished
 payouts:
   - date: 14 June 2019
     amount: 355 XMR
