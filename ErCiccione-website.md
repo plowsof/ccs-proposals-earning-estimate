@@ -1,19 +1,17 @@
 ---
-layout: wip
+layout: cp
 title: "Multiple features and fixes for getmonero.org"
 author: erciccione
 date: 16 October 2019
 amount: 60
 milestones:
-  - name: All issues impemented/resolved
-    funds:
-    done:
-    status: unfinished
+  - name: All issues implemented/resolved
+    funds: 60
+    done: 31 December 2019
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 8 January 2020
+    amount: 60
 ---
 The website needs improvements and I would like to dedicate more time to it, if accepted, this proposal will allow me to fix some long standing issues and add some needed features.  
 I realized that I always end up working way more hours than decleared in the CCS, so for this one I'm using a different, delivery based, approach:
