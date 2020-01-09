@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "Sarang: research funding for 2020 Q1"
 author: Sarang Noether
 date: 16 December 2019
@@ -7,15 +7,15 @@ amount: 695
 milestones:
   - name: Funding is released
     funds: 100% (695 XMR)
-    done:
-    status: unfinished
+    done: 9 January 2020
+    status: finished
   - name: Work is done
     funds: 0% (0 XMR)
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 9 January 2020
+    amount: 695
 ---
 Hello! Dr. Sarang Noether here, ready to continue full-time research, development, and analysis in privacy-focused cryptography and applications. You can read my previous monthly reports for [October](https://repo.getmonero.org/monero-project/ccs-proposals/merge_requests/96#note_7573) and [November](https://repo.getmonero.org/monero-project/ccs-proposals/merge_requests/96#note_7842) to see what I've been up to recently.
 
