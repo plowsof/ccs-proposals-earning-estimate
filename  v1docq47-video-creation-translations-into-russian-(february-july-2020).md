@@ -1,4 +1,5 @@
 ---
+layout: fr
 title: "v1docq47: video creation / translations into russian (february - july 2020)"
 author: v1docq47
 date: July 31, 2020
