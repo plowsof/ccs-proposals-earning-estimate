@@ -1,12 +1,12 @@
 ---
-layout: fr
+layout: wip
 title: "TheCharlatan: VPS funding for reproducible gui builds"
 author: TheCharlatan
 date: 22 January 2020
 amount: 14
 milestones:
   - name: VPS
-    funds: 14 XMR
+    funds: 15.01 XMR (actual amount raised)
     done:
     status: unfinished
 payouts:
