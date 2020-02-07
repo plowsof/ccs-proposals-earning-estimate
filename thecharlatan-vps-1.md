@@ -7,11 +7,11 @@ amount: 14
 milestones:
   - name: VPS
     funds: 15.01 XMR (actual amount raised)
-    done:
-    status: unfinished
+    done: 6 February 2020
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: 6 February 2020
+    amount: 15.01
 ---
 ### What are Reproducible builds and why do we need it?
 
