@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "v1docq47: video creation / translations into russian (august - january)"
 author: v1docq47
 date: January 31, 2020
@@ -34,14 +34,8 @@ payouts:
     amount: 18.9
   - date: 18 December 2019
     amount: 12.6
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 6 February 2020
+    amount: 6.3
 ---
 
 Hello, my dear followers, colleagues, and friends!  
