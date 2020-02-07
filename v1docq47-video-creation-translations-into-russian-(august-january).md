@@ -25,10 +25,10 @@ milestones:
     funds: 16.66% (XMR 6.3)
     done: 31 December 2019
     status: finished
-  - name:
-    funds:
-    done:
-    status: unfinished
+  - name: January
+    funds: 16.66% (XMR 6.3)
+    done: 31 January 2020
+    status: finished
 payouts:
   - date: 27 October 2019
     amount: 18.9
