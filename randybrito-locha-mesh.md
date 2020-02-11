@@ -1,7 +1,7 @@
 ---
 layout: fr
-title: [Monero Aligned] Locha Mesh, a resilient long-range radio mesh network
-author: Randy Brito (@randybrito | @rdymac | @btcven)
+title: "[Monero Aligned] Locha Mesh, a resilient long-range radio mesh network"
+author: "Randy Brito (@randybrito | @rdymac | @btcven)""
 date: January 19th, 2020
 amount: 150 XMR
 milestones:
