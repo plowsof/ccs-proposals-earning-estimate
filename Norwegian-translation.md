@@ -1,23 +1,17 @@
 ---
-layout: wip
+layout: cp
 title: Norwegian translation of the GUI
 author: Christopher
 date: 23 October 2019
 amount: 3
 milestones:
   - name: Translation of GUI to Norwegian
-    funds: 
-    done:
-    status: unfinished
-  - name:
-    funds:
-    done:
-    status: unfinished
-payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+    funds: 3
+    done: 18 February 2020
+    status: finished
+  payouts:
+  - date: 20 February 2020
+    amount: 3
 ---
 
 Proposal: I downloaded the Monero GUI and realized that there is no Norwegian translation for it.
