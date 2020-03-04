@@ -1,5 +1,5 @@
 ---
-layout: en
+layout: fr
 title: Monero Payment gateways Gateways part 3
 author: SerHack
 date: March 2020
