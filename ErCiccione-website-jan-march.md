@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: February
     funds: 58
-    done:
-    status: unfinished
+    done: 29 February 2020
+    status: finished
   - name: March
     funds: 58
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 11 February 2020
     amount: 58
-  - date:
-    amount:
+  - date: 6 March 2020
+    amount: 58
 ---
 
 I'm proposing to work on Getmonero part time, 20 hours a week. [My last proposal](https://repo.getmonero.org/monero-project/ccs-proposals/merge_requests/101) was project-based, meaning that the proposal was considered completed after all the issues mentioned were resolved. This time i'm suggesting a more "usual" approach: part time work for three months.
