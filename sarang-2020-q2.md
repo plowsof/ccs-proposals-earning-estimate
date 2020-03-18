@@ -3,10 +3,10 @@ layout: fr
 title: "Sarang: research funding for 2020 Q2"
 author: Sarang Noether
 date: 9 March 2020
-amount: 704
+amount: 845
 milestones:
   - name: Funding is released
-    funds: 100% (704 XMR)
+    funds: 100% (845 XMR)
     done:
     status: unfinished
   - name: Work is done
