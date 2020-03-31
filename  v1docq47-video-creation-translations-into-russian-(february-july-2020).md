@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "v1docq47: video creation / translations into russian (february - july 2020)"
 author: v1docq47
 date: July 31, 2020
@@ -8,11 +8,11 @@ milestones:
   - name: February
     funds: 16.66% (XMR 16.6)
     done: 29 February 2020
-    status: unfinished
+    status: finished
   - name: March
     funds: 16.66% (XMR 16.6)
     done: 31 March 2020
-    status: unfinished
+    status: finished
   - name: April
     funds: 16.66% (XMR 16.6)
     done: 30 April 2020
@@ -30,8 +30,8 @@ milestones:
     done: 31 July 2020
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 31 March 2020
+    amount: 33.2
   - date:
     amount:
   - date:
