@@ -15,19 +15,19 @@ milestones:
     status: finished
   - name: April
     funds: 16.66% (XMR 16.6)
-    done: 30 April 2020
+    done:
     status: unfinished
   - name: May
     funds: 16.66% (XMR 16.6)
-    done: 31 May 2020
+    done:
     status: unfinished
   - name: June
     funds: 16.66% (XMR 16.6)
-    done: 30 June 2020
+    done:
     status: unfinished
   - name: July
     funds: 16.66% (XMR 16.6)
-    done: 31 July 2020
+    done:
     status: unfinished
 payouts:
   - date: 31 March 2020
