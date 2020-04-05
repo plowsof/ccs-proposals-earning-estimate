@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "3 months part time work on Getmonero.org"
 author: erciccione
 date: 1 January 2020
@@ -15,12 +15,14 @@ milestones:
     status: finished
   - name: March
     funds: 58
-    done:
-    status: unfinished
+    done: 31 March 2020
+    status: finished
 payouts:
   - date: 11 February 2020
     amount: 58
   - date: 6 March 2020
+    amount: 58
+  - date: 5 April 2020
     amount: 58
 ---
 
