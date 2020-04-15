@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: Norwegian translation of webplate + footers + nav. menu
+title: "Norwegian translation of webplate + footers + nav. menu"
 author: Chris Avis
 date: February 24, 2020
 amount: 6
@@ -10,8 +10,6 @@ milestones: 1
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
   - date:
     amount:
 ---
