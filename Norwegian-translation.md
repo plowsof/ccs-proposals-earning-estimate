@@ -9,7 +9,7 @@ milestones:
     funds: 3
     done: 18 February 2020
     status: finished
-  payouts:
+payouts:
   - date: 20 February 2020
     amount: 3
 ---
