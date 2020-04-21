@@ -1,18 +1,19 @@
 ---
 layout: fr
-title: Monero Debian Package Repository for 2 years
+title: "Monero Debian Package Repository for 2 years"
+amount: 73
 author: Patrick Schleizer
 date: April 15, 2020
 milestones:
-  - name: Monero Debian Package Initial Packaging
+  - name: "Monero Debian Package Initial Packaging"
     funds: 50% (37 XMR)
     done:
     status: unfinished
-  - name: Monero Debian Package Maintenance 2021
+  - name: "Monero Debian Package Maintenance 2021"
     funds: 25% (18 XMR)
     done:
     status: unfinished
-  - name: Monero Debian Package Maintenance 2022
+  - name: "Monero Debian Package Maintenance 2022"
     funds: 25% (18 XMR)
     done:
     status: unfinished
