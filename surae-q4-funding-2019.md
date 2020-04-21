@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "Surae: research funding for Nov 2019 - Jan 2020"
 author: Surae Noether
 date: November 15, 2019
