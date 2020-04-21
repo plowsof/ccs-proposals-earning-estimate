@@ -4,7 +4,7 @@ title: "Norwegian translation of webplate + footers + nav. menu"
 author: Chris Avis
 date: February 24, 2020
 amount: 6
-milestones: 1
+milestones:
   - name: Translation of all words
     funds: 6
     done:
