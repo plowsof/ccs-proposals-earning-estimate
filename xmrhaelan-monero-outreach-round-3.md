@@ -2,23 +2,23 @@
 layout: wip
 title: Monero Outreach Round 3
 author: xmrhaelan
-date: May 22, 2019
+date: 22 May 2019
 amount: 110
 milestones:
   - name: Milestone 1
-    funds: 36.38
-    done:
-    status: unfinished
+    funds: 36.66
+    done: 4 May 2020
+    status: finished
   - name: Milestone 2
-    funds: 36.68
+    funds: 36.67
     done:
     status: unfinished
   - name: Milestone 3
-    funds: 36.68
+    funds: 36.67
     done:
     status: unfinished
 payouts:
-  - date: TBD
+  - date: 4 May 2020
     amount: 36.68
   - date: TBD
     amount: 36.68
