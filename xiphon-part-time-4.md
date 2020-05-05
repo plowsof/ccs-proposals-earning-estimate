@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: xiphon part-time coding (3 months)
 author: xiphon
 date: 16 Apr 2020
