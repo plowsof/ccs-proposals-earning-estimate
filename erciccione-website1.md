@@ -7,8 +7,8 @@ amount: 180
 milestones:
   - name: April
     funds: 60
-    done: 
-    status: unfinished
+    done: 30 April 2020
+    status: finished
   - name: May
     funds: 60
     done: 
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount: 
+  - date: 15 May 2020
+    amount: 60
   - date:
     amount:
 ---
