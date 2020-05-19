@@ -15,7 +15,7 @@ milestones:
     status: unfinished
 payouts:
   - date: 19 March 2020
-    amount:
+    amount: 845
 ---
 Hello! Dr. Sarang Noether here, ready to continue full-time research, development, and analysis in privacy-focused cryptography and applications. You can read my previous monthly reports for [January](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/110#note_8753) and [February](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/110#note_9123) to see what I've been up to recently. A report for March is forthcoming at the end of this month.
 
