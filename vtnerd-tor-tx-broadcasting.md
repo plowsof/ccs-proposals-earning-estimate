@@ -2,12 +2,12 @@
 layout: wip
 title: Broadcast Transactions over Tor Hidden Service
 author: Lee Clagett (vtnerd)
-date: November 13, 2018
+date: 13 November 2018
 amount: 142.00 XMR
 milestones:
   - name: Socks v4a
     funds: 60.00 XMR
-    done: January 28, 2019
+    done: 28 January 2019
     status: finished
   - name: Timing Analysis Mitigations
     funds: 80.00 XMR
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 25 June 2019
+    amount: 60
   - date:
     amount:
   - date:
