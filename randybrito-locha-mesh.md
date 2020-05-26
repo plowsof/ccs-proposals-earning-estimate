@@ -11,17 +11,15 @@ milestones:
     status: finished
   - name: Month 2
     funds: 50 XMR
-    done:
-    status: unfinished
+    done: 24 May 2020
+    status: finished
   - name: Month 3
     funds: 50 XMR
     done:
     status: unfinished
 payouts:
   - date: 26 May 2020
-    amount: 50
-  - date:
-    amount:
+    amount: 100
   - date:
     amount:
 ---
