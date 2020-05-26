@@ -2,7 +2,7 @@
 layout: fr
 title: Research post-quantum strategies for Monero
 author: Insight
-date: 2020-05-20
+date: May 20, 2020
 amount: 576
 milestones:
   - name: Initial payout
