@@ -2,13 +2,13 @@
 layout: wip
 title: "[Monero Aligned] Locha Mesh, a resilient long-range radio mesh network"
 author: "Randy Brito (@randybrito | @rdymac | @btcven)"
-date: January 19th, 2020
-amount: 150 XMR
+date: 19 January 2020
+amount: 150
 milestones:
   - name: Month 1
     funds: 50 XMR
-    done:
-    status: unfinished
+    done: 24 May 2020
+    status: finished
   - name: Month 2
     funds: 50 XMR
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 26 May 2020
+    amount: 50
   - date:
     amount:
   - date:
