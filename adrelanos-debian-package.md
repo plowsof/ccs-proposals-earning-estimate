@@ -1,9 +1,9 @@
 ---
-layout: fr
+layout: wip
 title: "Monero Debian Package Repository for 2 years"
 amount: 73
 author: Patrick Schleizer
-date: April 15, 2020
+date: 15 April 2020
 milestones:
   - name: "Monero Debian Package Initial Packaging"
     funds: 50% (37 XMR)
