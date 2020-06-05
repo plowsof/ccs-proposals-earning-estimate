@@ -1,8 +1,8 @@
 ---
-layout: fr
+layout: wip
 title: "Monero Atomic Swaps research funding"
 author: h4sh3d
-date: May 19, 2020
+date: 19 May 2020
 amount: 18
 milestones:
   - name: Work is done
