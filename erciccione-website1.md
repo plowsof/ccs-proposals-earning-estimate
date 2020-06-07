@@ -11,14 +11,16 @@ milestones:
     status: finished
   - name: May
     funds: 60
-    done: 
-    status: unfinished
+    done: 31 May 2020
+    status: finished
   - name: June
     funds: 60
     done:
     status: unfinished
 payouts:
   - date: 15 May 2020
+    amount: 60
+  - date: 7 June 2020
     amount: 60
   - date:
     amount:
