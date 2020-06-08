@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Research post-quantum strategies for Monero
 author: Insight
 date: May 20, 2020
