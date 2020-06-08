@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "Norwegian translation of webplate, footers, nav. menu"
 author: Chris Avis
 date: February 24, 2020
