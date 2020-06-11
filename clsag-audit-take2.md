@@ -36,6 +36,8 @@ Cost breakdown:
 * Total: $12,144
 * XMR ($68): 179
 
+The credit is from excess from the last audit with OSTIF, and from a ~~$1650~~ $3,300 donation from Sweetwater Digital Asset Consulting, LLC.
+
 Teserakt has already begun working on this audit by their own decision.
 
 Any excess or shortfalls from volatility will be donated to or paid by the Monero General Fund.
