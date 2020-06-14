@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: fr
 title: "Sarang: research funding for 2020 Q3"
 author: Sarang Noether
 date: 28 May 2020
