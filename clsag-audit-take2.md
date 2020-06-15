@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: CLSAG Audit
 author: Monero Audit Workgroup
 date: 4 June 2020
@@ -7,11 +7,13 @@ amount: 179
 milestones:
   - name: Audit amount
     funds: 100% (179 XMR)
-    done:
-    status: unfinished
+    done: 15 June 2020
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: 15 June 2020
+    amount: 172.09664848
+  - date: 15 June 2020
+    amount: 6.90335152
 ---
 
 This is the funding request for Monero Research Lab's Concise Linkable Ring Signatures (CLSAG) research. CLSAG promises to provide more efficient Monero transactions without sacrificing privacy. CLSAG improves Monero transactions with no meaningful disadvantages. It's a drop-in improvement for MLSAG like Bulletproofs was. CLSAGs require a hardfork to implement.
