@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: cp
 title: Defcon equipment storage for one year
 author: rehrar
 date: June 15, 2020
@@ -7,11 +7,11 @@ amount: 13
 milestones:
   - name: Payout
     funds: 13
-    done:
-    status: unfinished
+    done: 20 June 2020
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: 20 June 2020
+    amount: 13
 ---
 
 Heyo everyone. Diego here with a CCS proposal. As some of you may know, we raised funds last year for equipment that will be used at Defcon (and potentially other conferences). This equipment is currently in a storage unit in Las Vegas, Nevada. It's time to pay for another year for the storage space. 
