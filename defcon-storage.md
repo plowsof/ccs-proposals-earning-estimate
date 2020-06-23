@@ -2,15 +2,15 @@
 layout: cp
 title: Defcon equipment storage for one year
 author: rehrar
-date: June 15, 2020
+date: 15 June 2020
 amount: 13
 milestones:
   - name: Payout
     funds: 13
-    done: 20 June 2020
+    done: 23 June 2020
     status: finished
 payouts:
-  - date: 20 June 2020
+  - date: 23 June 2020
     amount: 13
 ---
 
