@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "ErCiccione: 3 more months part time work on Getmonero.org"
 author: erciccione
 date: 1 April 2020
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: June
     funds: 60
-    done:
-    status: unfinished
+    done: 30 June 2020
+    status: finished
 payouts:
   - date: 15 May 2020
     amount: 60
   - date: 7 June 2020
     amount: 60
-  - date:
-    amount:
+  - date: 6 July 2020
+    amount: 60
 ---
 
 I'm proposing to continue my part time work on Getmonero.org (monero-site repository), 20 hours a week for 3 more months.
