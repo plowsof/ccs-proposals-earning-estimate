@@ -7,21 +7,19 @@ amount: 371
 milestones:
   - name: May
     funds: 33% (123 XMR)
-    done:
-    status: unfinished
+    done: 31 May 2020
+    status: finished
   - name: June
     funds: 33% (123 XMR)
-    done:
-    status: unfinished
+    done: 30 June 2020
+    status: finished
   - name: July
     funds: 33% (125 XMR)
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 6 July 2020
+    amount: 246
   - date:
     amount:
 ---
