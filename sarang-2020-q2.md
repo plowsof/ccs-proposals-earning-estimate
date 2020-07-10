@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "Sarang: research funding for 2020 Q2"
 author: Sarang Noether
 date: 9 March 2020
