@@ -7,8 +7,8 @@ amount: 576
 milestones:
   - name: Initial payout
     funds: 100% (576 XMR)
-    done:
-    status: unfinished
+    done: 14 July 2020
+    status: finished
   - name: Identify and document existing vulnerabilities in Monero
     funds: 0% (0 XMR)
     done:
@@ -22,8 +22,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 14 July 2020
+    amount: 576
 ---
 ![](https://raw.githubusercontent.com/insight-decentralized-consensus-lab/monero_quantum_resistance/master/images/dual_logos.png)
 # Identifying practical post-quantum strategies for Monero
