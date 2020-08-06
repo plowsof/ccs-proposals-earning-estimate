@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Translation of Mastering Monero into Brazilian Portuguese
 author: netrik182
 date: 13 April 2020
@@ -7,13 +7,11 @@ amount: 37
 milestones:
   - name: Milestone 1 - Translation of Mastering Monero
     funds: 37
-    done:
-    status: unfinished
+    done: 5 August 2020
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 5 August 2020
+    amount: 37
 ---
 
 # Why Brazilian Portuguese?
