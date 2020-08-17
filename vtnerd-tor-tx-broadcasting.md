@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: Timing Analysis Mitigations
     funds: 80.00 XMR
-    done:
-    status: unfinished
+    done: 09 August 2020
+    status: finished
   - name: Tor Hidden Service Seed Nodes
     funds: 2.00 XMR
     done:
