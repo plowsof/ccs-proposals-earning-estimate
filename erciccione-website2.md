@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "ErCiccione: 3 more months part time work on Getmonero.org (July-Sept)"
 author: erciccione
 date: 11 July 2020
@@ -7,8 +7,8 @@ amount: 132
 milestones:
   - name: July
     funds: 44
-    done: 
-    status: unfinished
+    done: 31 July 2020
+    status: finished
   - name: August
     funds: 44
     done: 
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date: 
-    amount: 
+  - date: 20 August 2020
+    amount: 44
 
 ---
 
