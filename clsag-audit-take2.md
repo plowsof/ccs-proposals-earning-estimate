@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: CLSAG Audit
 author: Monero Audit Workgroup
 date: 4 June 2020
