@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "Monero Atomic Swaps research funding"
 author: h4sh3d
 date: 19 May 2020
@@ -7,11 +7,11 @@ amount: 18
 milestones:
   - name: Work is done
     funds: 100% (18 XMR)
-    done:
-    status: unfinished
+    done: 26 August 2020
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: 27 August 2020
+    amount: 18
 ---
 
 # Monero Atomic Swaps research funding
