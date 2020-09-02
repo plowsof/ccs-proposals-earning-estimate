@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Feather wallet GUI development
 author: Feather team
 date: 1 September 2020
