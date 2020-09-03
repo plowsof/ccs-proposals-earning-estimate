@@ -7,15 +7,15 @@ amount: 188
 milestones:
   - name: 1st milestone
     funds: 94
-    done: 
-    status: unfinished
+    done: 3 September 2020
+    status: finished
   - name: Alpha release
     funds: 94
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 3 September 2020
+    amount: 94
   - date:
     amount:
 ---
