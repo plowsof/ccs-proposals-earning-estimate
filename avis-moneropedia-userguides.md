@@ -4,12 +4,12 @@ title: Norwegian translation of User guides & Moneropedia
 author: Chris Avis
 date: August 4, 2020
 amount: 29.4
-milestones: 2
-  - name: Milestone 1: Moneropedia
+milestones:
+  - name: Moneropedia
     funds: 8.7
     done:
     status: unfinished
-  - name: Milestone 2: User guides
+  - name: User guides
     funds: 20.7
     done:
     status: unfinished
