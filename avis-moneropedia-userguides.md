@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: "Norwegian translation of User guides & Moneropedia"
+title: "Norwegian translation of User guides and Moneropedia"
 author: Chris Avis
 date: August 4, 2020
 amount: 29.4
