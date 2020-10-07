@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Research post-quantum strategies for Monero
 author: Insight
 date: May 20, 2020
@@ -11,16 +11,16 @@ milestones:
     status: finished
   - name: Identify and document existing vulnerabilities in Monero
     funds: 0% (0 XMR)
-    done:
-    status: unfinished
+    done: September 2020
+    status: finished
   - name: Research Monero-compatible post-quantum cryptography methods
     funds: 0% (0 XMR)
-    done:
-    status: unfinished
+    done: September 2020
+    status: finished
   - name: Communicate and Educate
     funds: 0% (0 XMR)
-    done:
-    status: unfinished
+    done: October 2020
+    status: finished
 payouts:
   - date: 14 July 2020
     amount: 576
