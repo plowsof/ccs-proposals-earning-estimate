@@ -1,9 +1,9 @@
 ---
 layout: fr
 title: "tipxmr.live - a non-custodial livestream donation service for OBS"
-author: AlexAnarcho & hundehausen
+author: AlexAnarcho and hundehausen
 date: September 16, 2020
-amount: 72 XMR
+amount: 72
 milestones:
   - name: Milestone 1 - Basic setup of webpack with monero javascript and react
     funds: 2% (1.44 XMR)
