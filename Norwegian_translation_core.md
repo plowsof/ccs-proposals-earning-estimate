@@ -1,19 +1,17 @@
 ---
-layout: wip
+layout: cp
 title: "Norwegian translation of webplate, footers, nav. menu"
 author: Chris Avis
-date: February 24, 2020
+date: 24 February 2020
 amount: 6
 milestones:
   - name: Translation of all words
     funds: 6
-    done:
-    status: unfinished
+    done: 30 September 2020
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 8 October 2020
+    amount: 6
 ---
 
 This is a proposal to translate the core part of the website (7615 words), navigation menu (147 words), footer 1 (142 words) & 
