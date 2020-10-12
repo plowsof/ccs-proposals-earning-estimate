@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "TheCharlatan: VPS funding for reproducible gui builds"
 author: TheCharlatan
 date: 22 January 2020
