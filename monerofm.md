@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Monero FM (community run radio project)
 author: rehrar and needmoney90
 date: September 7, 2020
