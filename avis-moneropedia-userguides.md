@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "Norwegian translation of User guides and Moneropedia"
 author: Chris Avis
 date: August 4, 2020
