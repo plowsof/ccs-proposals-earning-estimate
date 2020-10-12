@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "tipxmr.live - a non-custodial livestream donation service for OBS"
 author: AlexAnarcho and hundehausen
 date: September 16, 2020
