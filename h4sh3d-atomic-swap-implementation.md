@@ -1,4 +1,4 @@
-```
+---
 layout: fr
 title: Monero Atomic Swaps implementation funding
 author: h4sh3d et al.
@@ -102,7 +102,7 @@ payouts:
     amount:
   - date:
     amount:
-```
+---
 
 :warning: *DIFFERENT CCS RULES ARE IN PLACE FOR THIS PROPOSAL! PLEASE READ THE FOLLOWING!* :warning:
 
