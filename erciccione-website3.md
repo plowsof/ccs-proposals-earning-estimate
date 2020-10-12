@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "ErCiccione: 3 more months part time work on Getmonero.org (October-December)"
 author: erciccione
 date: 11 October 2020
