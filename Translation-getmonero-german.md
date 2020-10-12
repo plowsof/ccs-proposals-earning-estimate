@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Translation of the Moneropedia and User Guides into German
 author: Wobole
 date: September 10, 2020
