@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Create Monero educational content in Spanish
 author: Lovera
 date: October 01, 2020
