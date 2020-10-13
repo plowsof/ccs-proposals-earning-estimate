@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "Core website translation to Serbian"
 author: readifugly
 date: September 19, 2020
