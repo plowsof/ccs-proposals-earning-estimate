@@ -1,17 +1,17 @@
 ---
-layout: fr
+layout: cp
 title: Sarang Vacation Days
 author: The Core Team
 date: October 8, 2020
 amount: 200
 milestones:
   - name: Release the funds to sarang
-    funds:
-    done:
-    status: unfinished
+    funds: 100%
+    done: 14 October 2020
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: 14 October 2020
+    amount: 200.4
 ---
 
 To the Monero Community,
