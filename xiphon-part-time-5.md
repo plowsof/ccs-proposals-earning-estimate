@@ -5,21 +5,21 @@ author: xiphon
 date: 20 Jul 2020
 amount: 215
 milestones:
-  - name: Aug
-    funds: 33% (71 XMR)
-    done:
-    status: unfinished
   - name: Sep
     funds: 33% (71 XMR)
+    done: 30 September 2020
+    status: finished
+  - name: Oct
+    funds: 33% (71 XMR)
     done:
     status: unfinished
-  - name: Oct
+  - name: Nov
     funds: 33% (73 XMR)
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 15 October 2020
+    amount: 71
   - date:
     amount:
   - date:
