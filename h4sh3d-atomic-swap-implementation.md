@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Monero Atomic Swaps implementation funding
 author: h4sh3d et al.
 date: September, 2020
