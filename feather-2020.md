@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Feather wallet GUI development
 author: Feather team
 date: 1 September 2020
@@ -11,13 +11,13 @@ milestones:
     status: finished
   - name: Alpha release
     funds: 94
-    done:
-    status: unfinished
+    done: 20 October 2020
+    status: finished
 payouts:
   - date: 3 September 2020
     amount: 94
-  - date:
-    amount:
+  - date: 23 October 2020
+    amount: 94
 ---
 
 # What
