@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: Oct
     funds: 33% (71 XMR)
-    done:
-    status: unfinished
+    done: 31 October 2020
+    status: finished
   - name: Nov
     funds: 33% (73 XMR)
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 15 October 2020
     amount: 71
-  - date:
-    amount:
+  - date: 4 November 2020
+    amount: 71
   - date:
     amount:
 ---
