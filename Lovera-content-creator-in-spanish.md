@@ -7,19 +7,17 @@ amount: 15
 milestones:
   - name: Milestone 1 - 7 Educational articles
     funds: 5 XMR
-    done:
-    status: unfinished
+    done: 4 November 2020
+    status: finished
   - name: Milestone 2 - 5 Educational video and news translation
     funds: 10 XMR
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 6 November 2020
+    amount: 5
   - date:
     amount:    
-  - date:
-    amount:
 ---
 Who?
 I'm Lovera, creator of satoshilov.com
