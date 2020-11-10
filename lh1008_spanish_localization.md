@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Spanish Localization
 author: lh1008
 date: 22 Aug 2020
@@ -11,13 +11,13 @@ milestones:
     status: finished
   - name: Milestone 2 - 40 hours of work
     funds: 5
-    done:
-    status: unfinished
+    done: 31 October 2020
+    status: finished
 payouts:
   - date: 5 October 2020
     amount: 5
-  - date:
-    amount:
+  - date: 9 November 2020
+    amount: 5
 ---
 
 Hello everyone,
