@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Compilation time reduction and housekeeping
 author: mj
 date: April 15, 2020
