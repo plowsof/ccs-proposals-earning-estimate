@@ -16,24 +16,24 @@ milestones:
   - name: October
     funds: 16.66% (XMR 16.3)
     done: 31 October 2020
-    status: unfinished
+    status: finished
   - name: November
     funds: 16.66% (XMR 16.3)
-    done: 30 November 2020
+    done: 
     status: unfinished
   - name: December
     funds: 16.66% (XMR 16.3)
-    done: 31 December 2020
+    done: 
     status: unfinished
   - name: January
     funds: 16.66% (XMR 16.3)
-    done: 31 January 2021
+    done: 
     status: unfinished
 payouts:
   - date: 5 October 2020
     amount: 32.6
-  - date:
-    amount:
+  - date: 11 November 2020
+    amount: 16.3
   - date:
     amount:
   - date:
