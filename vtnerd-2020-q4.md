@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: vtnerd Full-Time 2020 Q4
 author: Lee Clagett (vtnerd)
 date: October 15, 2020
