@@ -1,6 +1,6 @@
 ---
 layout: wip
-title: "v1docq47: video creation / translations into russian (august 2020 - january 2021)"
+title: v1docq47: video creation / translations into russian (august 2020 - january 2021)
 author: v1docq47
 date: January 31, 2021
 amount: 97.8
