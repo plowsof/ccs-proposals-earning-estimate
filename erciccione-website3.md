@@ -7,8 +7,8 @@ amount: 91
 milestones:
   - name: October
     funds: 30
-    done: 
-    status: unfinished
+    done: 31 October 2020
+    status: finished
   - name: November
     funds: 30
     done: 
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 16 November 2020
+    amount: 30
 
 ---
 
