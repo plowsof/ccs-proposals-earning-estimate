@@ -11,19 +11,19 @@ milestones:
     status: finished
   - name: Milestone 2
     funds: 36.67
-    done:
-    status: unfinished
+    done: 1 November 2020
+    status: finished
   - name: Milestone 3
     funds: 36.67
     done:
     status: unfinished
 payouts:
   - date: 4 May 2020
-    amount: 36.68
+    amount: 36.66
+  - date: 23 November 2020
+    amount: 36.67
   - date: TBD
-    amount: 36.68
-  - date: TBD
-    amount: 36.68
+    amount: 36.67
 ---
 
 A big thanks again to everyone who supported Round 2 of funding for Monero Outreach! Final report can be found [here](https://www.reddit.com/r/Monero/comments/bonpt3/monero_outreach_round_2_ccs_final_report_see_what/). 
