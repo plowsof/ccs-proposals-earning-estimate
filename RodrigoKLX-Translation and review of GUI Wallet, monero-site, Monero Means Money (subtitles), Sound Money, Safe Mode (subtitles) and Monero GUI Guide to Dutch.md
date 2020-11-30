@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: ideas
 title: Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles), Sound Money, Safe Mode (subtitles) and Monero GUI Guide to Dutch.
 author: RodrigoKLX
 date: November 11, 2020
