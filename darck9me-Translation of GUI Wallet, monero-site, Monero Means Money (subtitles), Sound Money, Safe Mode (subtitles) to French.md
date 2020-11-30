@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout:
 title: Translation of GUI Wallet, monero-site, Monero Means Money (subtitles), Sound Money, Safe Mode (subtitles) to French.
 author: darck9me
 date: November 17, 2020
