@@ -20,6 +20,8 @@ payouts:
     amount:
 ---
 
+# Proposal put on hold pending investigation
+
 # About this Proposal
 
 Translation and review of the [GUI Wallet](https://translate.getmonero.org/projects/monero/gui-wallet/), [monero-site](https://translate.getmonero.org/projects/getmonero/monero-site/), [Monero Means Money (subtitles)](https://translate.getmonero.org/projects/community/monero-means-money/) and [Sound Money, Safe Mode (subtitles)](https://translate.getmonero.org/projects/community/sound-money-safe-mode-subtitles/) to Italian.
