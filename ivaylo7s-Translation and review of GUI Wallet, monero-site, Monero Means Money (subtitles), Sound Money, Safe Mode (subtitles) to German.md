@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: ideas
 title: Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles), Sound Money, Safe Mode (subtitles) to German.
 author: georgeggot
 date: November 17, 2020
@@ -19,6 +19,8 @@ payouts:
   - date:
     amount:
 ---
+
+# Proposal put on hold pending investigation
 
 # About this Proposal
 
