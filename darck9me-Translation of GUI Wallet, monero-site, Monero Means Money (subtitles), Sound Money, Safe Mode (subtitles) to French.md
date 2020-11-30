@@ -25,6 +25,7 @@ payouts:
   - date:
     amount:
 ---
+# Proposal put on hold pending investigation
 
 # About this Proposal
 
