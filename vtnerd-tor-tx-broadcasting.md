@@ -15,8 +15,8 @@ milestones:
     status: finished
   - name: Tor Hidden Service Seed Nodes
     funds: 2.00 XMR
-    done:
-    status: unfinished
+    done: 29 November 2020
+    status: finished
 payouts:
   - date: 25 June 2019
     amount: 60
