@@ -7,15 +7,15 @@ amount: 28.5
 milestones:
   - name: Translation of the Moneropedia
     funds: 8.6
-    done:
-    status: unfinished
+    done: 11 December 2020
+    status: finished
   - name: Translation of the User Guides
     funds: 19.9
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 12 December 2020
+    amount: 8.6
   - date:
     amount:
 ---
