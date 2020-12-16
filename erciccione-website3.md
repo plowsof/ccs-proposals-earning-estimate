@@ -11,14 +11,16 @@ milestones:
     status: finished
   - name: November
     funds: 30
-    done: 
-    status: unfinished
+    done: 30 November 2020
+    status: finished
   - name: December
     funds: 31
     done:
     status: unfinished
 payouts:
   - date: 16 November 2020
+    amount: 30
+  - date: 16 December 2020
     amount: 30
 
 ---
