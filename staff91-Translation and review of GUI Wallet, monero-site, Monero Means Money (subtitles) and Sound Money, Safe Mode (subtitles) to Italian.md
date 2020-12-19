@@ -1,5 +1,5 @@
 ---
-layout: ideas
+layout: wip
 title: Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles) to Italian.
 author: staff91
 date: November 18, 2020
@@ -19,8 +19,6 @@ payouts:
   - date:
     amount:
 ---
-
-# Proposal put on hold pending investigation
 
 # About this Proposal
 
