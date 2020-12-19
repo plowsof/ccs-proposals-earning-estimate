@@ -3,18 +3,18 @@ layout: fr
 title: Translation of GUI Wallet, monero-site, Monero Means Money (subtitles), Sound Money, Safe Mode (subtitles) to Polish.
 author: janowitz
 date: November 30, 2020
-amount: 28
+amount: 22
 milestones:
   - name: Milestone 1 - Completion of GUI Wallet, monero-site Translation to Polish
-    funds: 5 XMR
+    funds: 4 XMR
     done:
     status: unfinished
   - name: Milestone 2 - Completion of Monero Means Money (subtitles) Translation to Polish
-    funds: 11 XMR
+    funds: 9 XMR
     done:
     status: unfinished
   - name: Milestone 3 - Completion of Sound Money, Safe Mode (subtitles) Translation to Polish
-    funds: 12 XMR
+    funds: 9 XMR
     done:
     status: unfinished
 payouts:
