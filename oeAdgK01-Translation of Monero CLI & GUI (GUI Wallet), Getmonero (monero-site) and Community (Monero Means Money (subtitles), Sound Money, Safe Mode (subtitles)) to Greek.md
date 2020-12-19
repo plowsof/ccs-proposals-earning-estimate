@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Translation of Monero GUI Wallet, Getmonero (monero-site), Community (Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles)) to Greek
 author: Donald A. Iljazi
 date: November 9, 2020
