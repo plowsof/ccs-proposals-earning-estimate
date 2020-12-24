@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Translation of GUI Wallet, monero-site, Monero Means Money (subtitles), Sound Money, Safe Mode (subtitles) to Polish.
 author: janowitz
 date: November 30, 2020
