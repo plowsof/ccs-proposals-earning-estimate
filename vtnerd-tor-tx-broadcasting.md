@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Broadcast Transactions over Tor Hidden Service
 author: Lee Clagett (vtnerd)
 date: 13 November 2018
@@ -20,10 +20,8 @@ milestones:
 payouts:
   - date: 25 June 2019
     amount: 60
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 24 December 2020
+    amount: 82
 ---
 
 ## What
