@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date: 
-    amount:
+  - date: 30 December 2020
+    amount: 74
   - date:
     amount:
   - date:
