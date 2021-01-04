@@ -7,16 +7,16 @@ amount: 52.9
 milestones:
   - name: ccache for CMake (demo)
     funds: 0 XMR
-    done:
+    done: 31 December 2020
     status: finished
   - name: Dynamic linkage
     funds: 2% (0.9 XMR)
-    done:
-    status: unfinished
+    done: 31 December 2020
+    status: finished
   - name: Automated reports of ClangBuildAnalyser and iwyy
     funds: 4% (2 XMR)
-    done:
-    status: unfinished
+    done: 31 December 2020
+    status: finished
   - name: Automated reports of Valgrind (test bottlenecks)
     funds: 2% (1 XMR)
     done:
@@ -58,8 +58,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 4 January 2021
+    amount: 2.9
   - date:
     amount:
   - date:
