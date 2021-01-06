@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Create Monero educational content in Spanish
 author: Lovera
 date: October 01, 2020
@@ -11,13 +11,13 @@ milestones:
     status: finished
   - name: Milestone 2 - 5 Educational video and news translation
     funds: 10 XMR
-    done:
-    status: unfinished
+    done: 4 January 2021
+    status: finished
 payouts:
   - date: 6 November 2020
     amount: 5
-  - date:
-    amount:    
+  - date: 6 January 2021
+    amount: 10
 ---
 Who?
 I'm Lovera, creator of satoshilov.com
