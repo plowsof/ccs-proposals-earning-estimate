@@ -3,10 +3,10 @@ layout: fr
 title: "Bulletproofs+ Audit for Monero"
 author: Suyash Bagad
 date: 22 December 2020
-amount: 99 
+amount: 90.3 
 milestones:
   - name: Audit Report of Bulletproofs+ Code and the E-print paper 
-    funds: 100% (99 XMR)
+    funds: 100% (90.3 XMR)
     done: 
     status: unfinished
 payouts:
@@ -38,7 +38,7 @@ Note: We are the same team who had first [proposed](https://repo.getmonero.org/m
 
 ### Funding Note
 
-We estimate to complete the project in about 1 month in two steps: (i) Full peer review of the paper, (ii) Complete audit of the implementation in form of a well-compiled report. We need a funding of XMR 99 (equivalent of $15,000) as per 7-day average price (1 XMR = $151.80) on Kraken. This project will include both Suyash and Omer working as well as academic advisory from [Prof. Claudio Orlandi](https://users-cs.au.dk/orlandi/). 
+We estimate to complete the project in about 1 month in two steps: (i) Full peer review of the paper, (ii) Complete audit of the implementation in form of a well-compiled report. We need a funding of XMR 90.3 (equivalent of $15,000) as per 7-day average price (1 XMR = $166.13) on Kraken. This project will include both Suyash and Omer working as well as academic advisory from [Prof. Claudio Orlandi](https://users-cs.au.dk/orlandi/). 
 
 
 [^1]: Dr. Sarang's blog on Bulletproofs+. Available: https://gist.github.com/SarangNoether/ee6367fa8b5500120b2a4dbe23b71694
