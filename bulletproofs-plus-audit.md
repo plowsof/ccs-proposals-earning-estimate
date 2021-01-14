@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "Bulletproofs+ Audit for Monero"
 author: Suyash Bagad
 date: 22 December 2020
