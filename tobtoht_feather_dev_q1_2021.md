@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "Continued Feather Wallet development (Q1 2021)"
 author: tobtoht
 date: 4 January 2021
