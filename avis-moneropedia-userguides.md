@@ -7,15 +7,15 @@ amount: 29.4
 milestones:
   - name: Moneropedia
     funds: 8.7
-    done:
-    status: unfinished
+    done: 15 December 2020
+    status: finished
   - name: User guides
     funds: 20.7
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 20 January 2020
+    amount: 8.7
   - date:
     amount:
 ---
