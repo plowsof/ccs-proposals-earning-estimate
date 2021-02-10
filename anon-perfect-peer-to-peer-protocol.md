@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "anon: perfect peer to peer protocol from bottom to top"
 author: anon
 date: 24 Jan 2021
