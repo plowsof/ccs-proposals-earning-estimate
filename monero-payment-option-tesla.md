@@ -6,7 +6,7 @@ date: February 9, 2021
 amount: 890
 milestones:
   - name: Payment for Monero public payment integration promise
-    Funds: 890
+    funds: 890
     done:
     status: unfinished
 payouts:
