@@ -1,8 +1,8 @@
 ---
 layout: fr
-Title: Proposal to Add Monero (XMR) as a Payment Option on the Tesla Website
-Author: Natoshi Sakamoto
-Date: 2021-02-09
+title: Proposal to Add Monero (XMR) as a Payment Option on the Tesla Website
+author: Natoshi Sakamoto
+date: 2021-02-09
 amount: 890
 milestones:
   - name: Payment for Monero public payment integration promise
