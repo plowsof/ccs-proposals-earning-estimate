@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "Bulletproofs+ Audit for Monero"
 author: Suyash Bagad
 date: 22 December 2020
@@ -7,11 +7,11 @@ amount: 90.3
 milestones:
   - name: Audit Report of Bulletproofs+ Code and the E-print paper 
     funds: 100% (90.3 XMR)
-    done: 
-    status: unfinished
+    done: 13 February 2021
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: 14 February 2021
+    amount: 90.3
 ---
 
 ### Overview
