@@ -10,8 +10,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 14 February 2021
+    amount: 1.5
   - date:
     amount:
 ---
