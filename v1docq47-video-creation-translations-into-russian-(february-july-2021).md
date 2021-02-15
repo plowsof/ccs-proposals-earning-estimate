@@ -7,27 +7,27 @@ amount: 54
 milestones:
   - name: February
     funds: 16.66% (9 XMR)
-    done: February 28, 2021
+    done: 
     status: unfinished
   - name: March
     funds: 16.66% (9 XMR)
-    done: March 31, 2021
+    done: 
     status: unfinished
   - name: April
     funds: 16.66% (9 XMR)
-    done: April 30, 2021
+    done: 
     status: unfinished
   - name: May
     funds: 16.66% (9 XMR)
-    done: May 31, 2021
+    done: 
     status: unfinished
   - name: June
     funds: 16.66% (9 XMR)
-    done: June 30, 2021
+    done: 
     status: unfinished
   - name: July
     funds: 16.66% (9 XMR)
-    done: July 31, 2021
+    done: 
     status: unfinished
 payouts:
   - date:
