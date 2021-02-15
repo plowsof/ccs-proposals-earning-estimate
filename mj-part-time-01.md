@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: mj part time coding (3 months)
 author: mj
 date: 10 Jan 2021
