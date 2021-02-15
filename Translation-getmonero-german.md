@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Translation of the Moneropedia and User Guides into German
 author: Wobole
 date: September 10, 2020
@@ -11,13 +11,13 @@ milestones:
     status: finished
   - name: Translation of the User Guides
     funds: 19.9
-    done:
-    status: unfinished
+    done: 8 February 2021
+    status: finished
 payouts:
   - date: 12 December 2020
     amount: 8.6
-  - date:
-    amount:
+  - date: 15 February 2021
+    amount: 19.9
 ---
 
 
