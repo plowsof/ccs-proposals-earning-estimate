@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: v1docq47 - video creation and translations into russian (february - july 2021)
 author: v1docq47
 date: July 31, 2021
