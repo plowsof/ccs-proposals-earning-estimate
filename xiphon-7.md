@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: xiphon full-time coding (3 months)
 author: xiphon
 date: 6 Feb 2021
