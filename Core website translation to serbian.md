@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "Core website translation to Serbian"
 author: readifugly
 date: September 19, 2020
@@ -7,13 +7,13 @@ amount: 3
 milestones:
   - name: Translation and checking of all words
     funds: 3
-    done:
-    status: unfinished
+    done: 16 February 2021
+    status: finished
 payouts:
   - date: 14 February 2021
     amount: 1.5
-  - date:
-    amount:
+  - date: 16 February 2021
+    amount: 1.5
 ---
 This is a proposal to translate the core part of the website and filtering all the faulty translations out. By trasnlating this to Serbian it will have a slight impact to the bigger adaptation of Monero in Balkan.
 
