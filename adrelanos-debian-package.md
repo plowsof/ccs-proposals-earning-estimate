@@ -7,8 +7,8 @@ date: 15 April 2020
 milestones:
   - name: "Monero Debian Package Initial Packaging"
     funds: 50% (37 XMR)
-    done:
-    status: unfinished
+    done: 31 December 2020
+    status: finished
   - name: "Monero Debian Package Maintenance 2021"
     funds: 25% (18 XMR)
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 18 February 2021
+    amount: 37
   - date:
     amount:
   - date:
