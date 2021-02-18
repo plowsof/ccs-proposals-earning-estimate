@@ -7,8 +7,8 @@ amount: 71
 milestones:
   - name: January
     funds: 24
-    done: 
-    status: unfinished
+    done: 31 Janauary 2021
+    status: finished
   - name: February
     funds: 23
     done: 
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 17 February 2021
+    amount: 24
   - date:
     amount:
 
