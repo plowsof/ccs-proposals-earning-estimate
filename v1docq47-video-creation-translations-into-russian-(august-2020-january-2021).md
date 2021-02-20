@@ -27,8 +27,8 @@ milestones:
     status: finished
   - name: January
     funds: 16.66% (XMR 16.3)
-    done: 
-    status: unfinished
+    done: 31 January 2021
+    status: finished
 payouts:
   - date: 5 October 2020
     amount: 32.6
@@ -38,10 +38,8 @@ payouts:
     amount: 16.3
   - date: 7 January 2021
     amount: 16.3
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 20 February 2021
+    amount: 16.3
 ---
 
 Hello, my dear followers, colleagues, and friends!  
