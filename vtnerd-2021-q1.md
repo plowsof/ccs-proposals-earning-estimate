@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: vtnerd Full-Time 2021 Q1
 author: Lee Clagett (vtnerd)
 date: February 17, 2021
