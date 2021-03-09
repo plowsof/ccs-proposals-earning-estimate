@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Bulletproofs+ Audit 2
 author: Justin Ehrenhofer
 date: 28 February 2021
