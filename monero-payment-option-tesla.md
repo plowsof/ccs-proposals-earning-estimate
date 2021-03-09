@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: cp
 title: "Proposal to Add Monero (XMR) as a Payment Option on the Tesla Website"
 author: Natoshi Sakamoto
 date: February 9, 2021
@@ -10,8 +10,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 9 March 2021
+    amount: 890 (refund)
 ---
 
 
