@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: p
 title: Bulletproofs+ Audit 2
 author: Justin Ehrenhofer
 date: 28 February 2021
@@ -7,17 +7,11 @@ amount: 67
 milestones:
   - name: Bulletproofs+ Final Report
     funds: 67
-    done:
-    status: unfinished
-  - name:
-    funds:
-    done:
-    status: unfinished
+    done: 22 March 2021
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 24 March 2021
+    amount: 67
 ---
 
 I am opening this CCS proposal on behalf of JP Aumasson for a second audit of Bulletproofs+. Payout will be to him directly in XMR. Bulletproofs+ make Monero transactions faster and more efficient.
