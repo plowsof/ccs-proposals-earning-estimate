@@ -22,6 +22,8 @@ payouts:
     amount: 50
   - date: 24 March 2021
     amount: 42.5
+  - date: 29 March 2021
+    amount: 15
   - date:
     amount:
 ---
