@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: xiphon part-time coding (3 months)
 author: xiphon
 date: 1 Nov 2020
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: Feb
     funds: 33% (54 XMR)
-    done:
-    status: unfinished
+    done: 29 March 2021
+    status: finished
 payouts:
   - date: 25 January 2021
     amount: 54
   - date: 18 February 2021
     amount: 54
-  - date:
-    amount:
+  - date: 30 March 2021
+    amount: 54
 ---
 
 # What
