@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "Norwegian translation of User guides and Moneropedia"
 author: Chris Avis
 date: August 4, 2020
@@ -11,13 +11,13 @@ milestones:
     status: finished
   - name: User guides
     funds: 20.7
-    done:
-    status: unfinished
+    done: 31 March 2021
+    status: finished
 payouts:
   - date: 20 January 2020
     amount: 8.7
-  - date:
-    amount:
+  - date: 1 April 2021
+    amount: 20.7
 ---
 
 This is a proposal to translate Moneropedia (10157 words) & the User guides (24074 words), amounting to 34231 words.
