@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Add Monero to TxStreet
 author: txstreet
 date: March 10, 2021
