@@ -2,17 +2,17 @@
 layout: wip
 title: v1docq47 - video creation and translations into russian (february - july 2021)
 author: v1docq47
-date: July 31, 2021
+date: 31 January 2021
 amount: 54
 milestones:
   - name: February
     funds: 16.66% (9 XMR)
-    done: 
-    status: unfinished
+    done: 28 February 2021
+    status: finished
   - name: March
     funds: 16.66% (9 XMR)
-    done: 
-    status: unfinished
+    done: 31 March 2021
+    status: finished
   - name: April
     funds: 16.66% (9 XMR)
     done: 
@@ -30,8 +30,8 @@ milestones:
     done: 
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 12 April 2021
+    amount: 18
   - date:
     amount:
   - date:
