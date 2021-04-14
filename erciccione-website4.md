@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "ErCiccione: 3 more months part time work on Getmonero.org (January-March)"
 author: erciccione
 date: 11 January 2021
@@ -11,17 +11,17 @@ milestones:
     status: finished
   - name: February
     funds: 23
-    done: 
-    status: unfinished
+    done: 28 February 2021
+    status: finished
   - name: March
     funds: 24
-    done:
-    status: unfinished
+    done: 31 March 2021
+    status: finished
 payouts:
   - date: 17 February 2021
     amount: 24
-  - date:
-    amount:
+  - date: 47
+    amount: 14 March 2021
 
 ---
 
