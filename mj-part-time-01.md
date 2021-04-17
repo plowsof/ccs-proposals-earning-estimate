@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: 2nd-month
     funds: 33% (21 XMR)
-    done:
-    status: unfinished
+    done: 14 April 2021
+    status: finished
   - name: 3rd-month
     funds: 33% (22 XMR)
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 15 March 2021
     amount: 21
-  - date:
-    amount:
+  - date: 17 April 2021
+    amount: 21
 ---
 
 
