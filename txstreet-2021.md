@@ -7,8 +7,8 @@ amount: 38
 milestones:
   - name: Monero street complete and live
     funds: 20
-    done:
-    status: unfinished
+    done: 20 April 2021
+    status: finished
   - name: Advertising for 3 months
     funds: 4.5
     done:
@@ -26,8 +26,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date: 
-    amount: 
+  - date: 22 April 2021
+    amount: 20
 ---
 ​
 Hello! My name is Tom and I run txstreet.com. (Proof - http://out.txstreet.com/getmonero). I was recommended the CCS by a member of the Monero community to fund the addition of Monero to TxStreet. Because the website remains closed source for now, this proposal will be framed as an advertising campaign.
