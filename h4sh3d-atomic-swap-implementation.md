@@ -7,8 +7,8 @@ amount: 2727
 milestones:
   - name: M1.A.1 User-facing
     funds: 7% (190.89 XMR)
-    done:
-    status: unfinished
+    done: 31 March 2021
+    status: finished
   - name: M1.A.2 Service internals
     funds: 3.25% (88.6275 XMR)
     done:
@@ -70,8 +70,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 23 April 2021
+    amount: 190.89
   - date:
     amount:
   - date:
