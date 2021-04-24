@@ -5,11 +5,11 @@ author: michaelizer
 date: November 27, 2020
 amount: 8
 milestones:
-  - name: Completion of Sound Money, Safe Mode (subtitles) translation into Spanish
+  - name: "Completion of Sound Money, Safe Mode (subtitles) translation into Spanish"
     funds: 4
     done:
     status: unfinished
-  - name: Completion of Monero Means Money (subtitles) translation into Spanish
+  - name: "Completion of Monero Means Money (subtitles) translation into Spanish"
     funds: 4
     done:
     status: unfinished
