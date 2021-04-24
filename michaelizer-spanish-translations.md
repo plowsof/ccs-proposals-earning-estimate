@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: "Subtitle translations for the videos "Sound Money, Safe Mode" and "Monero Means Money" into Spanish"
+title: "Subtitle translations for the videos Sound Money, Safe Mode and Monero Means Money into Spanish"
 author: michaelizer
 date: November 27, 2020
 amount: 8
