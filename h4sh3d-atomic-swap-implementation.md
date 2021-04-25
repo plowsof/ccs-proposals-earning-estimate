@@ -11,20 +11,20 @@ milestones:
     status: finished
   - name: M1.A.2 Service internals
     funds: 3.25% (88.6275 XMR)
-    done:
-    status: unfinished
+    done: 31 March 2021
+    status: finished
   - name: M1.B.1 External specification of swap-lib
     funds: 3.25% (88.6275 XMR)
-    done:
-    status: unfinished
+    done: 31 March 2021
+    status: finished
   - name: M1.B.2 Internal specification of swap-lib
     funds: 3.25% (88.6275 XMR)
-    done:
-    status: unfinished
+    done: 31 March 2021
+    status: finished
   - name: M1.C Specification of chain-syncer
     funds: 3.25% (88.6275 XMR)
-    done:
-    status: unfinished
+    done: 31 March 2021
+    status: finished
   - name: M2.A. Cryptographic libraries
     funds: 3.375% (92.03625 XMR)
     done:
@@ -72,8 +72,8 @@ milestones:
 payouts:
   - date: 23 April 2021
     amount: 190.89
-  - date:
-    amount:
+  - date: 25 April 2021
+    amount: 354.51
   - date:
     amount:
   - date:
