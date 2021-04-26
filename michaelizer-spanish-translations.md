@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "Subtitle translations for the videos Sound Money, Safe Mode and Monero Means Money into Spanish"
 author: michaelizer
 date: November 27, 2020
@@ -7,15 +7,15 @@ amount: 8
 milestones:
   - name: "Completion of Sound Money, Safe Mode (subtitles) translation into Spanish"
     funds: 4
-    done:
-    status: unfinished
+    done: 31 March 2021
+    status: finished
   - name: "Completion of Monero Means Money (subtitles) translation into Spanish"
     funds: 4
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 26 April 2021
+    amount: 4
   - date:
     amount:
 ---
