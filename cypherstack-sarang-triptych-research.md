@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Triptych research and optimizations
 author: Cypher Stack
 date: April 8, 2021
