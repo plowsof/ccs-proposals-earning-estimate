@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Funding for The Monero Moon Newsletter
 author: John Foss
 date: April 22, 2021
