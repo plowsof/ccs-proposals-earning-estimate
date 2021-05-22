@@ -7,8 +7,8 @@ amount: 76
 milestones:
   - name: April
     funds: 33% (26 XMR)
-    done:
-    status: unfinished
+    done: 18 May 2021
+    status: finished
   - name: May
     funds: 33% (25 XMR)
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 21 May 2021
+    amount: 26
   - date:
     amount:
   - date:
