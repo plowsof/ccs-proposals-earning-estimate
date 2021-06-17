@@ -19,23 +19,11 @@ milestones:
     status: finished
   - name: Automated reports of Valgrind (test bottlenecks)
     funds: 2% (1 XMR)
-    done:
-    status: unfinished  
+    done: 20 May 2021
+    status: finished  
   - name: Optional precompiled headers for CMake 3.16
     funds: 4% (2 XMR)
-    done:
-    status: unfinished
-  - name: Moving boost headers out of own headers 1/3
-    funds: 9% (5 XMR)
-    done:
-    status: unfinished
-  - name: Moving boost headers out of own headers 2/3
-    funds: 19% (10 XMR)
-    done:
-    status: unfinished
-  - name: Moving boost headers out of own headers 3/3
-    funds: 19% (10 XMR)
-    done:
+    done: 20 May 2021
     status: unfinished
   - name: Forward declarations of own classes + interfaces
     funds: 15% (8 XMR)
@@ -47,8 +35,8 @@ milestones:
     status: unfinished
   - name: Parallel tests (ctest -jN)
     funds: 9% (5 XMR)
-    done:
-    status: unfinished
+    done: 20 May 2021
+    status: finished
   - name: Static methods of the wallet2
     funds: 8% (4 XMR)
     done:
@@ -57,11 +45,15 @@ milestones:
     funds: 6% (3 XMR)
     done:
     status: unfinished
+  - name: Miscellaneous hourly work @ $40/hr (23.4 XMR remaining)
+    funds: 47% (25 XMR)
+    done:
+    status: unfinished
 payouts:
   - date: 4 January 2021
     amount: 2.9
-  - date:
-    amount:
+  - date: 17 June 2021
+    amount: 9.6
   - date:
     amount:
   - date:
