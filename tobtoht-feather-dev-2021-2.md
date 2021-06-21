@@ -7,8 +7,8 @@ amount: 91.5
 milestones:
   - name: First month 
     funds: 33% (30.5 XMR)
-    done: 
-    status: unfinished
+    done: 16 June 2021
+    status: finished
   - name: Second month
     funds: 33% (30.5 XMR)
     done: 
@@ -18,8 +18,8 @@ milestones:
     done: 
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 21 June 2021
+    amount: 30.5
   - date:
     amount:
   - date:
