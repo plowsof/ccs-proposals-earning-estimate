@@ -7,8 +7,8 @@ amount: 240.12021
 milestones:
   - name: Feb.
     funds: 33% (80.04007 XMR)
-    done:
-    status: unfinished
+    done: 10 July 2021
+    status: finished
   - name: Mar.
     funds: 33% (80.04007 XMR)
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 11 July 2021
+    amount: 80.04007
   - date:
     amount:
   - date:
