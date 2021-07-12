@@ -7,22 +7,19 @@ amount: 37
 milestones:
   - name: April
     funds: 12
-    done: 
-    status: unfinished
+    done: 30 April 2021
+    status: finished
   - name: May
     funds: 12
-    done: 
-    status: unfinished
+    done: 31 May 2021
+    status: finished
   - name: June
     funds: 13
-    done:
-    status: unfinished
+    done: 30 June 2021
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-
+  - date: 12 July 2021
+    amount: 37
 ---
 
 I'm proposing to continue my part time work on Getmonero.org (monero-site repository), 20 hours a week for 3 more months. This proposal includes 2 weeks of holiday.
