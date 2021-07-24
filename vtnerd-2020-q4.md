@@ -12,11 +12,11 @@ milestones:
   - name: Month 2 (320 hours)
     funds: 74 XMR
     done: 06 January 2021
-    status: unfinished
+    status: finished
   - name: Month 3 (480 hours)
     funds: 76.6 XMR
-    done:
-    status: unfinished
+    done: 15 February 2021
+    status: finished
 payouts:
   - date: 30 December 2020
     amount: 74
