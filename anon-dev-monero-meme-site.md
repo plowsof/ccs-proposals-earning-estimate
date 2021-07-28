@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Monero Meme Site | Get Tipped For Monero Memes
 author: AnonDev
 date: June 25th, 2021
