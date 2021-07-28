@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: Second 20 hours complete
     funds: 6.325
-    done:
-    status: unfinished
+    done: 28 July 2021
+    status: finished
   - name: Third 20 hours complete
     funds: 6.325
     done:
@@ -24,8 +24,8 @@ milestones:
 payouts:
   - date: 28 June 2021
     amount: 6.325
-  - date:
-    amount:
+  - date: 28 July 2021
+    amount: 6.325
   - date:
     amount:
   - date:
