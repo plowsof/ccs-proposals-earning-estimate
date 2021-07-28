@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title:  "Spanish translation and proofreading of the monero site, GUI/CLI wallets and User Guides"
 author: michaelizer
 date: May 28, 2021
