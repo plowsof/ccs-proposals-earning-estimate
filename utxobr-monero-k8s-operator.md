@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Monero Kubernetes Operator
 author: Ciro S. Costa (utxobr)
 date: May 3, 2021
