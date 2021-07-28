@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: rating89us part-time Monero GUI UI/UX development (3 months)
 author: rating89us
 date: 30 June 2021
