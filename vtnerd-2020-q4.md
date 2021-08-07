@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: vtnerd Full-Time 2020 Q4
 author: Lee Clagett (vtnerd)
 date: October 15, 2020
@@ -20,10 +20,8 @@ milestones:
 payouts:
   - date: 30 December 2020
     amount: 74
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 6 August 2021
+    amount: 150.6
 ---
 
 3-Months full-time software development on monero "core" components in 2020 q4 (through early 2021).
