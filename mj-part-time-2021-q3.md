@@ -2,13 +2,13 @@
 layout: wip
 title: mj part time coding Q3 2021
 author: mj
-date: Jun 30, 2021
+date: 30 June 2021
 amount: 45 XMR
 milestones:
   - name: Month 1
     funds: 15 XMR
-    done:
-    status: unfinished
+    done: 1 August 2021
+    status: finished
   - name: Month 2
     funds: 15 XMR
     done:
@@ -17,10 +17,9 @@ milestones:
     funds: 15 XMR
     done:
     status: unfinished
-  
 payouts:
-  - date:
-    amount:
+  - date: 6 August 2021
+    amount: 15
   - date:
     amount:
   - date:
@@ -28,7 +27,7 @@ payouts:
 ---
 
 
-﻿# What
+# What
 
 In the same way as previously, I propose to work for 3 months, spending additional 20 hours a week on Monero Core, specifically on topics such as:
 - CI fixes
