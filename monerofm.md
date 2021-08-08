@@ -1,21 +1,21 @@
 ---
 layout: wip
 title: Monero FM (community run radio project)
-author: rehrar and needmoney90
+author: ajs
 date: September 7, 2020
 amount: 35
 milestones:
-  - name: Initial payout for license acquisition
-    funds: 17.5
-    done:
-    status: unfinished
+  - name: Payout for license acquisition, initial expenses
+    funds: 17.569028
+    done: 7 August 2021
+    status: finished
   - name: Payout for music after licenses are secured
-    funds: 17.5
-    done:
+    funds: 17.430972
+    done: 
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 8 August 
+    amount: 17.569028
   - date:
     amount:
 ---
