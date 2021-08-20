@@ -7,19 +7,19 @@ amount: 44
 milestones:
   - name: July
     funds: 14.7
-    done: 
-    status: unfinished
+    done: 31 July 2021
+    status: finished
   - name: August
     funds: 14.7
     done: 
     status: unfinished
   - name: September
-    funds: 14.7
+    funds: 14.6
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 20 August 2021
+    amount: 14.7
   - date:
     amount:
 
