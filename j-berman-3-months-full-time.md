@@ -1,9 +1,9 @@
 ---
 layout: fr
-title: "j-berman full-time development (3 months)"
+title: j-berman full-time development (3 months)
 author: j-berman
 date: August 30, 2021
-amount: 
+amount: 78
 milestones:
   - name: Month 1
     funds: 33% (26 Monero)
