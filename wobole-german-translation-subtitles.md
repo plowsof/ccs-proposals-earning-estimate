@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: German translation of Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles)
 author: Wobole
 date: June 27, 2021
