@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: August
     funds: 33% (30 XMR)
-    done:
-    status: unfinished
+    done: 31 August 2021
+    status: finished
   - name: September
     funds: 33% (30 XMR)
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 17 August 2021
     amount: 30
-  - date:
-    amount:
+  - date: 15 September 2021
+    amount: 30
   - date:
     amount:
 ---
