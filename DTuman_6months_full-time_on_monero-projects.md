@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Douglas Tuman Working full-time on Monero Projects (6 months)
 author: Douglas Tuman
 date: August 30, 2021
