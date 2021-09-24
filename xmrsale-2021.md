@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: xmrSale Payment Processor Development
 author: xmrsale
 date: 10 August, 2021
