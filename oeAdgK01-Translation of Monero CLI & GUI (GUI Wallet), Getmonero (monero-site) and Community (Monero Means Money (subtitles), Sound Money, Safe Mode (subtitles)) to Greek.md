@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Translation of Monero GUI Wallet, Getmonero (monero-site), Community (Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles)) to Greek
 author: Donald A. Iljazi
 date: November 9, 2020
@@ -7,29 +7,23 @@ amount: 30
 milestones:
   - name: Milestone 1 - Completion of GUI Wallet Translation to Greek
     funds: 2 XMR
-    done:
-    status: unfinished
+    done: 11 November 2020
+    status: finished
   - name: Milestone 2 - Completion of monero-site Translation to Greek
     funds: 8 XMR
-    done:
-    status: unfinished
+    done: 25 November 2020
+    status: finished
   - name: Milestone 3 - Completion of Monero Means Money (subtitles) Translation to Greek
     funds: 10 XMR
-    done:
-    status: unfinished
+    done: 20 February 2021
+    status: finished
   - name: Milestone 4 - Completion of Sound Money, Safe Mode (subtitles) Translation to Greek
     funds: 10 XMR
-    done:
-    status: unfinished
+    done: 17 April 2021
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 2 October 2021
+    amount: 30
 ---
 
 # About this Proposal
