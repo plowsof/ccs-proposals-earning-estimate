@@ -64,7 +64,7 @@ I'm Justin Berman (I go by jberman in IRC). This is my first CCS proposal. I've 
 
 My past contributions to Monero include:
 
-- [Finding](https://github.com/monero-project/monero/issues/7807) and [patching](https://github.com/monero-project/monero/pull/7821) the issue where some very recent spents are linkable.
+- [Finding](https://github.com/monero-project/monero/issues/7807) and [patching](https://github.com/monero-project/monero/pull/7821) the issue where the core wallet code ignores very recent spendable outputs when selecting decoys.*
 - [Finding](https://github.com/monero-project/monero/pull/7798) and [patching](https://github.com/monero-project/monero/pull/7845) an issue where the wallet truncates integers in the decoy selection algorithm, which would have eventually caused wallets to construct transactions that would reveal real spent outputs 95%+ of the time if left unchanged.
 - Improving a protection measure [in the wallet](https://github.com/monero-project/monero/pull/7848).
 
@@ -89,3 +89,5 @@ To be clear, I am comfortable accepting the volatility, and am requesting a tota
 As of right now, I'd like to work over 40 hours a week on this proposal and don't expect to be compensated for doing so, but if I do decide to take on contract work, I may end up working less than 40 hours a week on this proposal. My promise is to work a total of at least 40 * 12 hours = 480 hours, even if it extends past November 21st, though I anticipate working more than 480 hours over the period.
 
 I'll keep track of my hours and provide bi-weekly updates for the first 2 months, then a single update for the final month.
+
+**(*) Correction: previously stated that some recently spent outputs were definitively linkable as a result of the discovered bug, which [was not the case](https://www.getmonero.org/2021/09/20/post-mortem-of-decoy-selection-bugs.html).**
