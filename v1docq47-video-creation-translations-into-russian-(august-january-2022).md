@@ -32,8 +32,8 @@ milestones:
 payouts:
   - date: 3 September 2021
     amount: 8
-  - date:
-    amount:
+  - date: 9 October 2021
+    amount: 8
   - date:
     amount:
   - date:
