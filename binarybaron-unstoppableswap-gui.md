@@ -5,26 +5,37 @@ author: binarybaron
 date: October 1, 2021
 amount: 52
 milestones:
-- name: Working Prototype
-  funds: 45
-  done:
-  status: unfinished
-- name: Tor & Rendezvous Protocol Integration
-  funds: 4
-  done:
-  status: unfinished
-- name: Infrastructure maintenance (October - November)
-  funds: 1
-  done:
-  status: unfinished
-- name: Infrastructure maintenance (December - January)
-  funds: 1
-  done:
-  status: unfinished
-- name: Infrastructure maintenance (February - March)
-  funds: 1
-  done:
-  status: unfinished
+  - name: Working Prototype of GUI
+    funds: 45
+    done:
+    status: unfinished
+  - name: Tor & Rendezvous Protocol Integration
+    funds: 4
+    done:
+    status: unfinished
+  - name: Infrastructure maintenance (October - November)
+    funds: 1
+    done:
+    status: unfinished
+  - name: Infrastructure maintenance (December - January)
+    funds: 1
+    done:
+    status: unfinished
+  - name: Infrastructure maintenance (February - March)
+    funds: 1
+    done:
+    status: unfinished
+payouts:
+  - date:
+    amount:
+  - date:
+    amount:
+  - date:
+    amount:
+  - date:
+    amount:
+  - date:
+    amount:
 ---
 
 # What
