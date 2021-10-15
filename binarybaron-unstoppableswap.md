@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: "XMR<>BTC Atomic Swaps Desktop GUI"
+title: "XMR BTC Atomic Swaps Desktop GUI"
 author: binarybaron
 date: October 1, 2021
 amount: 52
