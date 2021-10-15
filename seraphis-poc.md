@@ -7,7 +7,7 @@ amount: 92.6
 milestones:
   - name: PoC
     funds: 100% (92.6 XMR)
-    done: -
+    done: 
     status: unfinished
 payouts:
 ---
