@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Monero Observer news website
 author: escapethe3RA
 date: August 23, 2021
@@ -7,8 +7,8 @@ amount: 15.99
 milestones:
   - name: September
     funds: 5.33
-    done:
-    status: unfinished
+    done: 30 September 2021
+    status: finished
   - name: October
     funds: 5.33
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 15 October 2021
+    amount: 5.33
   - date:
     amount:
 ---
