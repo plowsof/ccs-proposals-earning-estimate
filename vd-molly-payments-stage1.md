@@ -5,25 +5,25 @@ author: valldrac
 date: Sep 27, 2021
 amount: 177
 milestones:
-  - name: Signal server deployment
-    funds: 12.5% (22 XMR)
-    done:
-    status: unfinished
-  - name: Monero payments
-    funds: 70.0% (124 XMR)
-    done:
-    status: unfinished
-  - name: E2E testing
-    funds: 17.5% (31 XMR)
-    done:
-    status: unfinished
+  - name: Signal server deployment
+    funds: 12.5% (22 XMR)
+    done:
+    status: unfinished
+  - name: Monero payments
+    funds: 70.0% (124 XMR)
+    done:
+    status: unfinished
+  - name: E2E testing
+    funds: 17.5% (31 XMR)
+    done:
+    status: unfinished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date:
+    amount:
+  - date:
+    amount:
+  - date:
+    amount:
 ---
 
 ### Summary
