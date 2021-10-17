@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "koe: Seraphis Proof-of-Concept"
 author: koe
 date: 1 October 2021
