@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Translation Coordinator for the Monero Project
 author: netrik182
 date: October 6, 2021
