@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: Decentralizing Molly.im to support Monero payments
+title: "Decentralizing Molly.im to support Monero payments"
 author: valldrac
 date: Sep 27, 2021
 amount: 177
