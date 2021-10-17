@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "XMR BTC Atomic Swaps Desktop GUI"
 author: binarybaron
 date: October 1, 2021
