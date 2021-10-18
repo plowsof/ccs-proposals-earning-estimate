@@ -7,8 +7,8 @@ amount: 85
 milestones:
   - name: Functioning Monero payment processor with docker image install and woocommerce store
     funds: 25
-    done:
-    status: unfinished
+    done: 2 October 2021
+    status: finished
   - name: Text tutorial docs and website with woocommerce demo store
     funds: 10
     done:
@@ -26,8 +26,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 18 October 2021
+    amount: 25
   - date:
     amount:
   - date:
