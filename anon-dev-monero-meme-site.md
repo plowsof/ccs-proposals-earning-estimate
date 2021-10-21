@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Monero Meme Site | Get Tipped For Monero Memes
 author: AnonDev
 date: June 25th, 2021
@@ -7,17 +7,15 @@ amount: 10 XMR
 milestones:
   - name: Finish Site and Launch it
     funds: 5 XMR
-    done:
-    status: unfinished
+    done: 18 August 2021
+    status: finished
   - name: Market Website and Get 1st 50 Memes
     funds: 5 XMR
-    done:
-    status: unfinished
+    done: 18 August 2021
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 21 October 2021
+    amount: 10
 ---
 
 My proposal is to develop, design, market, host, and maintain a website for Monero memes. Meme creators will be able to get tips for their hard work. Meme creators will finally be able to quit their jobs and meme full time. The project will be open source and full of memes.
