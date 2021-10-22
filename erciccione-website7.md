@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "ErCiccione: 3 more months part time work on Getmonero.org (flexible)"
 author: erciccione
 date: 11 October 2021
@@ -22,7 +22,6 @@ payouts:
     amount:
   - date:
     amount:
-
 ---
 
 I'm proposing to continue my part time work on Getmonero.org (monero-site repository), 20 hours a week for 3 more months worth of work. This is a flexible ccs proposal: The 3 months of work will not be done linearly as done up to now, but they will be distributed according to my availability. Note that i still want to complete the work on the moneropedia soon, so at least initially i will work as done until now and the flexible part of this ccs will start later on.
