@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "Decentralizing Molly.im to support Monero payments"
 author: valldrac
 date: Sep 27, 2021
