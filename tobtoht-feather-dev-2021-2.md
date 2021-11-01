@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "Continued Feather Wallet development (3 months)"
 author: tobtoht
 date: 12 May 2021
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: Third month
     funds: 33% (30.5 XMR)
-    done: 
-    status: unfinished
+    done: 30 October 2021
+    status: finished
 payouts:
   - date: 21 June 2021
     amount: 30.5
   - date: 11 July 2021
     amount: 30.5
-  - date:
-    amount:
+  - date: 1 November 2021
+    amount: 30.5
 ---
 
 ### What
