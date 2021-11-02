@@ -12,11 +12,11 @@ milestones:
   - name: September
     funds: 16.66% (8 XMR)
     done: September 30, 2021
-    status: unfinished
+    status: finished
   - name: October
     funds: 16.66% (8 XMR)
     done: October 31, 2021
-    status: unfinished
+    status: finished
   - name: November
     funds: 16.66% (8 XMR)
     done: November 31, 2021
@@ -34,8 +34,8 @@ payouts:
     amount: 8
   - date: 9 October 2021
     amount: 8
-  - date:
-    amount:
+  - date: 2 November 2021
+    amount: 8
   - date:
     amount:
   - date:
