@@ -1,4 +1,4 @@
-﻿---
+---
 layout: fr
 title: mj part time coding Q4 2021
 author: mj
@@ -17,7 +17,6 @@ milestones:
     funds: 24.0 XMR
     done:
     status: unfinished
-  
 payouts:
   - date:
     amount:
