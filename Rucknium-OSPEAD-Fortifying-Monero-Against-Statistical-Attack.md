@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: OSPEAD - Fortifying Monero Against Statistical Attack
 author: Rucknium
 date: September 25, 2021
