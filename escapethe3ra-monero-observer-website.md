@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: October
     funds: 5.33
-    done:
-    status: unfinished
+    done: 31 October 2021
+    status: finished
   - name: November
     funds: 5.33
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 15 October 2021
     amount: 5.33
-  - date:
-    amount:
+  - date: 16 November 2021
+    amount: 5.33
 ---
 
 # WHAT
