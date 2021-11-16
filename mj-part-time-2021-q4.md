@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: mj part time coding Q4 2021
 author: mj
 date: Oct 20, 2021
