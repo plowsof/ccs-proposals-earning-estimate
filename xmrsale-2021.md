@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: Text tutorial docs and website with woocommerce demo store
     funds: 10
-    done:
-    status: unfinished
+    done: 1 November 2021
+    status: finished
   - name: Zeronode mode viewkeys
     funds: 20
     done:
@@ -28,8 +28,8 @@ milestones:
 payouts:
   - date: 18 October 2021
     amount: 25
-  - date:
-    amount:
+  - date: 22 November 2021
+    amount: 10
   - date:
     amount:
   - date:
