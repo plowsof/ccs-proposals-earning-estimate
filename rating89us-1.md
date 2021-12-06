@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: rating89us part-time Monero GUI UI/UX development (3 months)
 author: rating89us
 date: 30 June 2021
@@ -7,23 +7,19 @@ amount: 48.31
 milestones:
   - name: July
     funds: 33% (16.10 XMR)
-    done:
-    status: unfinished
+    done: 15 August 2021
+    status: finished
   - name: August
     funds: 33% (16.10 XMR)
-    done:
-    status: unfinished
+    done: 15 September 2021
+    status: finished
   - name: September
     funds: 33% (16.11 XMR)
-    done:
-    status: unfinished
+    done: 30 November 2021
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 6 December 2021
+    amount: 48.31
 ---
 
 ## What
