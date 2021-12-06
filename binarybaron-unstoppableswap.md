@@ -15,8 +15,8 @@ milestones:
     status: unfinished
   - name: "Infrastructure maintenance (October - November)"
     funds: 1
-    done:
-    status: unfinished
+    done: 30 November 2021
+    status: finished
   - name: "Infrastructure maintenance (December - January)"
     funds: 1
     done:
@@ -26,8 +26,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 6 December 2021
+    amount: 1
   - date:
     amount:
   - date:
