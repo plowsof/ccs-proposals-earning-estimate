@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Translation Coordinator for the Monero Project
 author: netrik182
 date: October 6, 2021
@@ -7,11 +7,11 @@ amount: 11
 milestones:
   - name: One month work
     funds: 11
-    done:
-    status: unfinished
+    done: 3 December 2021
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: 8 December 2021
+    amount: 11
 ---
 
 ## Translation Coordinator for the Monero Project
