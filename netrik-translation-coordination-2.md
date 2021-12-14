@@ -3,18 +3,18 @@ layout: fr
 title: Three Months of Translation Coordination
 author: netrik182
 date: December 7, 2021
-amount: 33
+amount: 45
 milestones:
   - name: December
-    funds: 11
+    funds: 15
     done:
     status: unfinished
   - name: January
-    funds: 11
+    funds: 15
     done:
     status: unfinished
   - name: February
-    funds: 11
+    funds: 15
     done:
     status: unfinished
 payouts:
