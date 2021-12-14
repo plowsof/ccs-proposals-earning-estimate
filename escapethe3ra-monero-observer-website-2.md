@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: escapethe3RA Monero Observer maintenance (3 months)
 author: escapethe3RA
 date: November 25, 2021
