@@ -1,9 +1,9 @@
 ---
-layout: fr
+layout: wip
 title: Create Educational Content in Spanish
 author: Lovera
 date: November 06, 2021
-amount: 13,5
+amount: 13.5
 milestones:
   - name: December
     funds: 33.33% (XMR 4.5)
