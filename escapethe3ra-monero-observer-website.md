@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Monero Observer news website
 author: escapethe3RA
 date: August 23, 2021
@@ -15,12 +15,14 @@ milestones:
     status: finished
   - name: November
     funds: 5.33
-    done:
-    status: unfinished
+    done: 30 November 2021
+    status: finished
 payouts:
   - date: 15 October 2021
     amount: 5.33
   - date: 16 November 2021
+    amount: 5.33
+  - date: 15 December 2021
     amount: 5.33
 ---
 
