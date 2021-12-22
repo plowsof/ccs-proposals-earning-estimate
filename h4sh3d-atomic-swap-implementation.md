@@ -27,24 +27,24 @@ milestones:
     status: finished
   - name: M2.A. Cryptographic libraries
     funds: 3.375% (92.03625 XMR)
-    done:
-    status: unfinished
+    done: 15 December 2021
+    status: finished
   - name: M2.B. swap-lib
     funds: 11.25% (306.7875 XMR)
-    done:
-    status: unfinished
+    done: 15 December 2021
+    status: finished
   - name: M2.C. swap-client
     funds: 5.625% (153.39375 XMR)
-    done:
-    status: unfinished
+    done: 15 December 2021
+    status: finished
   - name: M2.D. swap-daemon
     funds: 13.5% (368.145 XMR)
-    done:
-    status: unfinished
+    done: 15 December 2021
+    status: finished
   - name: M2.E. chain-syncers
     funds: 11.25% (306.7875 XMR)
-    done:
-    status: unfinished
+    done: 15 December 2021
+    status: finished
   - name: M3.A.1 xgroup-dleq-lib
     funds: 8.75% (238.6125 XMR)
     done:
@@ -74,8 +74,8 @@ payouts:
     amount: 190.89
   - date: 25 April 2021
     amount: 354.51
-  - date:
-    amount:
+  - date: 22 December 2021
+    amount: 1227.15
   - date:
     amount:
   - date:
