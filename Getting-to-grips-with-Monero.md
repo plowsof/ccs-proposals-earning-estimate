@@ -1,24 +1,24 @@
 ---
 layout: fr
-title:Curation of 'Getting to grips with Monero' mini series
-author:Monero-Guides
-date:November 16, 2021
-amount:12
+title: "Curation of 'Getting to grips with Monero' mini series"
+author: Monero-Guides
+date: November 16, 2021
+amount: 12
 milestones:
-  - name:'Importing public keys and verifying hashes'
+  - name: Importing public keys and verifying hashes
     funds:
     done:
     status: unfinished
-  - name:'Setting up a node'
-    funds:5 XMR
+  - name: Setting up a node
+    funds: 5 XMR
     done:
     status: unfinished
-  - name:'Using Monero as money'
+  - name: Using Monero as money
     funds:
     done:
     status: unfinished
-  - name:'Using monero with enhanced privacy'
-    funds:7 XMR
+  - name: Using monero with enhanced privacy
+    funds: 7 XMR
     done:
     status: unfinished
 payouts:
