@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Three Months of Translation Coordination
 author: netrik182
 date: December 7, 2021
