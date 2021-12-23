@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: "Curation of 'Getting to grips with Monero' mini series"
+title: "Curation of Getting to grips with Monero mini series"
 author: Monero-Guides
 date: November 16, 2021
 amount: 12
