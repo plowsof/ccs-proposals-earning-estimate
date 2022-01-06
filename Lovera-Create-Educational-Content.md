@@ -18,7 +18,7 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date: 5 January 2022
+  - date: 
     amount: 4.5
   - date:
     amount:
