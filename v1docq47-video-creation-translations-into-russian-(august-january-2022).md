@@ -38,7 +38,7 @@ payouts:
     amount: 8
   - date: 4 December 2021
     amount: 8
-  - date: 5 January 2021
+  - date: 5 January 2022
     amount: 8
   - date:
     amount:
