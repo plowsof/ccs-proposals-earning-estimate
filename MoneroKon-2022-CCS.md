@@ -1,6 +1,6 @@
 ---
 layout: fr
-Title: MoneroKon-2022-CCS.md
+Title: "MoneroKon-2022-CCS"
 Author: midipoet
 Date: December 7, 2021
 Amount: 320 XMR
@@ -19,7 +19,7 @@ payouts:
   - date:
     amount:
 ---
- 
+
 # What:
 A small working group (#monero-events) would like to push forward with plans for a Monero conference. 
  
