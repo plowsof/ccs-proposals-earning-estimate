@@ -1,9 +1,9 @@
 ---
 layout: fr
-Title: "MoneroKon-2022-CCS"
-Author: midipoet
-Date: December 7, 2021
-Amount: 320 XMR
+title: "MoneroKon 2022 CCS"
+author: midipoet
+date: December 7, 2021
+amount: 320 XMR
 milestones:
   - name:
     funds:
