@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: ETH-XMR Atomic Swap Development
 author: noot
 date: Dec 4 2021
