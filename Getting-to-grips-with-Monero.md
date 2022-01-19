@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "Curation of Getting to grips with Monero mini series"
 author: Monero-Guides
 date: November 16, 2021
