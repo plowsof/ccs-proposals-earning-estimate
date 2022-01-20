@@ -56,7 +56,7 @@ This proposal is for the continued development of ETH-XMR atomic swaps. The mile
 
 # Team
 
-[noot](github.com/noot) will be completing this proposal, potentially along with other team members (TBD).
+[noot](github.com/noot) will be completing milestones 1-6. Milestone 7 will be completed by [Tbaut](https://github.com/Tbaut).
 
 ### About me (noot)
 
