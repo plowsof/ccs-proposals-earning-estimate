@@ -7,19 +7,19 @@ amount: 18
 milestones:
   - name: Publish issues #16 through #21
     funds: 6 XMR
-    done:
-    status: unfinished
+    done: 29 June 2021
+    status: finished
   - name: Publish issues #22 through #27
     funds: 6 XMR
-    done:
-    status: unfinished
+    done: 13 January 2022
+    status: finished
   - name: Publish issues #28 through #33
     funds: 6 XMR
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 28 January 2022
+    amount: 12
   - date:
     amount:
   - date:
