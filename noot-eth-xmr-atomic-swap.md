@@ -11,8 +11,8 @@ milestones:
     status: unfinished
   - name: Contract improvements
     funds: 8 XMR
-    done:
-    status: unfinished
+    done: 27 January 2022
+    status: finished
   - name: DLEq integration
     funds: 12 XMR
     done:
@@ -34,8 +34,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 28 January 2022
+    amount: 8
   - date:
     amount:
   - date:
