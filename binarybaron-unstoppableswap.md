@@ -7,8 +7,8 @@ amount: 52
 milestones:
   - name: "Working Prototype of GUI"
     funds: 45
-    done:
-    status: unfinished
+    done: 6 February 2022
+    status: finished
   - name: "Tor & Rendezvous Protocol Integration"
     funds: 4
     done:
@@ -30,8 +30,8 @@ payouts:
     amount: 1
   - date: 3 February 2022
     amount: 1
-  - date:
-    amount:
+  - date: 8 February 2022
+    amount: 45
   - date:
     amount:
   - date:
