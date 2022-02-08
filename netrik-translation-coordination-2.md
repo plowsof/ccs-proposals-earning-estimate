@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: January
     funds: 15
-    done:
-    status: unfinished
+    done: 31 January 2022
+    status: finished
   - name: February
     funds: 15
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 5 January 2022
     amount: 15
-  - date: 
-    amount: 
+  - date: 8 February 2022
+    amount: 15
   - date: 
     amount: 
 
