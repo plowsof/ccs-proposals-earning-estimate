@@ -69,10 +69,7 @@ The proposal is about minimizing the compilation time of the project.
 
 # Who
 I have 12 years of object oriented programming experience, mostly in C++. I'm a passionate programmer, not only somebody who does this for money. I hold a M.Sc. degree in Computer Science.
-Although I'd prefer staying anonymous, what I can tell about myself, is that I used to actively develop a couple of space flight navigation instruments in C++ for a realistic freeware space flight simulator. 
-Nowadays I work on an automated trading and backtesting platform, also in C++, where speed matters.
 Being able to see the code in a hierarchical order, both projects allowed me to create an extensive library, ready to be reused in a project like Monero, with serialization being my first low hanging fruit.
-To pay the rent, I've worked in various fields, from automatic control, GIS apps, navigation systems, visual driving assistance and recently in autonomous driving.
 My contributions to Monero so far are the following:
 - I was able to bring ccache to the project. The amount of code committed is not large, but the effect size is. The Travis CI compilation time went from 22 minutes down to [2 minutes for each build](https://github.com/monero-project/monero/pull/6452#issuecomment-615024910).
 - afterwards, selsta picked it up and [brought ccache to the CI "workflows"](https://github.com/monero-project/monero/pull/6495), achieving similar results.
