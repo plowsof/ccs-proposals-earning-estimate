@@ -7,8 +7,8 @@ amount: 56 XMR
 milestones:
   - name: Maintainence of existing codebase
     funds: 5 XMR
-    done:
-    status: unfinished
+    done: 5 February 2022
+    status: finished
   - name: Contract improvements
     funds: 8 XMR
     done: 27 January 2022
@@ -36,8 +36,8 @@ milestones:
 payouts:
   - date: 28 January 2022
     amount: 8
-  - date:
-    amount:
+  - date: 8 February 2022
+    amount: 5
   - date:
     amount:
   - date:
