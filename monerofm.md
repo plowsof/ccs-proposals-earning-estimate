@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Monero FM (community run radio project)
 author: ajs
 date: September 7, 2020
@@ -9,15 +9,15 @@ milestones:
     funds: 17.569028
     done: 7 August 2021
     status: finished
-  - name: Payout for music after licenses are secured
+  - name: Payout excess to genfund
     funds: 17.430972
-    done: 
-    status: unfinished
+    done: 12 February 2022
+    status: finished
 payouts:
   - date: 8 August 
     amount: 17.569028
-  - date:
-    amount:
+  - date: 12 February 2022
+    amount: 17.430972
 ---
 
 # Monero.FM, the Monero community run radio station.
