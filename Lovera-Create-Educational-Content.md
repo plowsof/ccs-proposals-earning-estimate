@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: January
     funds: 33.33% (XMR 4.5)
-    done:
-    status: unfinished
+    done: 31 January 2022
+    status: finished
   - name: February
     funds: 33.33% (XMR 4.5)
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 6 January 2022
     amount: 4.5
-  - date:
-    amount:
+  - date: 16 February 2022
+    amount: 4.5
   - date:
     amount:
 ---
