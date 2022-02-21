@@ -1,23 +1,21 @@
 ---
-layout: fr
+layout: wip
 title: "MoneroKon 2022 CCS"
 author: midipoet
 date: December 7, 2021
 amount: 328 XMR
 milestones:
-  - name:
-    funds:
-    done:
-    status: unfinished
+  - name: Funds paid out
+    funds: 328
+    done: 21 February 2022
+    status: finished
   - name:
     funds:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 21 February 2022
+    amount: 328
 ---
 
 # MoneroKon 2022 Funding
