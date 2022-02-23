@@ -7,8 +7,8 @@ amount: 95
 milestones:
   - name: January
     funds: 33% (32 XMR)
-    done: 31 October 2021
-    status:
+    done: 31 January 2022
+    status: finished
   - name: February
     funds: 33% (32 XMR)
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 22 February 2022
+    amount: 32
   - date:
     amount:
   - date:
