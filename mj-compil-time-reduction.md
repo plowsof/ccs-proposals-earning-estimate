@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Compilation time reduction and housekeeping
 author: mj
 date: April 15, 2020
@@ -27,11 +27,11 @@ milestones:
     status: unfinished
   - name: Forward declarations of own classes + interfaces
     funds: 15% (8 XMR)
-    done:
+    done: moot
     status: unfinished
   - name: One class per header
     funds: 4% (2 XMR)
-    done:
+    done: moot
     status: unfinished
   - name: Parallel tests (ctest -jN)
     funds: 9% (5 XMR)
@@ -39,30 +39,31 @@ milestones:
     status: finished
   - name: Static methods of the wallet2
     funds: 8% (4 XMR)
-    done:
+    done: moot
     status: unfinished
   - name: Proper ordering of headers (general last)
     funds: 6% (3 XMR)
-    done:
+    done: moot
     status: unfinished
   - name: Miscellaneous hourly work @ $40/hr (23.4 XMR remaining)
     funds: 47% (25 XMR)
-    done:
+    done: moot
     status: unfinished
+  - name: All remaining -> General fund
+    funds: All remaining (40.4 XMR)
+    done: 26 February 2022
+    status: finished
 payouts:
   - date: 4 January 2021
     amount: 2.9
   - date: 17 June 2021
     amount: 9.6
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 26 February 2022
+    amount: 40.4
 ---
+
+# Update
+This proposal has been marked completed and the remaining funds forwarded to the Monero General Fund at the request of the proposer, after seeking community input. The 12.5 XMR was paid out to mj, leaving 40.4 XMR.
 
 # What
 The proposal is about minimizing the compilation time of the project. 
