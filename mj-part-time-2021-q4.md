@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: mj part time coding Q4 2021
 author: mj
 date: Oct 20, 2021
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: Month 3
     funds: 24.0 XMR
-    done:
-    status: unfinished
+    done: 29 January 2022
+    status: finished
 payouts:
   - date: 4 December 2021
     amount: 24
   - date: 5 Jan 2022
     amount: 24
-  - date:
-    amount:
+  - date: 26 February 2022
+    amount: 24
 ---
 
 
