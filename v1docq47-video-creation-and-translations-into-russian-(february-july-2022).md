@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: v1docq47 - video creation and translations into russian (february - july 2022)
 author: v1docq47
 date: July 31, 2022
@@ -30,8 +30,8 @@ milestones:
     done: July 31, 2022
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 4 March 2022
+    amount: 10.3
   - date:
     amount:
   - date:
