@@ -35,7 +35,7 @@ On my immediate radar, I'd like to help ensure the upcoming fork goes smoothly. 
 	- [openmonero](https://github.com/moneroexamples/openmonero)
 	- potentially others if needed
 - help resolve merge conflicts between PR's
-- bump the ring size from 11 to 16 (tiny bit more effort than changing a single constant)
+- bump the ring size from 11 to 16 (tiny bit more effort than changing a single constant) (edit: PR for this [here](https://github.com/monero-project/monero/pull/8178))
 - whatever else I have the skills to help on
 
 Beyond the fork, here are some concrete tasks I'd also like to work on:
@@ -58,7 +58,7 @@ I have a running list of stuff I'd like to get to (some rolled over from last CC
 
 - complete [these issues](https://github.com/vtnerd/monero-lws/issues/created_by/j-berman) as needed in monero-lws + work through the suggestions shared in [my review](https://github.com/vtnerd/monero-lws/blob/16f1ceaa6a5eb4d9263863068bf57bc8e032a408/docs/review_02.03.22/review_02.03.22.md#suggestions)
 - continue investigating ways to make wallet scanning faster
-- pick up on research into [deterministic binning](https://github.com/monero-project/research-lab/issues/84) for when ring sizes increase a significant amount in the next gen protocol upgrade
+- pick up on research into [deterministic binning](https://github.com/monero-project/research-lab/issues/84)
 - [thread safety in the daemon RPC](https://github.com/monero-project/monero/pull/7936)
 - implement a rw lock for the Blockchain class
 - encrypt the wallet cache
