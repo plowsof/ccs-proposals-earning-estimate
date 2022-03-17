@@ -1,4 +1,4 @@
-﻿---
+---
 layout: fr
 title: mj part time coding Q2 2022
 author: mj
@@ -17,7 +17,6 @@ milestones:
     funds: 34.0 XMR
     done:
     status: unfinished
-  
 payouts:
   - date:
     amount:
