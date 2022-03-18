@@ -15,8 +15,8 @@ milestones:
     status: finished
   - name: Zeronode mode viewkeys
     funds: 20
-    done:
-    status: unfinished
+    done: 10 March 2021
+    status: finished
   - name: RPC via tor hidden service
     funds: 10
     done:
@@ -30,8 +30,8 @@ payouts:
     amount: 25
   - date: 22 November 2021
     amount: 10
-  - date:
-    amount:
+  - date: 17 March 2022
+    amount: 20
   - date:
     amount:
   - date:
