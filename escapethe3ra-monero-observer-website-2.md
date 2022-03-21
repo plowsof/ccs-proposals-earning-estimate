@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: escapethe3RA Monero Observer maintenance (3 months)
 author: escapethe3RA
 date: November 25, 2021
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: February
     funds: 7
-    done:
-    status: unfinished
+    done: 28 February 2021
+    status: finished
 payouts:
   - date: 16 January 2022
     amount: 7
   - date: 16 February 2022
     amount: 7
-  - date:
-    amount:
+  - date: 20 March 2022
+    amount: 7
 ---
 
 # What
