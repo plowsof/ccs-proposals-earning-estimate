@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Create Educational Content in Spanish
 author: Lovera
 date: November 06, 2021
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: February
     funds: 33.33% (XMR 4.5)
-    done:
-    status: unfinished
+    done: 28 February 2022
+    status: finished
 payouts:
   - date: 6 January 2022
     amount: 4.5
   - date: 16 February 2022
     amount: 4.5
-  - date:
-    amount:
+  - date: 21 March 2022
+    amount: 4.5
 ---
 
 ### Introduction
