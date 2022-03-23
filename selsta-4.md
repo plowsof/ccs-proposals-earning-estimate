@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: February
     funds: 33% (32 XMR)
-    done:
-    status: unfinished
+    done: 28 February 2022
+    status: finished
   - name: March
     funds: 33% (31 XMR)
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 22 February 2022
     amount: 32
-  - date:
-    amount:
+  - date: 22 March 2022
+    amount: 32
   - date:
     amount:
 ---
