@@ -19,8 +19,8 @@ milestones:
     status: unfinished
   - name: Integration testing
     funds: 8 XMR
-    done:
-    status: unfinished
+    done: 21 March 2022
+    status: finished
   - name: Network testing 
     funds: 8 XMR
     done:
@@ -38,8 +38,8 @@ payouts:
     amount: 8
   - date: 8 February 2022
     amount: 5
-  - date:
-    amount:
+  - date: 22 March 2022
+    amount: 8
   - date:
     amount:
   - date:
