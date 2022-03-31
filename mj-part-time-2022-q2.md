@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: mj part time coding Q2 2022
 author: mj
 date: Mar 01, 2022
