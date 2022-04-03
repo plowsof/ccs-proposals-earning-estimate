@@ -32,8 +32,8 @@ milestones:
 payouts:
   - date: 4 March 2022
     amount: 10.3
-  - date:
-    amount:
+  - date: 2 April 2022
+    amount: 10.3
   - date:
     amount:
   - date:
