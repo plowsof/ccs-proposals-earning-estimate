@@ -8,11 +8,11 @@ milestones:
   - name: February
     funds: 16.66% (10.3 XMR)
     done: February 28, 2022
-    status: unfinished
+    status: finished
   - name: March
     funds: 16.66% (10.3 XMR)
     done: March 31, 2022
-    status: unfinished
+    status: finished
   - name: April
     funds: 16.66% (10.3 XMR)
     done: April 30, 2022
