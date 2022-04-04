@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Funding for The Monero Moon Newsletter
 author: John Foss
 date: April 22, 2021
@@ -15,15 +15,13 @@ milestones:
     status: finished
   - name: Publish issues #28 through #33
     funds: 6 XMR
-    done:
-    status: unfinished
+    done: 31 March 2022
+    status: finished
 payouts:
   - date: 28 January 2022
     amount: 12
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 4 April 2022
+    amount: 6
 ---
 
 WHAT: The Monero Moon is a weekly newsletter regarding all things Monero. It was created in response to fill the vacuum after I previously had to stop due to personal reasons in late 2018. The Monero Moon is a free weekly news publication, and has been created in an effort to keep the Monero community up to date on all the latest news and developments related to Monero. I aim to achieve this by aggregating all the relevant information into one convenient location in an easy-to-digest format. I sift through the noise so you don’t have to. I also endeavour to cross promote other Monero initiatives as much as possible, while also encouraging others to participate in or support the Monero project.
