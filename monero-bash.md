@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: monero-bash, a wrapper for monero written in bash, for Linux
 author: hinto-janaiyo
 date: March 24, 2022
