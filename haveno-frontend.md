@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Haveno frontend development
 author: Haveno
 date: Mar 16, 2022
