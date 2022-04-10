@@ -25,10 +25,9 @@ milestones:
     funds: 151 XMR
     done:
     status: unfinished
-  
 payouts:
-  - date:
-    amount:
+  - date: 9 April 2022
+    amount: 151
 ---
 
 Hello again everyone. As promised, after improving Haveno's structure, we come back with a new (much cheaper) CCS proposal.
