@@ -21,7 +21,7 @@ milestones:
     funds: 20% (9 XMR)
     done:
     status: unfinished
-    - name: Complete Video 5
+  - name: Complete Video 5
     funds: 20% (9 XMR)
     done:
     status: unfinished
