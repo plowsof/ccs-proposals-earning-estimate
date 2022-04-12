@@ -3,10 +3,10 @@ layout: fr
 title: Deploy and maintain Monero Casino.
 author: M0n3r0d1c3
 date: April 4, 2022
-amount: 
+amount: 1
 milestones:
   - name: Deployment
-    funds: 100% (1.08 XMR)
+    funds: 100% (1 XMR)
     done:
     status: unfinished
 payouts:
