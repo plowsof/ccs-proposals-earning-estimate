@@ -25,7 +25,7 @@ milestones:
     funds: 20% (9 XMR)
     done:
     status: unfinished
-    payouts:
+payouts:
   - date:
     amount:
   - date:
