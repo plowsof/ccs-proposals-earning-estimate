@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Creation of Python tools and educational material for checking and explaining the absence of money leakage (a.k.a. inflation) in Monero.
 author: DangerousFreedom
 date: March 25, 2022
