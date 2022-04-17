@@ -7,8 +7,8 @@ amount: 27
 milestones:
   - name: March
     funds: 9
-    done:
-    status: unfinished
+    done: 31 March 2022
+    status: finished
   - name: April
     funds: 9
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 17 April 2022
+    amount: 9
   - date:
     amount:
   - date:
