@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Deploy and maintain Monero Casino.
 author: M0n3r0d1c3
 date: April 4, 2022
