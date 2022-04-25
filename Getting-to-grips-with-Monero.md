@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "Curation of Getting to grips with Monero mini series"
 author: Monero-Guides
 date: November 16, 2021
@@ -7,25 +7,23 @@ amount: 12
 milestones:
   - name: Importing public keys and verifying hashes
     funds:
-    done:
-    status: unfinished
+    done: 25 April 2022
+    status: finished
   - name: Setting up a node
     funds: 5 XMR
-    done:
-    status: unfinished
+    done: 25 April 2022
+    status: finished
   - name: Using Monero as money
     funds:
-    done:
-    status: unfinished
+    done: 25 April 2022
+    status: finished
   - name: Using monero with enhanced privacy
     funds: 7 XMR
-    done:
-    status: unfinished
+    done: 25 April 2022
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 25 April 2022
+    amount: 12
 ---
 
 ## Preface 
