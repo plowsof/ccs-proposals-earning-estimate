@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: SolOptXMR - Solar Optimal mining of XMR
 author: mj
 date: Mar 26, 2022
