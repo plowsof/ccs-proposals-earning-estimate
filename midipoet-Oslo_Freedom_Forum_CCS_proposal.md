@@ -6,16 +6,16 @@ date: April 6, 2022
 amount: 8.5 XMR
 milestones:
   - name: Proposal funded
-    funds: 5 XMR
-    done: 
-    status: unfinished
+    funds: 4.25 XMR
+    done: 25 April 2022
+    status: finished
   - name: Report submitted
-    funds: 3.5 XMR
+    funds: 4.25 XMR
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 25 April 2022
+    amount: 4.25
   - date:
     amount:
 ---
