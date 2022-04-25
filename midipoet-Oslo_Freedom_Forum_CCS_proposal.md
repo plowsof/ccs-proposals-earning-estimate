@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: midipoet-Oslo_Freedom_Forum_CCS_proposal.md
 author: midipoet
 date: April 6, 2022
