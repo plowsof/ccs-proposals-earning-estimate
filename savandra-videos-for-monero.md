@@ -62,7 +62,7 @@ voice-over
 
 sound effects
 
-Considering the above, I think $1000 per minute of the animation should work out nicely.
+Considering the above, I think $400 per minute of the animation should work out nicely.
 Also, it's been a while since the last video, so let me know if there are any updates on how the pitch should be handled.
 
 It is expected to complete one video a month
