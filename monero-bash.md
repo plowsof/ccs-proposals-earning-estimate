@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: monero-bash, a wrapper for monero written in bash, for Linux
 author: hinto-janaiyo
 date: March 24, 2022
@@ -7,29 +7,27 @@ amount: 10.0 XMR
 milestones: 
   - name: Integrated P2Pool Mining
     funds: 5 XMR
-    done:
-    status: unfinished
+    done: 30 April 2022
+    status: finished
   - name: RPC/Daemon API integration
     funds: 3.5 XMR
-    done:
-    status: unfinished
+    done: 30 April 2022
+    status: finished
   - name: Mining quickstart commands
     funds: 1 XMR
-    done:
-    status: unfinished
+    done: 30 April 2022
+    status: finished
   - name: Automated encrypted wallet backup
     funds: 0.25 XMR
-    done:
-    status: unfinished
+    done: 30 April 2022
+    status: finished
   - name: Auto GPG key verification for binaries
     funds: 0.25 XMR
-    done:
-    status: unfinished
+    done: 30 April 2022
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 30 April 2022
+    amount: 10
 ---
 
 # Intro
