@@ -16,7 +16,7 @@ milestones:
   - name: April
     funds: 16.66% (10.3 XMR)
     done: April 30, 2022
-    status: unfinished
+    status: finished
   - name: May
     funds: 16.66% (10.3 XMR)
     done: May 31, 2022
@@ -34,8 +34,8 @@ payouts:
     amount: 10.3
   - date: 2 April 2022
     amount: 10.3
-  - date:
-    amount:
+  - date: 2 May 2022
+    amount: 10.3
   - date:
     amount:
   - date:
