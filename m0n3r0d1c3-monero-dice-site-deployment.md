@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Deploy and maintain Monero Casino.
 author: M0n3r0d1c3
 date: April 4, 2022
@@ -7,11 +7,11 @@ amount: 1
 milestones:
   - name: Deployment
     funds: 100% (1 XMR)
-    done:
-    status: unfinished
+    done: 5 May 2022
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: 5 May 2022
+    amount: 1
 ---
 
 Hello! I'm M0n3r0D1c3, and I've created casino for Monero.
