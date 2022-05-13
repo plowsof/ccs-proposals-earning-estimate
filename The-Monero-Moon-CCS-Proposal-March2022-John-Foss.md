@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Funding for The Monero Moon Newsletter - 2022
 author: John Foss
 date: March 2, 2022
