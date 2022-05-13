@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: HotShop Point of Sale
 author: cryptogrampy
 date: April 7, 2022
