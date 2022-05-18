@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "XMR BTC Atomic Swaps Desktop GUI"
 author: binarybaron
 date: October 1, 2021
@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: "Tor & Rendezvous Protocol Integration"
     funds: 4
-    done:
-    status: unfinished
+    done: 7 May 2022
+    status: finished
   - name: "Infrastructure maintenance (October - November)"
     funds: 1
     done: 30 November 2021
@@ -34,8 +34,8 @@ payouts:
     amount: 45
   - date: 2 April 2022
     amount: 1
-  - date:
-    amount:
+  - date: 18 May 2022
+    amount: 4
 ---
 
 # What
