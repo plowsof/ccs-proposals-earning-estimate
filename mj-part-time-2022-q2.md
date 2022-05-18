@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: Month 2
     funds: 34.0 XMR
-    done:
-    status: unfinished
+    done: 10 May 2022
+    status: finished
   - name: Month 3
     funds: 34.0 XMR
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 2 April 2022
     amount: 34
-  - date:
-    amount:
+  - date: 18 May 2022
+    amount: 34
   - date:
     amount:
 ---
