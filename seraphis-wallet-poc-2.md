@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "koe: Seraphis Wallet Proof-of-Concept 2"
 author: koe
 date: 1 May 2022
