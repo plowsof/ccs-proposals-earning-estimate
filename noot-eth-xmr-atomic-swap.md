@@ -15,16 +15,16 @@ milestones:
     status: finished
   - name: DLEq integration
     funds: 12 XMR
-    done:
-    status: unfinished
+    done: 1 May 2022
+    status: finished
   - name: Integration testing
     funds: 8 XMR
     done: 21 March 2022
     status: finished
   - name: Network testing 
     funds: 8 XMR
-    done:
-    status: unfinished
+    done: 24 May 2022
+    status: finished
   - name: Pre-print paper and additional research
     funds: 5 XMR
     done:
@@ -40,8 +40,8 @@ payouts:
     amount: 5
   - date: 22 March 2022
     amount: 8
-  - date:
-    amount:
+  - date: 27 May 2022
+    amount: 20
   - date:
     amount:
   - date:
