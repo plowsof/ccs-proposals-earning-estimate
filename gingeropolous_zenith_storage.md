@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Research Computing Upgrade
 author: Gingeropolous
 date: May 10, 2022
