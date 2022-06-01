@@ -6,20 +6,20 @@ date: April 7, 2022
 amount: 18
 milestones:
   - name: Milestone 1 - Create and publish payment code, perform basic payment generation and verification on deployed webapp
-    funds:
-    done:
-    status: unfinished
+    funds: 0
+    done: 29 May 2022
+    status: finished
   - name: Milestone 2 - Create and publish draft Point of Sale user interface for feedback
     funds: 8
-    done:
-    status: unfinished
+    done: 29 May 2022
+    status: finished
   - name: Milestone 3 - Create finalized Point of Sale interface, create install and deployment instructions, publish freely available version
     funds: 10
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 1 June 2022
+    amount: 8
   - date:
     amount:
 ---
