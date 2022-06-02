@@ -7,8 +7,8 @@ amount: 43.2
 milestones:
   - name: MLSAG
     funds: 14.4
-    done:
-    status: unfinished
+    done: 31 May 2022
+    status: finished
   - name: CLSAG
     funds: 14.4
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 2 June 2022
+    amount: 14.4
   - date:
     amount:
   - date:
