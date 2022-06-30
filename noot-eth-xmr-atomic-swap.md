@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: ETH-XMR Atomic Swap Development
 author: noot
 date: Dec 4 2021
@@ -27,12 +27,12 @@ milestones:
     status: finished
   - name: Pre-print paper and additional research
     funds: 5 XMR
-    done:
-    status: unfinished
+    done: 23 June 2022
+    status: finished
   - name: UI
     funds: 10 XMR
-    done:
-    status: unfinished
+    done: 23 June 2022
+    status: finished
 payouts:
   - date: 28 January 2022
     amount: 8
@@ -42,12 +42,10 @@ payouts:
     amount: 8
   - date: 27 May 2022
     amount: 20
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 29 June 2022
+    amount: 5
+  - date: 29 June 2022
+    amount: 10
 ---
 
 # Summary
