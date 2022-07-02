@@ -7,8 +7,8 @@ amount: 110.55 XMR
 milestones:
   - name: 1 Initial setup
     funds: 20.10 XMR
-    done:
-    status: unfinished
+    done: 29 May 2022
+    status: finished
   - name: 2 Profitability calculator
     funds: 16.75 XMR
     done:
@@ -22,8 +22,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 2 July 2022
+    amount: 20.1
   - date:
     amount:
   - date:
