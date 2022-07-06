@@ -24,7 +24,7 @@ milestones:
   - name: June
     funds: 16.66% (10.3 XMR)
     done: June 30, 2022
-    status: unfinished
+    status: finished
   - name: July
     funds: 16.66% (10.5 XMR)
     done: July 31, 2022
@@ -38,8 +38,8 @@ payouts:
     amount: 10.3
   - date: 9 June 2022
     amount: 10.3
-  - date:
-    amount:
+  - date: 6 July 2022
+    amount: 10.3
   - date:
     amount:
 ---
