@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: CLSAG
     funds: 14.4
-    done:
-    status: unfinished
+    done: 3 July 2022
+    status: finished
   - name: Seraphis / Optimizations / Functional website delivery
     funds: 14.4
     done:
