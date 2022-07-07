@@ -5,10 +5,6 @@ author: binarybaron
 date: 26 May, 2022
 amount: 232
 milestones:
-  - name: June
-    funds: 58
-    done:
-    status: unfinished
   - name: July
     funds: 58
     done:
@@ -18,6 +14,10 @@ milestones:
     done:
     status: unfinished
   - name: September
+    funds: 58
+    done:
+    status: unfinished
+  - name: October
     funds: 58
     done:
     status: unfinished
