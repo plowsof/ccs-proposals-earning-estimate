@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: New Animated Videos
 author: savandra
 date: April 7, 2022
