@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title:  "Spanish translation and proofreading of the monero site, GUI/CLI wallets and User Guides"
 author: michaelizer
 date: May 28, 2021
@@ -7,23 +7,19 @@ amount: 12
 milestones:
   - name: Milestone 1 - Translation and proofreading of the Monero site
     funds: 33.33% (4 XMR)
-    done:
-    status: unfinished
+    done: 15 July 2022
+    status: finished
   - name: Milestone 2 - Translation and proofreading of the GUI and CLI wallets
     funds: 41.67% (5 XMR)
-    done:
-    status: unfinished
+    done: 15 July 2022
+    status: finished
   - name: Milestone 3 - Translation and proofreading of the user guides
     funds: 25% (3 XMR)
-    done:
-    status: unfinished
+    done: 15 July 2022
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 23 July 2022
+    amount: 12
 ---
 
 ## What the proposal is about? 
