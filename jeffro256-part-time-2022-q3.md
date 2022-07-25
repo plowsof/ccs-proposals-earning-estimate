@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "jeffro256: part-time dev work 2022Q3"
 author: jeffro256
 date: 17 May 2022
