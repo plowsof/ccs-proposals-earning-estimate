@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: j-berman full-time development (3 months)
 author: j-berman
 date: February 7, 2022
@@ -7,23 +7,19 @@ amount: 135
 milestones:
   - name: Month 1
     funds: 33% (45 Monero)
-    done:
-    status: unfinished
+    done: 14 March 2022
+    status: finished
   - name: Month 2
     funds: 33% (45 Monero)
-    done:
-    status: unfinished
+    done: 13 April 2022
+    status: finished
   - name: Month 3
     funds: 33% (45 Monero)
-    done:
-    status: unfinished
+    done: 23 June 2022
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 29 July 2022
+    amount: 135
 ---
 
 Hi all, I love my new job and very much so hope that my performance has been satisfactory. I'm requesting 135 XMR to continue working on Monero full-time for the next 3 months (2/7/22 - 5/2/22).
