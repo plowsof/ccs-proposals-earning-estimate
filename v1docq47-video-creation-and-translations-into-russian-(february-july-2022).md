@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: v1docq47 - video creation and translations into russian (february - july 2022)
 author: v1docq47
 date: July 31, 2022
@@ -28,7 +28,7 @@ milestones:
   - name: July
     funds: 16.66% (10.5 XMR)
     done: July 31, 2022
-    status: unfinished
+    status: finished
 payouts:
   - date: 4 March 2022
     amount: 10.3
@@ -40,8 +40,8 @@ payouts:
     amount: 10.3
   - date: 6 July 2022
     amount: 10.3
-  - date:
-    amount:
+  - date: 4 August 2022
+    amount: 10.5
 ---
 
 # Introduction
