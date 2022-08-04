@@ -7,21 +7,19 @@ amount: 36
 milestones:
   - name: June
     funds: 12
-    done:
-    status: unfinished
+    done: 30 June 2022
+    status: finished
   - name: July
     funds: 12
-    done:
-    status: unfinished
+    done: 31 July 2022
+    status: finished
   - name: August
     funds: 12
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 4 August 2022
+    amount: 24
   - date:
     amount:
 ---
