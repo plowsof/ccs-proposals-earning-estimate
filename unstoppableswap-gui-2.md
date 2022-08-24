@@ -7,8 +7,8 @@ amount: 232
 milestones:
   - name: July
     funds: 58
-    done:
-    status: unfinished
+    done: 10 August 2022
+    status: finished
   - name: August
     funds: 58
     done:
@@ -22,8 +22,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 23 August 2022
+    amount: 58
   - date:
     amount:
   - date:
