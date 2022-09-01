@@ -1,29 +1,25 @@
 ---
-layout: wip
+layout: cp
 title: Funding for The Monero Moon Newsletter - 2022
 author: John Foss
 date: March 2, 2022
-amount: 36 XMR
+amount: 36
 milestones:
   - name: Publish issues #34 through #39
     funds: 12 XMR
-    done:
-    status: unfinished
+    done: 21 April 2022
+    status: finished
   - name: Publish issues #40 through #45
     funds: 12 XMR
-    done:
-    status: unfinished
+    done: 2 June 2022
+    status: finished
   - name: Publish issues #46 through #51
     funds: 12 XMR
-    done:
-    status: unfinished
+    done: 21 July 2022
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 1 September 2022
+    amount: 36
 ---
 
 THE MONERO MOON NEWSLETTER - Funding
