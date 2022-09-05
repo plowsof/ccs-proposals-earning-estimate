@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "koe: Seraphis Library Work"
 author: koe
 date: 18 Aug 2022
