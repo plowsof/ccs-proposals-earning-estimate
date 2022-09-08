@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Creation of Python tools and educational material for checking and explaining the absence of money leakage (a.k.a. inflation) in Monero.
 author: DangerousFreedom
 date: March 25, 2022
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: Seraphis / Optimizations / Functional website delivery
     funds: 14.4
-    done:
-    status: unfinished
+    done: 4 September 2022
+    status: finished
 payouts:
   - date: 2 June 2022
     amount: 14.4
   - date: 6 July 2022
     amount: 14.4
-  - date:
-    amount:
+  - date: 7 September 2022
+    amount: 14.4
 ---
 ## TLDR
 Minimal Python tools and educational material for checking inflation in Monero.
