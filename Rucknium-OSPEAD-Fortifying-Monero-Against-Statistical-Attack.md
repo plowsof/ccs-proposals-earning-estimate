@@ -7,8 +7,8 @@ amount: 171
 milestones:
   - name: Milestone 1 - Deliver fully specified estimation plan to scientific review panel
     funds: 67
-    done:
-    status: unfinished
+    done: 23 September 2022
+    status: finished
   - name: Milestone 2 - Deliver initial probability density function to scientific review panel
     funds: 74
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 24 September 2022
+    amount: 67
   - date:
     amount:
   - date:
