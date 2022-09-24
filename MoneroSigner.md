@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: MoneroSigner. Fork of seedsigner for Monero.
+title: "MoneroSigner. Fork of seedsigner for Monero."
 author: Monero-HackerIndustrial
 date: June 08, 2022
 amount: 55.38
@@ -25,7 +25,7 @@ milestones:
     funds: 7.1
     done:
     status: unfinished
-   - name: DIY scripts & docs
+  - name: DIY scripts & docs
     funds: 5.68
     done:
     status: unfinished
