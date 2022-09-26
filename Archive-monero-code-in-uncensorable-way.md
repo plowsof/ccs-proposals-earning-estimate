@@ -7,15 +7,15 @@ amount: 1.5
 milestones:
   - name: Tor gitea mirror
     funds: 1.3
-    done:
+    done: 26 September 2022
     status: finished
   - name: Sia network archive
     funds: 0.2
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 26 September 2022
+    amount: 1.3
   - date:
     amount:
 ---
