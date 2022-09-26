@@ -1,9 +1,9 @@
 ---
-layout: fr
+layout: wip
 title: Archive Monero Github code on a self-host onion instance and sia network
 author: monero_archive
 date: August 19, 2022
-amount: 1.5XMR
+amount: 1.5
 milestones:
   - name: Tor gitea mirror
     funds: 1.3
