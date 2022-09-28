@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: midipoet-Oslo_Freedom_Forum_CCS_proposal.md
 author: midipoet
 date: April 6, 2022
@@ -10,14 +10,16 @@ milestones:
     done: 25 April 2022
     status: finished
   - name: Report submitted
-    funds: 4.25 XMR
-    done:
-    status: unfinished
+    funds: 4.25 XMR (2.25 to midipoet, 2 to GF)
+    done: 24 September 2022
+    status: finished
 payouts:
   - date: 25 April 2022
     amount: 4.25
-  - date:
-    amount:
+  - date: 28 September 2022
+    amount: 2.25
+  - date: 20 September 2022
+    amount: 2
 ---
 
 
