@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: September
     funds: 33% (37 XMR)
-    done:
-    status: unfinished
+    done: 30 September 2022
+    status: finished
   - name: October
     funds: 33% (36 XMR)
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 5 September 2022
     amount: 37
-  - date:
-    amount:
+  - date: 4 October 2022
+    amount: 37
   - date:
     amount:
 ---
