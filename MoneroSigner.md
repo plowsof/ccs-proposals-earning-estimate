@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "MoneroSigner. Fork of seedsigner for Monero."
 author: Monero-HackerIndustrial
 date: June 08, 2022
