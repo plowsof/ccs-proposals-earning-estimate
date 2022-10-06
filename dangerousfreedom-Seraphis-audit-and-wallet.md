@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: dangerousfreedom - more Seraphis development 
 author: DangerousFreedom
 date: September 20, 2022
