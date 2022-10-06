@@ -6,15 +6,15 @@ date: September 30, 2022
 amount: 71
 milestones:
   - name: Texts and structure done
-    funds:30
+    funds: 30
     done:
     status: unfinished
   - name: Illustrations and animations done
-    funds:30
+    funds: 30
     done:
     status: unfinished
   - name: Website up
-    funds:11
+    funds: 11
     done:
     status: unfinished
 payouts:
