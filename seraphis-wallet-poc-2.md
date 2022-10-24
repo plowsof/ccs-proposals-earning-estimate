@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "koe: Seraphis Wallet Proof-of-Concept 2"
 author: koe
 date: 1 May 2022
@@ -7,9 +7,11 @@ amount: 155
 milestones:
   - name: PoC
     funds: 100% (155 XMR)
-    done: 
-    status: unfinished
+    done: 18 August 2022
+    status: finished
 payouts:
+  - date: 24 October 2022
+    amount: 155
 ---
 
 ## Intro
