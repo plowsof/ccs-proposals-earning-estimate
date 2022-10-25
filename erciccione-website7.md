@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: Second month
     funds: 11
-    done: 
-    status: unfinished
+    done: 21 October 2022
+    status: finished
   - name: Third month
     funds: 11
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 6 January 2022
     amount: 11
-  - date:
-    amount:
+  - date: 25 October 2022
+    amount: 11
 ---
 
 I'm proposing to continue my part time work on Getmonero.org (monero-site repository), 20 hours a week for 3 more months worth of work. This is a flexible ccs proposal: The 3 months of work will not be done linearly as done up to now, but they will be distributed according to my availability. Note that i still want to complete the work on the moneropedia soon, so at least initially i will work as done until now and the flexible part of this ccs will start later on.
