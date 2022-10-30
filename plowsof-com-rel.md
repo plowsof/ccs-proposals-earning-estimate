@@ -1,4 +1,4 @@
---- 
+---
 layout: fr
 title: "CCS Coordinator (3 months)"
 author: plowsof
@@ -24,7 +24,7 @@ payouts:
     amount:
   - date:
     amount:
---- 
+---
 
 # What?
 
