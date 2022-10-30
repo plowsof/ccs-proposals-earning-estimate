@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: v1docq47 - monerokon and monerotopia voiceover and working on xmr.ru
 author: v1docq47
 date: March 31, 2023
