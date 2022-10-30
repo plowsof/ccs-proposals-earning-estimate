@@ -1,9 +1,9 @@
 --- 
 layout: fr
-title: CCS Coordinator (3 months)
+title: "CCS Coordinator (3 months)"
 author: plowsof
 date: 29 October 2022
-amount: 69 XMR
+amount: 69
 milestones:
   - name: 2 meetings + hours worked
     funds: 23 XMR
