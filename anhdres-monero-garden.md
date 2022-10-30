@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Monero Garden
 author: anhdres
 date: September 30, 2022
