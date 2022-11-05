@@ -8,7 +8,7 @@ milestones:
   - name: October
     funds: 16.66% (7.13 XMR)
     done: October 31, 2022
-    status: unfinished
+    status: finished
   - name: November
     funds: 16.66% (7.13 XMR)
     done: November 30, 2022
@@ -30,8 +30,8 @@ milestones:
     done: March 31, 2023
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 4 November 2022
+    amount: 7.13
   - date:
     amount:
   - date:
