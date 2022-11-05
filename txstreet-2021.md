@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Add Monero to TxStreet
 author: txstreet
 date: March 10, 2021
@@ -19,16 +19,18 @@ milestones:
     status: unfinished
   - name: Advertising for 9 months
     funds: 4.5
-    done:
-    status: unfinished
+    done: 24 October 2022
+    status: finished
   - name: Advertising for 12 months
     funds: 4.5
-    done:
-    status: unfinished
+    done: 24 October 2022
+    status: finished
 payouts:
   - date: 22 April 2021
     amount: 20
   - date: 16 January 2022
+    amount: 9
+  - date: 4 November 2022
     amount: 9
 ---
 ​
