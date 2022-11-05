@@ -7,19 +7,19 @@ amount: 30
 milestones:
   - name: September
     funds: 10
-    done:
-    status: unfinished
+    done: 30 September 2022
+    status: finished
   - name: October
     funds: 10
-    done:
-    status: unfinished
+    done: 31 October 2022
+    status: finished
   - name: November
     funds: 10
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 4 November 2022
+    amount: 20
   - date:
     amount:
   - date:
