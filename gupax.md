@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: Gupax: GUI for P2Pool+XMRig
+title: "Gupax: GUI for P2Pool+XMRig"
 author: hinto
 date: 2022-10-10
 amount: 100
