@@ -2,14 +2,13 @@
 layout: fr
 title: "Gupax: GUI for P2Pool+XMRig"
 author: hinto
-date: 2022-10-10
+date: 10 October 2022
 amount: 100
 milestones:
   - name: Working GUI + Documentation
     funds: 80% (80 XMR)
     done:
     status: unfinished
-    milestones:
   - name: 1 year of maintenance
     funds: 20% (20 XMR)
     done:
