@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "Gupax: GUI for P2Pool+XMRig"
 author: hinto
 date: 10 October 2022
