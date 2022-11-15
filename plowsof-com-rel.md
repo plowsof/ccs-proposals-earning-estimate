@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "CCS Coordinator (3 months)"
 author: plowsof
 date: 29 October 2022
