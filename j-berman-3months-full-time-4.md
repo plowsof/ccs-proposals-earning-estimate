@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: j-berman full-time development (3 months)
 author: j-berman
 date: November 21, 2022
