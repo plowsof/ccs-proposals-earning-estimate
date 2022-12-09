@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: escapethe3RA Monero Observer maintenance (Autumn 2022)
 author: escapethe3RA
 date: Sep 6, 2022
@@ -15,15 +15,13 @@ milestones:
     status: finished
   - name: November
     funds: 10
-    done:
-    status: unfinished
+    done: 30 November 2022
+    status: finished
 payouts:
   - date: 4 November 2022
     amount: 20
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 9 December 2022
+    amount: 10
 ---
 
 # What
