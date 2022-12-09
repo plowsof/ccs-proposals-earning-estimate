@@ -7,8 +7,8 @@ amount: 135
 milestones:
   - name: November
     funds: 33% (45 XMR)
-    done:
-    status: unfinished
+    done: 30 November 2022
+    status: finished
   - name: December
     funds: 33% (45 XMR)
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 9 December 2022
+    amount: 45
   - date:
     amount:
   - date:
