@@ -2,15 +2,15 @@
 layout: fr
 title: MoneroKon 2023 CCS-1
 author: ajs-xmr
-date: November 27, 2022
-amount:
+date: December 12, 2022
+amount: 553.67
 milestones:
   - name: Neuchatel
     funds: 383.31
     done:
     status: unfinished
   - name: Prague
-    funds: 553.67
+    funds: 170.36
     done:
     status: unfinished
 payouts:
@@ -57,7 +57,7 @@ The aim is to have at least the same number of participants as in Lisbon (200) w
 
 Please note that this is a **not-for-profit event** and the aim is to keep ticket prices as accessible for the public as financially possible, while keeping production quality high.
 
-The total cost of the event is estimated to be approximately 168,000€. To take into account uncertainties (_e.g._ the number of ticket, merch sales, sponsors, requests for bursaries), the CCS will be divided into 2 parts. In CCS-1, we are be seeking 553.67 XMR, which represents around 35-41% of the cost, assuming we reach the target ticket sales range (200-400) and the number of sponsors (15). We included a 15% contingency fund for emergencies or unexpected expenses. The budget for Prague can be found [here]( https://cryptpad.disroot.org/sheet/#/2/sheet/view/DWRJjhmFhIZSJddgkRDgbEi6gnMMnBFDjxpUPIiOA6Q/embed/) (**please note, that the budget is only a rough estimate and is subject to be updated**).
+The total cost of the event is estimated to be approximately 168,000€. To take into account uncertainties (_e.g._ the number of ticket, merch sales, sponsors, requests for bursaries), the CCS will be divided into 2 parts. In CCS-1, we are be seeking 553.67 XMR, which represents around 34-38% of the cost, assuming we reach the target ticket sales range (200-400) and the number of sponsors (15). We included a 15% contingency fund for emergencies or unexpected expenses. The budget for Prague can be found [here](https://cryptpad.disroot.org/sheet/#/2/sheet/view/DWRJjhmFhIZSJddgkRDgbEi6gnMMnBFDjxpUPIiOA6Q/embed/) (**please note, that the budget is only a rough estimate and is subject to be updated**).
 
 **Sponsorship Target**
 | Sponsor type | Quantity | Price |
@@ -98,7 +98,7 @@ For comparison, the past ticket sales and CCS funding were as follows:
 |---|---|---|
 | 55,650€ | 7 December 2021 | 15 February 2022 (70 days) |
 
-For 2022, the [total cost was 72,915.56€ and had a surplus of 1,864.44€](https://docs.google.com/spreadsheets/d/1Ls-U_F6DPjm0kpXwzz-noLLKR5Ti42gffj31LcoINc8/edit?usp=sharing).
+For 2022, the [total cost was 65,410.37€ and had a surplus of 7,577.16€](https://docs.google.com/spreadsheets/d/1KwKrJ-YX4ByI2fKxpILukIb4jLog7JD8TZLWUelGY7M/edit#gid=0).
 
 ##### Denver 2019
 **Ticket Sales**
