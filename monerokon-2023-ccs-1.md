@@ -60,11 +60,9 @@ Please note that this is a **not-for-profit event** and the aim is to keep ticke
 The total cost of the event is estimated to be approximately 168,000€. To take into account uncertainties (_e.g._ the number of ticket, merch sales, sponsors, requests for bursaries), the CCS will be divided into 2 parts. In CCS-1, we are be seeking 553.67 XMR, which represents around 34-38% of the cost, assuming we reach the target ticket sales range (200-400) and the number of sponsors (15). We included a 15% contingency fund for emergencies or unexpected expenses. The budget for Prague can be found [here](https://cryptpad.disroot.org/sheet/#/2/sheet/view/DWRJjhmFhIZSJddgkRDgbEi6gnMMnBFDjxpUPIiOA6Q/embed/) (**please note, that the budget is only a rough estimate and is subject to be updated**).
 
 **Sponsorship Target**
-| Sponsor type | Quantity | Price |
-|---|---|---|
-| Supporter (no table, logo only) | 5 | 1,500€ |
-| Contributor | 7 | 4,500€ |
-| Cypherpunk Hero | 3 | 9,000€ |
+- Supporter (no table, logo only) (5) - 1,500€
+- Contributor (7) - 4,500€
+- Cypherpunk Hero (3) - 9,000€
 
 Total: 15
 
@@ -74,44 +72,40 @@ Sponsor benefits are TBD, but generally, may include company logo placement on M
 
 The ticket types and supply are as follows:
 
-##### Prague 2023
-| Ticket type | Quantity | Price |
-|---|---|---|
-| GA | 315 | 120€ |
-| VIP | 60 | 240€ |
-| SP | 25 | 60€ |
+**Prague 2023**
+- GA (315) - 120€
+- VIP (60) - 240€
+- SP (25) - 60€
 
 The benefits for the VIP tickets are TBD, but will include a free merch pack.
 
 For comparison, the past ticket sales and CCS funding were as follows:
 
-##### Lisbon 2022
+**Lisbon 2022**
+
 **Ticket Sales**
-| Ticket type | Quantity | Price |
-|---|---|---|
-| GA | 133 | 50€ |
-| VIP | 24 | 150€ |
-| SP | 3 | 30€ |
+- GA (133) - 50€
+- VIP (24) - 150€
+- SP (3) - 30€
 
 **CCS**
-| Amount Raised | PR Merged | Fully Funded |
-|---|---|---|
-| 55,650€ | 7 December 2021 | 15 February 2022 (70 days) |
+- Amount Raised - 55,650€
+- PR Merged - 7 December 2021
+- Fully Funded - 15 February 2022 (70 days)
 
 For 2022, the [total cost was 65,410.37€ and had a surplus of 7,577.16€](https://docs.google.com/spreadsheets/d/1KwKrJ-YX4ByI2fKxpILukIb4jLog7JD8TZLWUelGY7M/edit#gid=0).
 
-##### Denver 2019
+**Denver 2019**
+
 **Ticket Sales**
-| Ticket type | Quantity | Price |
-|---|---|---|
-| GA | 60 | $128 |
-| VIP | 9 | $287 |
-| SP | 4 | $54 |
+- GA (60) - $128
+- VIP (9) - $287
+- SP (4) - $54
 
 **CCS**
-| Amount Raised | PR Merged | Fully Funded |
-|---|---|---|
-| $60,100 | 10 October 2018 | 30 January 2019 (112 days) |
+- Amount Raised - $60,100
+- PR Merged - 10 October 2018
+- Fully Funded - 30 January 2019 (112 days)
 
 For 2019, the total cost was [$100,210.22 and had a deficit of $-32,815.31](https://github.com/b-g-goodell/mrl-skunkworks-mirror/blob/master/Konferenco/2019/postmorto.md#1-budget-actuals)
 
@@ -155,9 +149,22 @@ It is hard to predict the number of sponsors and tickets that will be sold, and 
 
 As a sign of appreciation for your kind support, backers of this CCS will be able to claim rewards based on the level of contribution.
 
-| 0.85 XMR | 4.26 XMR | 8.52 XMR |
-|---|---|---|
-| <ul><li>Name/nick in end-credits of uploaded videos</li><li>Free MoneroKon T-shirt promo code</li></ul> | <ul><li>Name/nick in end-credits of uploaded videos</li><li>Free MoneroKon T-shirt promo code</li><li>IVPN $100 credit promo code*</li><li>Early access 4k video uploads</li></ul> | <ul><li>Name/nick in end-credits of uploaded videos</li><li>Free MoneroKon T-shirt promo code</li><li>IVPN $200 credit promo code*</li><li>Early access 4k video uploads</li><li>**Exclusive invite to Speaker’s dinner**</li></ul> |
+**0.85 XMR**
+- Name/nick in end-credits of uploaded videos
+- Free MoneroKon T-shirt promo code
+
+**4.26 XMR**
+- Name/nick in end-credits of uploaded videos
+- Free MoneroKon T-shirt promo code
+- IVPN $100 credit promo code*
+- Early access 4k video uploads
+
+**8.52 XMR**
+- Name/nick in end-credits of uploaded videos
+- Free MoneroKon T-shirt promo code
+- IVPN $200 credit promo code*
+- Early access 4k video uploads
+- Exclusive invite to Speaker’s dinner
 
 After donating, send an email to `ajs@monerokon.com` [key ID: [0xA21EDAB6](https://openpgpkey.monerokon.com/ajs.asc)] with your [proof of payment](https://www.getmonero.org/resources/user-guides/prove-payment.html) (for unofficial wallets, consult the developer's documentation) and the name/nick you would like to appear in the end credits. You could also contact me directly at:
 - Libera.Chat IRC: `#monero-events` / `ajs_` / OTR: `2CBD2781 14ADCC59 80216845 7F3405F7 8AE807FA`
