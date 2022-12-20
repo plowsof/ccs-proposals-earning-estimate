@@ -13,17 +13,29 @@ milestones:
     funds: 16.75 XMR
     done:
     status: unfinished
-  - name: 3 Measurements
-    funds: 36.85 XMR
+  - name: 3.1 Measurements mj
+    funds: 20.10 XMR
     done:
     status: unfinished
-  - name: 4 Automation
-    funds: 36.85 XMR
+  - name: 3.2 Measurements Endor
+    funds: 16.75 XMR
+    done:
+    status: unfinished
+  - name: 4.1 Automation mj
+    funds: 20.10 XMR
+    done:
+    status: unfinished
+  - name: 4.2 Automation Endor
+    funds: 16.75 XMR
     done:
     status: unfinished
 payouts:
   - date: 2 July 2022
     amount: 20.1
+  - date:
+    amount:
+  - date:
+    amount:
   - date:
     amount:
   - date:
