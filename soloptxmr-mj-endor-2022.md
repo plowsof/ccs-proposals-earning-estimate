@@ -15,16 +15,16 @@ milestones:
     status: unfinished
   - name: 3.1 Measurements mj
     funds: 20.10 XMR
-    done:
-    status: unfinished
+    done: 22 July 2022
+    status: finished
   - name: 3.2 Measurements Endor
     funds: 16.75 XMR
     done:
     status: unfinished
   - name: 4.1 Automation mj
     funds: 20.10 XMR
-    done:
-    status: unfinished
+    done: 24 November 2022
+    status: finished
   - name: 4.2 Automation Endor
     funds: 16.75 XMR
     done:
