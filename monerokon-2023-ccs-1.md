@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: MoneroKon 2023 CCS-1
 author: ajs-xmr
 date: December 12, 2022
@@ -14,10 +14,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 21 December 2022
+    amount: 553.67
 ---
 
 # Table of Contents
