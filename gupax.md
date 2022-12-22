@@ -7,15 +7,15 @@ amount: 100
 milestones:
   - name: Working GUI + Documentation
     funds: 80% (80 XMR)
-    done:
-    status: unfinished
+    done: 20 December 2022
+    status: finished
   - name: 1 year of maintenance
     funds: 20% (20 XMR)
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 22 December 2022
+    amount: 80
   - date:
     amount:
 ---
