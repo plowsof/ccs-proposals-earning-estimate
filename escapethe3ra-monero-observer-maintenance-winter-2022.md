@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: escapethe3RA Monero Observer maintenance (Winter 2022)
+title: "escapethe3RA Monero Observer maintenance (Winter 2022)"
 author: escapethe3RA
 date: Nov 29, 2022
 amount: 39
