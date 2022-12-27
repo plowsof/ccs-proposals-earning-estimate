@@ -7,12 +7,12 @@ amount: 51
 milestones:
   - name: Expand data storage on existing server
     funds: 27
-    done:
-    status: unfinished
+    done: 26 July 2022
+    status: finished
   - name: Month 1 support 
     funds: 8
-    done:
-    status: unfinished
+    done: 26 July 2022
+    status: finished
   - name: Month 2 support 
     funds: 8
     done:
@@ -22,10 +22,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 27 December 2022
+    amount: 35
   - date:
     amount:
   - date:
