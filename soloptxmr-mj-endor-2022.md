@@ -32,10 +32,8 @@ milestones:
 payouts:
   - date: 2 July 2022
     amount: 20.1
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 28 December 2022
+    amount: 40.2
   - date:
     amount:
   - date:
