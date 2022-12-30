@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "koe: Seraphis Library Work"
 author: koe
 date: 18 Aug 2022
@@ -7,9 +7,11 @@ amount: 122
 milestones:
   - name: PoC
     funds: 100% (122 XMR)
-    done: 
-    status: unfinished
+    done: 26 December 2022
+    status: finished
 payouts:
+  - date: 30 December 2022
+    amount: 122
 ---
 
 ## Intro
