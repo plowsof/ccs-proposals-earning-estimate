@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 4 January 2023
+    amount: 44
   - date:
     amount:
   - date:
