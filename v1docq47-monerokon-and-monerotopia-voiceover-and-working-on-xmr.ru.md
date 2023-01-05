@@ -16,7 +16,7 @@ milestones:
   - name: December
     funds: 16.66% (7.13 XMR)
     done: December 31, 2022
-    status: unfinished
+    status: finished
   - name: January
     funds: 16.66% (7.13 XMR)
     done: January 31, 2023
@@ -34,8 +34,8 @@ payouts:
     amount: 7.13
   - date: 9 December 2022
     amount: 7.13
-  - date:
-    amount:
+  - date: 5 January 2023
+    amount: 7.13
   - date:
     amount:
   - date:
