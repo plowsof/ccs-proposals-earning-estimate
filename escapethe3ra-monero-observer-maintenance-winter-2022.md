@@ -7,8 +7,8 @@ amount: 39
 milestones:
   - name: December
     funds: 13
-    done:
-    status: unfinished
+    done: 31 December 2022
+    status: finished
   - name: January
     funds: 13
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 14 January 2023
+    amount: 13
   - date:
     amount:
   - date:
