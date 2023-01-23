@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "XMR BTC Atomic Swaps Desktop GUI - Continued development for 4 months"
 author: binarybaron
 date: 26 May, 2022
@@ -19,8 +19,8 @@ milestones:
     status: finished
   - name: October
     funds: 58
-    done:
-    status: unfinished
+    done: 16 January 2023
+    status: finished
 payouts:
   - date: 23 August 2022
     amount: 58
@@ -28,8 +28,8 @@ payouts:
     amount: 58
   - date: 20 December 2022
     amount: 58
-  - date:
-    amount:
+  - date: 23 January 2023
+    amount: 58
 ---
 
 ![](https://user-images.githubusercontent.com/86064887/152649852-4c8c6c3f-0568-4347-89d1-c291c17f2d30.png)
