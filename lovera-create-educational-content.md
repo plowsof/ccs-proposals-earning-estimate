@@ -52,10 +52,10 @@ And my Videos about Monero
 - Create quality educational content for the Spanish-speaking community. The objective is to transmit the benefits, characteristics and importance of Monero for financial privacy, through guides, articles, videos and in general written and audio visual material.  
 - These video tutorials will not only help new Spanish-speaking users coming to Monero, but will also raise awareness of the only currency that protects users' privacy by default, yes, you could even call it marketing?  
 - I will share all this content in my social networks:  
-	- LoveraTV YT Channel: 15,000+ suscribers  
-	- LoveraXMR YT Channel: 500+ suscribers  
-	- TikTok Channel: 20,000+ suscribers  
-	- Telegram Channel: 1000+ suscribers  
+  - LoveraTV YT Channel: 15,000+ suscribers  
+  - LoveraXMR YT Channel: 500+ suscribers  
+  - TikTok Channel: 20,000+ suscribers  
+  - Telegram Channel: 1000+ suscribers  
 
 ### Milestones and projected schedule
 
