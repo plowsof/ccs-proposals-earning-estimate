@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: Create Educational Content in Spanish
+title: "Create Educational Content in Spanish"
 author: Lovera
 date: December 15, 2022
 amount: 10.5
