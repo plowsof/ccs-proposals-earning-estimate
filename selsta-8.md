@@ -3,7 +3,7 @@ layout: fr
 title: selsta part-time monero development (3 months)
 author: selsta
 date: 28 January 2023
-amount: 
+amount: 102
 milestones:
   - name: Februrary
     funds: 33% (34 XMR)
