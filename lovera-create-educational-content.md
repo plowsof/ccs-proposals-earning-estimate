@@ -16,13 +16,14 @@ milestones:
   - name: Milestone 3 - Videos and Educational Articles
     funds: 3.5 XMR
     done:
-    status: unfinished 
+    status: unfinished
 payouts:
   - date:
     amount:
   - date:
     amount:
 ---
+
 ### Introduction
 
 Hi Monero community, Lovera here! this is my third proposal for my work. As you know I am dedicated to create content about Monero in Spanish, in this period I would like to dedicate more time to Monero so I would like to have the support of the community. I want to be as transparent as possible. I am seeking funding from the community to working on Monero related projects all days full time. Im truly thankful for all the support i have received from the community and my sponsor Cakewallet who currently makes it possible to publish 5 videos per month about monero on my main channel.
