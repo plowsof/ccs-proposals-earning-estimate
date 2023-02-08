@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Monero Atomic Swaps implementation funding
 author: h4sh3d et al.
 date: September, 2020
@@ -47,28 +47,28 @@ milestones:
     status: finished
   - name: M3.A.1 xgroup-dleq-lib
     funds: 8.75% (238.6125 XMR)
-    done:
-    status: unfinished
+    done: 16 January 2023
+    status: finished
   - name: M3.A.2 ecdsa-adaptor-sig
     funds: 8.75% (238.6125 XMR)
-    done:
-    status: unfinished
+    done: 16 January 2023
+    status: finished
   - name: M3.B. chain-syncer
     funds: 5.25% (143.1675 XMR)
-    done:
-    status: unfinished
+    done: 16 January 2023
+    status: finished
   - name: M3.C.1 swap-cli
     funds: 3.5% (95.445 XMR)
-    done:
-    status: unfinished
+    done: 16 January 2023
+    status: finished
   - name: M3.C.2 swap-gui
     funds: 5.25% (143.1675 XMR)
-    done:
-    status: unfinished
+    done: 16 January 2023
+    status: finished
   - name: M3.D. swap-daemon
     funds: 3.5% (95.445 XMR)
-    done:
-    status: unfinished
+    done: 16 January 2023
+    status: finished
 payouts:
   - date: 23 April 2021
     amount: 190.89
@@ -76,32 +76,8 @@ payouts:
     amount: 354.51
   - date: 22 December 2021
     amount: 1227.15
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 8 February 2023
+    amount: 954.45
 ---
 
 :warning: *DIFFERENT CCS RULES ARE IN PLACE FOR THIS PROPOSAL! PLEASE READ THE FOLLOWING!* :warning:
