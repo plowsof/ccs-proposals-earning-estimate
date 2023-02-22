@@ -20,6 +20,8 @@ payouts:
     amount:
 ---
 
+### Note: This proposal generated significant and thoughtful discussion; potential donors are invited to read it [here](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/371).
+
 ![HorizontalPoster](https://raw.githubusercontent.com/markofdistinction/ccs/main/MarkOfDistinction_16x9_1280x720.jpg)
 
 # Help an independent film featuring Monero get to the Oscars™!
@@ -140,5 +142,3 @@ Yes, please send 1 piconero (0.000000000001 XMR) to the donation address as a ca
 
 ### OK, take my money! ;-)
 
-Note:
-This proposal generated significant and thoughtful discussion; potential donors are invited to read it [here](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/371). Thank you!
