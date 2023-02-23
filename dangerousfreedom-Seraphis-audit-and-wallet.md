@@ -1,24 +1,23 @@
 ---
-layout: wip
+layout: cp
 title: dangerousfreedom - more Seraphis development 
 author: DangerousFreedom
 date: September 20, 2022
-amount: 120 
+amount: 120
 milestones:
   - name: Audit framework Seraphis.
-    funds: 20 
-    done:
-    status: unfinished
+    funds: 20
+    done: 9 February 2023
+    status: finished
   - name: PoC CLI Wallet.
-    funds: 100 
-    done:
-    status: unfinished
+    funds: 100
+    done: 9 February 2023
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 23 February 2023
+    amount: 120
 ---
+
 ## TLDR
 Hello, I would like your help to develop more features for Seraphis like the audit framework and a simple CLI wallet.
 
