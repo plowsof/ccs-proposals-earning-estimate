@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Help an independent film featuring Monero get to the Oscars™!
 author: markofdistinction_
 date: January 20, 2023
