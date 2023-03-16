@@ -7,8 +7,8 @@ amount: 10.5
 milestones:
   - name: Milestone 1 - Videos and Educational Articles
     funds: 3.5 XMR
-    done:
-    status: unfinished
+    done: 7 March 2023
+    status: finished
   - name: Milestone 2 - Videos and Educational Articles
     funds: 3.5 XMR
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 16 March 2023
+    amount: 3.5
   - date:
     amount:
 ---
