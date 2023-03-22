@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: escapethe3RA Monero Observer maintenance (Spring 2023)
 author: escapethe3RA
 date: Mar 5, 2023
