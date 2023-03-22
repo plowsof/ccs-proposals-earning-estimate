@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Standalone AcceptXMR
 author: busyboredom
 date: February 31, 2023
