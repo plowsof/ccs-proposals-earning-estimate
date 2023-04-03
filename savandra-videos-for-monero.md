@@ -7,8 +7,8 @@ amount: 45
 milestones:
   - name: Complete Video 1
     funds: 20% (9 XMR)
-    done:
-    status: unfinished
+    done: 22 March 2023
+    status: finished
   - name: Complete Video 2
     funds: 20% (9 XMR)
     done:
@@ -26,8 +26,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 3 April 2023
+    amount: 9
   - date:
     amount:
   - date:
