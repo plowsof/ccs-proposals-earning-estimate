@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: v1docq47 - monerokon and monerotopia voiceover and working on xmr.ru
 author: v1docq47
 date: March 31, 2023
@@ -28,7 +28,7 @@ milestones:
   - name: March
     funds: 16.66% (7.13 XMR)
     done: March 31, 2023
-    status: unfinished
+    status: finished
 payouts:
   - date: 4 November 2022
     amount: 7.13
@@ -39,9 +39,9 @@ payouts:
   - date: 2 February 2023
     amount: 7.13
   - date: 6 March 2023
-    amount:
-  - date:
-    amount:
+    amount: 7.13
+  - date: 3 April 2023
+    amount: 7.13
 ---
 
 # Introduction
