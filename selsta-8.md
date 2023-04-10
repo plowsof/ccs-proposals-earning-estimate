@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: March
     funds: 33% (34 XMR)
-    done:
-    status: unfinished
+    done: 31 March 2023
+    status: finished
   - name: April
     funds: 33% (34 XMR)
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 14 March 2023
     amount: 34
-  - date:
-    amount:
+  - date: 10 April 2023
+    amount: 34
   - date:
     amount:
 ---
