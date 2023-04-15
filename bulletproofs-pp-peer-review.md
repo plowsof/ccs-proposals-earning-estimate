@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Bulletproofs++ Peer Review
 author: Monero Research Lab
 date: March 22, 2023
