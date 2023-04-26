@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "koe: Seraphis Ongoing Support"
 author: koe
 date: 31 March 2023
