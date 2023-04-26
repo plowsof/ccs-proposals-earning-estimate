@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Maintaining Flatpak package
 author: BigmenPixel
 date: March 21, 2023
