@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: dangerousfreedom - wallet development 2 
 author: DangerousFreedom
 date: February 26, 2022
