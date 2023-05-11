@@ -45,7 +45,7 @@ I propose to spend 20 hours a week for 3 months working on Monero Core and the M
 
 ## Who
 
-My name is Jeffrey Ryan and I am a senior student at Texas A&M University, currently working on completing a computer science major with a minor in both cybersecurity and mathematics. I have always been fascinated with cryptography and digital privacy, so learning about Monero during the altcoin boom of 2017 was eye-opening and exciting. Soon enough, supporting Monero became a no-brainer for someone who is passionate about digital privacy.
+My name is Jeffrey; I am currently working on completing a computer science major with a minor in both cybersecurity and mathematics. I have always been fascinated with cryptography and digital privacy, so learning about Monero during the altcoin boom of 2017 was eye-opening and exciting. Soon enough, supporting Monero became a no-brainer for someone who is passionate about digital privacy.
 
 I got my first PR merged on March 18th, and you can see the rest of them here: <https://github.com/monero-project/monero/pulls?q=is%3Apr+is%3Amerged+author%3Ajeffro256>. So far I have been doing it as a hobby, but I would love to spend more time on this project than I currently am, as I am rather busy with schoolwork and my job. As this is my first CCS proposal, I am very open to criticism and questions, so don't be afraid to ask! I will do my best to respond in the comments below.
 
