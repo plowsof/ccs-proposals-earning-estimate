@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "jeffro256: part-time dev work 2022Q3"
 author: jeffro256
 date: 17 May 2022
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: Month 3
     funds: 34% (20 XMR)
-    done: 
-    status: unfinished
+    done: 4 April 2023
+    status: finished
 payouts:
   - date: 24 October 2022
     amount: 20
   - date: 29 December 2022
     amount: 20
-  - date:
-    amount:
+  - date: 11 May 2023
+    amount: 20
 ---
 
 
