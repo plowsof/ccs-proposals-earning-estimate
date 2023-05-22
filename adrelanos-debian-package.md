@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "Monero Debian Package Repository for 2 years"
 amount: 73
 author: Patrick Schleizer
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: "Monero Debian Package Maintenance 2022"
     funds: 25% (18 XMR)
-    done:
-    status: unfinished
+    done: 13 March 2023
+    status: finished
 payouts:
   - date: 18 February 2021
     amount: 37
   - date: 21 March 2022
     amount: 18
-  - date:
-    amount:
+  - date: 21 May 2023
+    amount: 18
 ---
 
 ### Importance to the Monero Community
