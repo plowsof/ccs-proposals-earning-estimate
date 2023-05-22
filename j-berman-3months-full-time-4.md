@@ -14,14 +14,14 @@ milestones:
     done: 21 February 2023
     status: finished
   - name: Month 3
-    funds: 33% (84.3 Monero)
-    done:
-    status: unfinished
+    funds: 33% (84.4 Monero)
+    done: 16 May 2023
+    status: finished
 payouts:
   - date: 23 February 2023
     amount: 168.6
-  - date:
-    amount:
+  - date: 21 May 2023
+    amount: 84.4
 ---
 
 ## What
