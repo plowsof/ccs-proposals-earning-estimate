@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: escapethe3RA Monero Observer maintenance (Spring 2023)
 author: escapethe3RA
 date: Mar 5, 2023
@@ -7,23 +7,19 @@ amount: 39
 milestones:
   - name: March
     funds: 13
-    done:
-    status: unfinished
+    done: 31 March 2023
+    status: finished
   - name: April
     funds: 13
-    done:
-    status: unfinished
+    done: 30 April 2023
+    status: finished
   - name: May
     funds: 13
-    done:
-    status: unfinished
+    done: 31 May 2023
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 7 June 2023
+    amount: 39
 ---
 
 # What
