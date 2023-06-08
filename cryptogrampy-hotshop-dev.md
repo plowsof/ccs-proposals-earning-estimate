@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: HotShop Point of Sale
 author: cryptogrampy
 date: April 7, 2022
@@ -15,13 +15,13 @@ milestones:
     status: finished
   - name: Milestone 3 - Create finalized Point of Sale interface, create install and deployment instructions, publish freely available version
     funds: 10
-    done:
-    status: unfinished
+    done: 27 May 2023
+    status: finished
 payouts:
   - date: 1 June 2022
     amount: 8
-  - date:
-    amount:
+  - date: 7 June 2023
+    amount: 10
 ---
 
 HotShop - a browser-based, ephemeral, no-server point of sale
