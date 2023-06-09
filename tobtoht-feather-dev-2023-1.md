@@ -21,7 +21,7 @@ payouts:
   - date: 10 May 2023
     amount: 47
   - date: 9 June 2023
-    amount:
+    amount: 47
   - date:
     amount:
 ---
