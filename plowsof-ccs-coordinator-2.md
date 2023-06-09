@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "CCS Coordinator"
 author: plowsof
 date: April 20th 2023
