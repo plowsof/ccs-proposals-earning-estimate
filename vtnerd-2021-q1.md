@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 4 January 2023
     amount: 44
-  - date:
-    amount:
+  - date: 12 June 2023
+    amount: 44
   - date:
     amount:
 ---
