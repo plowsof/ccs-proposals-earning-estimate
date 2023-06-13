@@ -37,6 +37,7 @@ Work primarily on the `monerod`, `wallet`, and `monero-lws`. Some of the work to
   - Add msgpack support to monerod-ZMQ (requires merging of new serialization system)
   - `monero-lws` work:
     - Optional full chain verification for malicious daemon attack
+    - Subaddresses
     - A accept-all-new-accounts mode similar to MyMonero behavior (instead of manually callback)
     - Webhook for new account creation (prevents polling for new accounts)
     - ZMQ pub support for incoming transactions and blocks (notifies of _any_ new transaction or block)
