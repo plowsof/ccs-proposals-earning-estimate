@@ -1,5 +1,5 @@
 ---
-layout: cp
+layout: fr
 title: jeffro256 full-time development 2023Q3
 author: jeffro256
 date: May 30, 2023
