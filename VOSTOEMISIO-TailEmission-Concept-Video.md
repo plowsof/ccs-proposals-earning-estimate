@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: VostoEmisio Animated "Tail Emission" Core Concept Video
+title: VostoEmisio Animated Tail Emission Core Concept Video
 author: VOSTOEMISIO
 date: May 12, 2023
 amount: 9
@@ -9,7 +9,7 @@ milestones:
     funds: 3
     done:
     status: unfinished
-  - name: Complete "Look and feel"
+  - name: Complete Look and feel
     funds: 3
     done:
     status: unfinished
