@@ -25,7 +25,8 @@ payouts:
   - date:
     amount:
 ---
-    Hey everyone!
+
+Hey everyone!
 
 Since this is my first CCS proposal, I thought I'd give you a quick intro to who we are:
 
