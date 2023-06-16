@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: fr
 title: vtnerd Full-Time 2023 Q3
 author: Lee Clagett (vtnerd)
 date: June 11, 2023
