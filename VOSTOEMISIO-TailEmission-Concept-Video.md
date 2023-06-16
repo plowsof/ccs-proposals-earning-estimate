@@ -40,6 +40,12 @@ However, we haven't had the chance to show off our skills in motion assets and a
 
 So, I propose that we create an animation series featuring short (1 min or so), ELI5-style explainer videos that break down the key concepts of how Monero works in a simple and digestible way that could easily be shared every time we, the community, face misleading comments. I suggest we start with one video and, if the result is satisfactory, create more based on the community's preferred topics.
 
+### Promise and assurances:
+
+- With the budget for this proposal, we're confident we can deliver quality on par with this example: https://www.youtube.com/watch?v=pYOSfEgF32Y&ab_channel=XPLAI
+- Completion expiry date set to 4 months post-approval for this proposal
+- Open-sourcing the project materials after completion
+
 If that sounds good to you all, I'd be happy to jump into the details and start working on the script and storyboard. I would like to start with ( as our name vosto emisio also springs from), the tail emission concept. 
 
 Regarding the budget, we're not sure, but we're willing to try this out for 9 XMR for the first video. We can adjust the amount up or down after we see how the first project goes since this would be our first official collaboration with the community. I believe this project will take about a month to complete, maybe a bit longer since this is our first time working with the community.
