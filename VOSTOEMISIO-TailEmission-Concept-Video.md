@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: VostoEmisio Animated Tail Emission Core Concept Video
 author: VOSTOEMISIO
 date: May 12, 2023
