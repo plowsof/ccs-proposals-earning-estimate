@@ -3,18 +3,18 @@ layout: fr
 title: vtnerd Full-Time 2023 Q3
 author: Lee Clagett (vtnerd)
 date: June 11, 2023
-amount: 192.56 XMR
+amount: 166.95 XMR
 milestones:
   - name: Month 1 (160 hours)
-    funds: 64 XMR
+    funds: 55 XMR
     done:
     status: unfinished
   - name: Month 2 (320 hours)
-    funds: 64 XMR
+    funds: 55 XMR
     done:
-    status: finished
+    status: unfinished
   - name: Month 3 (480 hours)
-    funds: 64.56 XMR
+    funds: 56.95 XMR
     done:
     status: unfinished
 payouts:
@@ -57,4 +57,4 @@ Lee Clagett (vtnerd). I've had [three](https://ccs.getmonero.org/proposals/vtner
 
 Work on the various tasks outlined above for 40 hours/week over the next 3 months after potential funding. I already use time-tracking software for work; if the hours dip in a given month unexpectedly, the update/milestone will be at the completion of the hours listed above.
 
-The funds were calculated with 55 USD/hour with ~137.10 USD/XMR which is the 14-day exponential moving average on Kraken through 2023/06/11.
+The funds were calculated with 55 USD/hour with ~158.13 USD/XMR which is the 14-day exponential moving average on Kraken through 2023/07/02.
