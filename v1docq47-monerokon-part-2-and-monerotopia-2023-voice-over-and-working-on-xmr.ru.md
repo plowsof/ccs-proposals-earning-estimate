@@ -8,11 +8,11 @@ milestones:
   - name: May
     funds: 16.66% (10.8 XMR)
     done: May 31, 2023
-    status: unfinished
+    status: finished
   - name: June
     funds: 16.66% (10.8 XMR)
     done: June 30, 2023
-    status: unfinished
+    status: finished
   - name: July
     funds: 16.66% (10.8 XMR)
     done: July 31, 2023
@@ -32,8 +32,8 @@ milestones:
 payouts:
   - date: 8 June 2023
     amount: 10.8
-  - date:
-    amount:
+  - date: 6 July 2023
+    amount: 10.8
   - date:
     amount:
   - date:
