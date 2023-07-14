@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Wallet SDK for Android
 author: valldrac
 date: May 17, 2023
