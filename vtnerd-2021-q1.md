@@ -15,8 +15,8 @@ milestones:
     status: finished
   - name: Month 3 (480 hours)
     funds: 45.4 XMR
-    done:
-    status: unfinished
+    done: 14 July 2023
+    status: finished
 payouts:
   - date: 4 January 2023
     amount: 44
