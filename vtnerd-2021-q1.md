@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: vtnerd Full-Time 2021 Q1
 author: Lee Clagett (vtnerd)
 date: February 17, 2021
@@ -22,8 +22,8 @@ payouts:
     amount: 44
   - date: 12 June 2023
     amount: 44
-  - date:
-    amount:
+  - date: 26 July 2023
+    amount: 45.4
 ---
 
 3-Months full-time software development on monero "core" components in 2021 q1 (through early q2).
