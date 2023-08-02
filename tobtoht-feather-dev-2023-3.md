@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "Continued Feather Wallet development (3 months)"
 author: tobtoht
 date: 20 Jul 2023
