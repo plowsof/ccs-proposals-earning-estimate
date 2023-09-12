@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: Month 2
     funds: 33% (49.0)
-    done:
-    status: unfinished
+    done: 7 September 2023
+    status: finished
   - name: Month 3
     funds: 33% (49.0)
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 16 August 2023
     amount: 49
-  - date:
-    amount:
+  - date: 12 September 2023
+    amount: 49
   - date:
     amount:
 ---
