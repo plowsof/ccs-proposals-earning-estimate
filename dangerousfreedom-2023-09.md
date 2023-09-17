@@ -20,7 +20,7 @@ The end goal of this proposal is to be able to make a basic but broad demonstrat
 
 In order to do so, I would work on the following tasks:
 - Create basic functions for wallet initialization, program flow and terminal handling.
-- Create the basic components of a seraphis_wallet (basically the wallet needs to load/save the KeyContainer, EnoteStore and TransactionHistory components). 
+- Create the basic components of a seraphis_wallet (basically the wallet needs to load/save the `KeyContainer`, `EnoteStore` and `TransactionHistory` components). 
 - Create basic function to fill `EnoteStore` with jberman's scanner.
 - Create functions similar to `create_transaction_2`, `create_transactions_from` on wallet2 and `construct_tx_for_mock_ledger_v1` in seraphis_mock to send a tx.
 - Add entries to `TransactionHistory` when a transaction creation is attempted.
