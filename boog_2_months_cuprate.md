@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Boog900 full time work on Cuprate, the Rust Monero node (2 months)   
 author: Boog900
 date: August 03, 2023
