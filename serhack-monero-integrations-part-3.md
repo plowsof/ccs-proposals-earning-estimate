@@ -68,3 +68,11 @@ I would like to expand more this section since it is a subject close to my heart
 ### Costs
 
 If milestones are not modified, I'll ask 11 XMR (~700 euros) - fixed price.  
+
+### Proposal transfer
+
+This proposal will be transferred to recanman who will enjoy an exclusivity period of 5 months to show reasonable progress in completing this proposal. They will receive payments for completed milestones directly.
+
+SerHack: https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/402#note_22039
+
+>To consider the CCS completed, all the issues mentioned in the CCS must be completed: recanman will need to push changes to monero-integrations repositories and after reviewing the PRs, I'll close the issues.
