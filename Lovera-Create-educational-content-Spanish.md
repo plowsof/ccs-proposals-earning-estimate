@@ -13,7 +13,7 @@ milestones:
     funds: 3.5 XMR
     done:
     status: unfinished
- - name: Videos and Educational Articles
+  - name: Videos and Educational Articles
     funds: 3.5 XMR
     done:
     status: unfinished
