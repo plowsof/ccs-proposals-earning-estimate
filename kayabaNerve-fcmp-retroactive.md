@@ -18,7 +18,7 @@ milestones:
     done:
     status: Finished
   - name: Implementation of COPZ's efficient cross-group discrete log equality proof
-    funds: 10
+    funds: 10 XMR
     done:
     status: Finished
 payouts:
