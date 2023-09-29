@@ -137,3 +137,7 @@ This is inclusive of my obligation to j-berman ($3,600) who:
 And my desire to thank Eagen for their contributions with $5,000. Eagen's application of divisors drastically increased the performance of this work. Also notable is narodnik who provided an initial Python reference for divisor construction and evaluation, yet they have declined to be so thanked.
 
 With all of this in mind, and given the extended hours I generally work, my hourly rate would be roughly 100 USD.
+
+# Resolution
+
+If this proposal is not funded within two months, it will be closed regardless of status. All raised funds will be directed towards the already completed milestones, even if only partially funded. Whatever amount raised will close this CCS, and be considered as complete funding for these milestones.
