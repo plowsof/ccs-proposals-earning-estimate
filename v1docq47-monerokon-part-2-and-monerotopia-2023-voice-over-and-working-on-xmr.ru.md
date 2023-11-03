@@ -24,11 +24,11 @@ milestones:
   - name: September
     funds: 16.66% (10.8 XMR)
     done: September 30, 2023
-    status: unfinished
+    status: finished
   - name: October
     funds: 16.66% (10.8 XMR)
     done: October 31, 2023
-    status: unfinished
+    status: finished
 payouts:
   - date: 8 June 2023
     amount: 10.8
@@ -38,10 +38,8 @@ payouts:
     amount: 10.8
   - date: 12 September 2023
     amount: 10.8
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 3 November 2023
+    amount: 21.6
 ---
 
 # Introduction
