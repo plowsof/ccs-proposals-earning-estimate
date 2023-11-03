@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: jeffro256 full-time development 2023Q3
 author: jeffro256
 date: May 30, 2023
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: Month 3
     funds: 33% (49.0)
-    done:
-    status: unfinished
+    done: 17 October 2023
+    status: finished
 payouts:
   - date: 16 August 2023
     amount: 49
   - date: 12 September 2023
     amount: 49
-  - date:
-    amount:
+  - date: 3 November 2023
+    amount: 49
 ---
 
 ## What
