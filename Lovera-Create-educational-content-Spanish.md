@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Create Educational Content in Spanish
 author: Lovera
 date: August 28, 2023
