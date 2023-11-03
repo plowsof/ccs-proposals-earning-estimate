@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: v1docq47 - monerokon 2022 (part 2) and monerotopia 2023 voice over and working on xmr.ru
 author: v1docq47
 date: October 31, 2023
