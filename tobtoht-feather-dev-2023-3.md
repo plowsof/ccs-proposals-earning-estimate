@@ -7,8 +7,8 @@ amount: 146
 milestones:
   - name: First month 
     funds: 33% (48.6 XMR)
-    done: 
-    status: unfinished
+    done: 19 October 2023
+    status: finished
   - name: Second month
     funds: 33% (48.6 XMR)
     done: 
@@ -18,8 +18,8 @@ milestones:
     done: 
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 5 November 2023
+    amount: 48.6
   - date:
     amount:
   - date:
