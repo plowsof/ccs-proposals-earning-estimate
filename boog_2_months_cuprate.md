@@ -7,8 +7,8 @@ amount: 130
 milestones:
   - name: Consensus rules up to RingCT
     funds: 53 XMR
-    done:
-    status: unfinished
+    done: 27 October 2023
+    status: finished
   - name: All Consensus rules up to present
     funds: 53 XMR
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 5 November 2023
+    amount: 53
   - date:
     amount:
   - date:
