@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Help an independent film featuring Monero get to the Oscars™!
 author: markofdistinction_
 date: January 20, 2023
@@ -7,17 +7,15 @@ amount: 154
 milestones:
   - name: upon approval
     funds: 77
-    done:
-    status: unfinished
+    done: 25 September 2023
+    status: finished
   - name: upon qualifying for Academy Award
     funds: 77
-    done:
-    status: unfinished
+    done: 25 September 2023
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 5 November 2023
+    amount: 154
 ---
 
 ### Note: This proposal generated significant and thoughtful discussion; potential donors are invited to read it [here](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/371).
