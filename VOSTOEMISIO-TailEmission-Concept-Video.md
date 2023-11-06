@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: VostoEmisio Animated Tail Emission Core Concept Video
 author: VOSTOEMISIO
 date: May 12, 2023
@@ -7,23 +7,19 @@ amount: 9
 milestones:
   - name: Complete Script
     funds: 3
-    done:
-    status: unfinished
+    done: 26 September 2023
+    status: finished
   - name: Complete Look and feel
     funds: 3
-    done:
-    status: unfinished
+    done: 26 September 2023
+    status: finished
   - name: Complete Video
     funds: 3
-    done:
-    status: unfinished
+    done: 26 September 2023
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 6 November 2023
+    amount: 9
 ---
 
 Hey everyone!
