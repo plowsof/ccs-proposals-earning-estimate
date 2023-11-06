@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "ErCiccione: 3 more months part time work on Getmonero.org (flexible)"
 author: erciccione
 date: 11 October 2021
@@ -15,12 +15,14 @@ milestones:
     status: finished
   - name: Third month
     funds: 11
-    done:
-    status: unfinished
+    done: 30 October 2023
+    status: finished
 payouts:
   - date: 6 January 2022
     amount: 11
   - date: 25 October 2022
+    amount: 11
+  - date: 6 November 2023
     amount: 11
 ---
 
