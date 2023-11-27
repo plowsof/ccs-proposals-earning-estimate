@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: Month 2 (320 hours)
     funds: 55 XMR
-    done:
-    status: unfinished
+    done: 26 November 2023
+    status: finished
   - name: Month 3 (480 hours)
     funds: 56.95 XMR
     done:
