@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: dangerousfreedom - wallet development 2 
 author: DangerousFreedom
 date: February 26, 2022
@@ -7,11 +7,11 @@ amount: 31
 milestones:
   - name: deliver of proposed wallet functions
     funds: 31
-    done:
-    status: unfinished
+    done: 19 September 2023
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: 30 November 2023
+    amount: 31
 ---
 
 ## What and Why ?
