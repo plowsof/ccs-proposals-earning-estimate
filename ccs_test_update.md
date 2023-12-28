@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: "Do they know its CCS'mas time again?"
+title: "Do they know its CCSmas time again?"
 author: plowsof
 date: December 25th 2023
 amount: 0.069
