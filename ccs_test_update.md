@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: cp
 title: "Do they know its CCSmas time again?"
 author: plowsof
 date: December 25th 2023
@@ -7,8 +7,8 @@ amount: 0.069
 milestones:
   - name: 3+ months of transaction fees
     funds: 0.069 XMR
-    done:
-    status:
+    done: 28 December 2023
+    status: finished
 payouts:
   - date:
     amount: 0.069
