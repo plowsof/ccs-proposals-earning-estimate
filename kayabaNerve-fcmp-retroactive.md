@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Retroactive funding for work on full-chain membership proofs
 author: Luke Parker (kayabaNerve)
 date: July 24, 2023
