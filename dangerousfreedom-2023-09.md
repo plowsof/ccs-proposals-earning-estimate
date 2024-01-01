@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: dangerousfreedom - wallet work
 author: DangerousFreedom
 date: September 17, 2023
