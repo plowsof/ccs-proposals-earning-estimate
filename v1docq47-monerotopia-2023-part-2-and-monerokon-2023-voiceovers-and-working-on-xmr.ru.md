@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: v1docq47 - monerotopia 2023 (part 2) and monerokon 2023 voiceovers and working on xmr.ru
 author: v1docq47
 date: May 31, 2024
