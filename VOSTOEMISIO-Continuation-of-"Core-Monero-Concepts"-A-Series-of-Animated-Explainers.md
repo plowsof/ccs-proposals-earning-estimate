@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: Continuation of "Core Monero Concepts " - A Series of Animated Explainers
+title: Continuation of Core Monero Concepts - A Series of Animated Explainers
 author: VOSTOEMISIO
 date: October 3, 2023
 amount: 1
