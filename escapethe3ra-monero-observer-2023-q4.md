@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: escapethe3RA Monero Observer maintenance (2023 Q4)
 author: escapethe3RA
 date: Oct 12, 2023
@@ -7,23 +7,19 @@ amount: 39
 milestones:
   - name: October
     funds: 13
-    done:
-    status: unfinished
+    done: 1 November 2023
+    status: finished
   - name: November
     funds: 13
-    done:
-    status: unfinished
+    done: 1 December 2023
+    status: finished
   - name: December
     funds: 13
-    done:
-    status: unfinished
+    done: 1 January 2024
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 7 January 2024
+    amount: 39
 ---
 
 # What
