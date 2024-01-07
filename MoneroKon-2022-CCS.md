@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "MoneroKon 2022 CCS"
 author: midipoet
 date: December 7, 2021
