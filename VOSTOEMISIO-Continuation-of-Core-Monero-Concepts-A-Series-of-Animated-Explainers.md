@@ -1,16 +1,16 @@
 ---
-layout: fr
+layout: wip
 title: Continuation of Core Monero Concepts - A Series of Animated Explainers
 author: VOSTOEMISIO
 date: October 3, 2023
 amount: 1
 milestones:
   - name: Random X and Understanding the significance of ASIC resistance
-    funds: 1
+    funds: 18
     done:
     status: unfinished
   - name: Nodes and why every Monero enthusiast should consider running one.
-    funds: 0
+    funds: 18
     done:
     status: unfinished
 payouts:
