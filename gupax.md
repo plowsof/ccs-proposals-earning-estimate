@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "Gupax: GUI for P2Pool+XMRig"
 author: hinto
 date: 10 October 2022
@@ -11,13 +11,13 @@ milestones:
     status: finished
   - name: 1 year of maintenance
     funds: 20% (20 XMR)
-    done:
-    status: unfinished
+    done: 28 December 2023
+    status: finished
 payouts:
   - date: 22 December 2022
     amount: 80
-  - date:
-    amount:
+  - date: 9 January 2024
+    amount: 20
 ---
 
 ![banner.png](https://github.com/hinto-janaiyo/gupax/raw/main/images/png/banner.png)
