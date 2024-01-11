@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Douglas Tuman Working full-time on Monero Projects (6 months)
 author: Douglas Tuman
 date: August 30, 2021
@@ -7,23 +7,19 @@ amount: 240
 milestones:
   - name: Month 1 and 2
     funds: 80
-    done:
-    status: unfinished
+    done: 13 December 2023
+    status: finished
   - name: Month 3 and 4
     funds: 80
-    done:
-    status: unfinished
+    done: 13 December 2023
+    status: finished
   - name: Month 5 and 6
     funds: 80
-    done:
-    status: unfinished
+    done: 13 December 2023
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 11 January 2024
+    amount: 240
 ---
 **INTRO**
 
