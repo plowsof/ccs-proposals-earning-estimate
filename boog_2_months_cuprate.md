@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Boog900 full time work on Cuprate, the Rust Monero node (2 months)   
 author: Boog900
 date: August 03, 2023
@@ -11,19 +11,17 @@ milestones:
     status: finished
   - name: All Consensus rules up to present
     funds: 53 XMR
-    done:
-    status: unfinished
+    done: 10 January 2024
+    status: finished
   - name: Consensus Rules document
     funds: 24 XMR
-    done:
-    status: unfinished
+    done: 10 January 2024
+    status: finished
 payouts:
   - date: 5 November 2023
     amount: 53
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 26 January 2024
+    amount: 77
 ---
 
 Cuprate is a WIP Rust Monero node that SyntheticBird45 started back in Feburary, I joined the project not 
