@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: hinto-janai full-time work on Cuprate (3 months)
 author: hinto-janai
 date: Nov 6, 2023
