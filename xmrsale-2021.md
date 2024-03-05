@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: xmrSale Payment Processor Development
 author: xmrsale
 date: 10 August, 2021
@@ -37,6 +37,10 @@ payouts:
   - date:
     amount:
 ---
+
+### Proposal closed
+
+The remaining funds (30XMR) have been absorbed by https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/374
 
 # What
 [xmrSale](https://github.com/xmrsale/xmrSale) is a lightweight Monero payment processor that connects to your own Monero node, striving to be modular and lightweight. xmrSale has an accessible API written in python that talks to your own Monero node, uses RPC to generate new addresses, and monitors payment success with your own copy of the Monero blockchain.

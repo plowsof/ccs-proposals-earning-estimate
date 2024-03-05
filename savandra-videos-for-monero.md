@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: New Animated Videos
 author: savandra
 date: April 7, 2022
@@ -37,6 +37,11 @@ payouts:
   - date:
     amount:
 ---
+
+### Proposal closed
+
+The remaining funds (36XMR) have been absorbed by https://ccs.getmonero.org/proposals/VOSTOEMISIO-Continuation-of-Core-Monero-Concepts-A-Series-of-Animated-Explainers.html
+
 Hello guys,
 
 It's savandra, who created animated explainer videos,

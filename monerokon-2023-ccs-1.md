@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: MoneroKon 2023 CCS-1
 author: ajs-xmr
 date: December 12, 2022
