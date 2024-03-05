@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Triptych research and optimizations
 author: Cypher Stack
 date: April 8, 2021
@@ -31,6 +31,10 @@ payouts:
   - date:
     amount:
 ---
+
+### Proposal closed
+
+The remaining funds (12.65XMR) have been donated to the General Fund.
 
 THIS PROPOSAL HAS BEEN CHANGED FROM TRIPTYCH RESEARCH OPTIMIZATIONS TO TRIPTYCH MULTISIG RESEARCH AFTER A MEETING WITH THE MONERO DEVS ON APRIL 21, 2021.
 
