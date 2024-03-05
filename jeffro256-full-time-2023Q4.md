@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: jeffro256 full-time development 2023Q4
 author: jeffro256
 date: Oct 25, 2023
@@ -22,8 +22,8 @@ payouts:
     amount: 47.8
   - date: 23 February 2024
     amount: 46.2
-  - date:
-    amount:
+  - date: 4 March 2024
+    amount: 53
 ---
 
 ## What
