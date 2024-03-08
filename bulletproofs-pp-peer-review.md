@@ -5,14 +5,21 @@ author: Monero Research Lab
 date: March 22, 2023
 amount: 130
 milestones:
-  - name: Bp++ eprint peer review
+  - name: Bp++ eprint peer review CCS part
     funds: 130
+    done: 6 March 2024
+    status: finished
+  - name: Bp++ eprint peer review GenFund part
+    funds: ~$14000
     done:
     status: unfinished
 payouts:
+  - date: 7 March 2024
+    amount: 130
   - date:
     amount:
 ---
+
 ## Bulletproofs++ Peer Review
 
 This CCS will provide funding for the first step towards Bulletproofs++ implementation in Monero. (and also the planned Seraphis upgrade). Bulletproofs+ were added in the latest [Network Upgrade](https://www.getmonero.org/2022/04/20/network-upgrade-july-2022.html). They reduce the typical transaction size by ~5-7% and improve typical verification performance by ~5-7%, making every transaction lighter and faster. Bulletproofs++ claims to significantly improve upon this (e.g. ~27% smaller than Bp+).
