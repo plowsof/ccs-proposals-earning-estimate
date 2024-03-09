@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: vtnerd Full-Time 2023 Q3
 author: Lee Clagett (vtnerd)
 date: June 11, 2023
@@ -22,8 +22,8 @@ payouts:
     amount: 55
   - date: 1 December 2023
     amount: 55
-  - date:
-    amount:
+  - date: 9 March 2024
+    amount: 56.95
 ---
 
 3-Months full-time software development on monero "core" components in 2023 q3.
