@@ -7,8 +7,8 @@ amount: 295
 milestones:
   - name: Development
     funds: 180 XMR
-    done:
-    status: unfinished
+    done: 4 March 2024
+    status: finished
   - name: Security Enhancements
     funds: 24 XMR
     done:
@@ -26,8 +26,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 21 March 2024
+    amount: 180
   - date:
     amount:
   - date:
