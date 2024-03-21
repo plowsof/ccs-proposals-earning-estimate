@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Retroactive funding for work on full-chain membership proofs
 author: Luke Parker (kayabaNerve)
 date: July 24, 2023
@@ -7,29 +7,23 @@ amount: 310 XMR
 milestones:
   - name: Implementation of Bulletproofs+
     funds: 150 XMR
-    done:
-    status: Finished
+    done: 23 June 2023
+    status: finished
   - name: Implementation of Curve Trees
     funds: 100 XMR
-    done:
-    status: Finished
+    done: 23 June 2023
+    status: finished
   - name: Application of elliptic curve divisors for multiple times faster proofs
     funds: 50 XMR
-    done:
-    status: Finished
+    done: 23 June 2023
+    status: finished
   - name: Implementation of COPZ's efficient cross-group discrete log equality proof
     funds: 10 XMR
-    done:
-    status: Finished
+    done: 23 June 2023
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 21 March 2024
+    amount: 310
 ---
 
 Prior to Monerokon, I spent a month and a half working on full chain membership proofs for Monero. This is the product of
