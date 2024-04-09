@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: March
     funds: 33% (51 XMR)
-    done:
-    status: unfinished
+    done: 1 April 2024
+    status: finished
   - name: April
     funds: 33% (51 XMR)
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 7 March 2024
     amount: 51
-  - date:
-    amount:
+  - date: 9 April 2024
+    amount: 51
   - date:
     amount:
 ---
