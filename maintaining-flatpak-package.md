@@ -11,23 +11,23 @@ milestones:
     status: unfinished
   - name: 3 month maintenance
     funds: 1.63
-    done:
-    status: unfinished
+    done: 2 April 2024
+    status: finished
   - name: 3 month maintenance
     funds: 1.63
-    done:
-    status: unfinished
+    done: 2 April 2024
+    status: finished
   - name: 3 month maintenance
     funds: 1.63
-    done:
-    status: unfinished
+    done: 2 April 2024
+    status: finished
   - name: 3 month maintenance
     funds: 1.63
-    done:
-    status: unfinished
+    done: 2 April 2024
+    status: finished
 payouts:
-  - date:
-    amount: 
+  - date: 9 April 2024
+    amount:  6.52
   - date:
     amount: 
   - date:
