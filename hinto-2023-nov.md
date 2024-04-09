@@ -7,8 +7,8 @@ amount: 153
 milestones:
   - name: Internals
     funds: 33% (51)
-    done:
-    status: unfinished
+    done: 13 March 2024
+    status: finished
   - name: API
     funds: 33% (51)
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 9 April 2024
+    amount: 51
   - date:
     amount:
   - date:
