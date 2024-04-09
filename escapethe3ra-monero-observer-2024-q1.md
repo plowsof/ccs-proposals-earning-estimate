@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: escapethe3RA Monero Observer maintenance (2024 Q1)
 author: escapethe3RA
 date: Jan 19, 2024
@@ -7,23 +7,19 @@ amount: 36
 milestones:
   - name: January
     funds: 12
-    done:
-    status: unfinished
+    done: 31 January 2024
+    status: finished
   - name: February
     funds: 12
-    done:
-    status: unfinished
+    done: 29 February 2024
+    status: finished
   - name: March
     funds: 12
-    done:
-    status: unfinished
+    done: 31 March 2024
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 9 April 2024
+    amount: 36
 ---
 
 # What
