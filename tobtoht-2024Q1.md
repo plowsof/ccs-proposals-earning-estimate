@@ -7,15 +7,15 @@ amount: 170
 milestones:
   - name: 240 hours
     funds: 50% (85)
-    done:
-    status: unfinished
+    done: 14 March 2024
+    status: finished
   - name: 240 hours
     funds: 50% (85)
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 9 April 2024
+    amount: 85
   - date:
     amount:
 ---
