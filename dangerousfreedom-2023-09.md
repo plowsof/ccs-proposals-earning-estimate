@@ -1,18 +1,20 @@
 ---
-layout: wip
+layout: cp
 title: dangerousfreedom - wallet work
 author: DangerousFreedom
 date: September 17, 2023
 amount: 64 
 milestones:
   - name: deliver of proposed demonstrator and wallet functions
-    funds: 64 
-    done:
-    status: unfinished
+    funds: 56
+    done: 30 March 2024
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: 10 April 2024
+    amount: 56
 ---
+
+## Note amount wasn't updated properly so there is 8 XMR left over from this proposal.
 
 ## What and Why ?
 
