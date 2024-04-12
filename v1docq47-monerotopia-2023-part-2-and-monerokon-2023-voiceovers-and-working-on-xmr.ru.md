@@ -12,15 +12,15 @@ milestones:
   - name: January
     funds: 16.66% (8.7 XMR)
     done: January 31, 2024
-    status: unfinished
+    status: finished
   - name: February
     funds: 16.66% (8.7 XMR)
     done: February 29, 2024
-    status: unfinished
+    status: finished
   - name: March
     funds: 16.66% (8.7 XMR)
     done: March 31, 2024
-    status: unfinished
+    status: finished
   - name: April
     funds: 16.66% (8.7 XMR)
     done: April 30, 2024
@@ -34,8 +34,8 @@ payouts:
     amount: 8.7
   - date: 9 March 2024
     amount: 17.4
-  - date:
-    amount:
+  - date: 12 April 2024
+    amount: 8.7
   - date:
     amount:
   - date:
