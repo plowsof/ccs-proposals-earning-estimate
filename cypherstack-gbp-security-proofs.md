@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Generalized Bulletproofs Security Proofs
 author: Cypher Stack
 date: April 4, 2024

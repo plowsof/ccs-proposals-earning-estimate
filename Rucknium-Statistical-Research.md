@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Rucknium Statistical Research
 author: Rucknium
 date: March 28, 2024
