@@ -7,15 +7,15 @@ amount: 200
 milestones:
   - name: Funded
     funds: 200
-    done:
-    status: unfinished
+    done: 11 April 2024
+    status: finished
   - name: Completed
     funds: 0
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 11 April 2024
+    amount: 200
 ---
 
 Hello everyone, Diego "rehrar" Salazar here on behalf of [Cypher Stack](https://cypherstack.com/). We've recently [made a proposal to review the general Seraphis paper](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/441). After some discussion with MRL, including at an official MRL meeting, it was decided that while all parties do want this done eventually, there are perhaps some more immediate wins available for Monero's privacy tech, particularly in the form of Generalized Bulletproofs (GBP).
