@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "CCS Coordinator"
 author: plowsof
 date: October  20th 2023
@@ -12,15 +12,15 @@ milestones:
   - name: 2 meetings + hours worked
     funds: 23 XMR
     done: 14 January 2024
-    status: unfinished
+    status: finished
   - name: 2 meetings + hours worked
     funds: 23 XMR
-    done:
-    status: unfinished
+    done: 17 March 2024
+    status: finished
 payouts:
   - date: 28 January 2024
     amount: 46
-  - date:
+  - date: 16 April 2024
     amount: 23
 ---
 
