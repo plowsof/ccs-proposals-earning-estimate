@@ -3,10 +3,10 @@ layout: fr
 title: dangerousfreedom - seraphis wallet work until regtest
 author: DangerousFreedom
 date: March 30, 2024
-amount: 108 
+amount: 80.64
 milestones:
   - name: deliver of proposed demonstrator of a wallet in a regtest
-    funds: 108
+    funds: 80.64
     done:
     status: unfinished
 payouts:
@@ -33,4 +33,4 @@ There are many intermediary tasks that would be necessary to do that I am not fu
 
 - I did [this](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/298), [this](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/344), [this](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/377) and [this](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/409) previous works.
 
-I propose to work for 42 USD per hour, 30h per week, for 12 weeks (or until we have a functional seraphis wallet in regtest), which makes 108 XMR considering 140 USD/XMR.
+I propose to work for 42 USD per hour, 20h per week, for 12 weeks (or until we have a functional seraphis wallet in regtest), which makes 80.64 XMR considering 125 USD/XMR.
