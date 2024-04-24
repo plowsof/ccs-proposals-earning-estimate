@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: dangerousfreedom - seraphis wallet work until regtest
 author: DangerousFreedom
 date: March 30, 2024

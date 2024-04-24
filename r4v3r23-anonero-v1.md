@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: ANONERO version 1.0
 author: r4v3r23
 date: April 12, 2024
