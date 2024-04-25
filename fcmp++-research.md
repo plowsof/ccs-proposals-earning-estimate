@@ -6,39 +6,39 @@ date: April 13, 2024
 amount: 2000
 milestones:
   - name: Provide a soundness proof for the proof using Elliptic Curve Divisors
-    funds: ?
+    funds: 0
     done:
     status: unfinished
   - name: Formally verify the gadgets
-    funds: ?
+    funds: 0
     done:
     status: unfinished
   - name: Prove the composition to be unlinkable, unforgeable, and non-malleable
-    funds: ?
+    funds: 0
     done:
     status: unfinished
   - name: Audit the Implementation of GBPs
-    funds: ?
+    funds: 0
     done:
     status: unfinished
   - name: Audit the Elliptic Curve Divisors Library
-    funds: ?
+    funds: 0
     done:
     status: unfinished
   - name: Audit the implementation of the gadgets
-    funds: ?
+    funds: 0
     done:
     status: unfinished
   - name: Audit the implementation of the circuit
-    funds: ?
+    funds: 0
     done:
     status: unfinished
   - name: Audit the implementation of the Towering Curve Cycle
-    funds: ?
+    funds: 0
     done:
     status: unfinished
   - name: Audit the implementation of the Generalized Schnorr Protocol
-    funds: ?
+    funds: 0
     done:
     status: unfinished
 payouts:
