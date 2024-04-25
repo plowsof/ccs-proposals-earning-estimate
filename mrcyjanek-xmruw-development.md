@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: xmruw - development of cross platform wallet
 author: mrcyjanek
 date: February 29, 2024
