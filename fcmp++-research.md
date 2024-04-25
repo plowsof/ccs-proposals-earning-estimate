@@ -1,9 +1,9 @@
 ---
 layout: fr
-title: Full-Chain Membership Proofs + Spend Authorization + Linkability Research CCS
+title: "Full-Chain Membership Proofs + Spend Authorization + Linkability Research CCS"
 author: kayabaNerve
 date: April 13, 2024
-amount: 2000 XMR
+amount: 2000
 milestones:
   - name: Provide a soundness proof for the proof using Elliptic Curve Divisors
     funds: ?
