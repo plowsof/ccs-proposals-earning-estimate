@@ -17,7 +17,6 @@ milestones:
     funds: ?
     done:
     status: unfinished
-
   - name: Audit the Implementation of GBPs
     funds: ?
     done:
@@ -42,7 +41,6 @@ milestones:
     funds: ?
     done:
     status: unfinished
-
 payouts:
   - date:
     amount:
@@ -50,7 +48,6 @@ payouts:
     amount:
   - date:
     amount:
-
   - date:
     amount:
   - date:
