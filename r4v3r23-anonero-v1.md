@@ -7,8 +7,8 @@ amount: 199.265
 milestones:
   - name: Inital payment
     funds: 20% (39.853 XMR)
-    done:
-    status: unfinished
+    done: 29 April 2024
+    status: finished
   - name: Payment for first test build
     funds: 40 % (79.706 XMR)
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 29 April 2024
+    amount: 39.853
   - date:
     amount:
 ---
