@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "Full-Chain Membership Proofs + Spend Authorization + Linkability Research CCS"
 author: kayabaNerve
 date: April 13, 2024
