@@ -7,15 +7,15 @@ amount: 1
 milestones:
   - name: Random X and Understanding the significance of ASIC resistance
     funds: 18
-    done:
-    status: unfinished
+    done: 8 April 2024
+    status: finished
   - name: Nodes and why every Monero enthusiast should consider running one.
     funds: 18
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 30 April 2024
+    amount: 18
   - date:
     amount:
 ---
