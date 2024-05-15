@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: hinto-janai full-time work on Cuprate (3 months)
 author: hinto-janai
 date: Nov 6, 2023
@@ -11,19 +11,17 @@ milestones:
     status: finished
   - name: API
     funds: 33% (51)
-    done:
-    status: unfinished
+    done: 5 May 2024
+    status: finished
   - name: Integration + 3 months of work
     funds: 33% (51)
-    done:
-    status: unfinished
+    done: 5 May 2024
+    status: finished
 payouts:
   - date: 9 April 2024
     amount: 51
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 14 May 2024
+    amount: 102
 ---
 
 ## What
