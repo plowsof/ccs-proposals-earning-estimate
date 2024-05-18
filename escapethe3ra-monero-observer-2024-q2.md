@@ -7,8 +7,8 @@ amount: 48
 milestones:
   - name: April
     funds: 16
-    done:
-    status: unfinished
+    done: 2 May 2024
+    status: finished
   - name: May
     funds: 16
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 18 May 2024
+    amount: 16
   - date:
     amount:
   - date:
