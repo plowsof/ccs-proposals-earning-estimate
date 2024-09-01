@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Generalized Bulletproofs Security Proofs
 author: Cypher Stack
 date: April 4, 2024
@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: Completed
     funds: 0
-    done:
-    status: unfinished
+    done: May 6th, 2024
+    status: finished
 payouts:
   - date: 11 April 2024
     amount: 200

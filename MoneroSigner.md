@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "MoneroSigner. Fork of seedsigner for Monero."
 author: Monero-HackerIndustrial
 date: June 08, 2022
@@ -35,6 +35,19 @@ payouts:
   - date:
     amount:
 ---
+
+----
+### Proposal Closure/Transferral 17th June 2024
+
+All remaining funds (55.38 XMR) have been transferred to/repurposed for: [MoneroSigner Resurrection](https://ccs.getmonero.org/proposals/%20MoneroSignerResurrection.html)
+
+Effective immediately:
+
+- HackerIndustrial is hereby terminated from this project and relinquishes any claim to the remaining CCS funds.
+- The project will now proceed under vthor, who has already achieved significant progress in a matter of weeks, demonstrating the competence and dedication required.
+
+----
+
 The Monero community could benefit from a fork of [seedsigner](https://seedsigner.com/) to supports Monero. Seedsigner uses an air-gapped Raspberry Pi Zero to sign for Bitcoin transactions. The project aims to make it easy for anybody to make a dedicated offline signing device out of low-cost commodity computer components (raspberry pi zero). This helps in reducing the need to trust hardware verndors. The most private hardware wallet, is the only only **you** know about.  
 
 Seedsigner is focused only on Bitcoin, because of this, the UI/UX and features are not very helpful to Monero users.

@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: Security Enhancements
     funds: 24 XMR
-    done:
-    status: unfinished
+    done: 12 August 2024
+    status: finished
   - name: Continuous Integration & Testing
     funds: 51 XMR
     done:
@@ -28,8 +28,8 @@ milestones:
 payouts:
   - date: 21 March 2024
     amount: 180
-  - date:
-    amount:
+  - date: 14 August 2024
+    amount: 24
   - date:
     amount:
   - date:

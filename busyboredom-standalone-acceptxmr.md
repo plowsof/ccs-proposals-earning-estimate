@@ -5,13 +5,21 @@ author: busyboredom
 date: February 31, 2023
 amount: 14
 milestones:
-  - name: Maintenance
+  - name: Dockerize AcceptXMR
     funds: 14
+    done: 5 July 2024
+    status: finished
+  - name: Wordpress Plugin
+    funds: 10
+    done:
+    status: unfinished
+  - name: Maintenance 1 year
+    funds: 20
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 19 July 2024
+    amount: 14
 ---
 
 # Standalone AcceptXMR

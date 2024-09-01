@@ -7,19 +7,19 @@ amount: 71
 milestones:
   - name: Texts and structure done
     funds: 30
-    done:
-    status: unfinished
+    done: 31 May 2024
+    status: finished
   - name: Illustrations and animations done
     funds: 30
     done:
     status: unfinished
   - name: Website up
     funds: 11
-    done:
-    status: unfinished
+    done: 31 May 2024
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: 18 June 2024
+    amount: 41
   - date:
     amount:
   - date:

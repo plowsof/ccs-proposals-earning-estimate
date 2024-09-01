@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: v1docq47 - monerotopia 2023 (part 2) and monerokon 2023 voiceovers and working on xmr.ru
 author: v1docq47
 date: May 31, 2024
@@ -28,7 +28,7 @@ milestones:
   - name: May
     funds: 16.66% (8.7 XMR)
     done: May 31, 2024
-    status: unfinished
+    status: finished
 payouts:
   - date: 26 January 2024
     amount: 8.7
@@ -38,10 +38,8 @@ payouts:
     amount: 8.7
   - date: 2 May 2024
     amount: 8.7
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 18 June 2024
+    amount: 8.7
 ---
 
 # Introduction

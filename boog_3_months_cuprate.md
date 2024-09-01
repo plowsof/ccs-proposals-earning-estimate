@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title:  Boog900 full time work on Cuprate (3 months)
 author: Boog900
 date: January 27, 2024
@@ -7,29 +7,25 @@ amount: 190
 milestones:
   - name: The PeerSet + Routing methods excluding D++
     funds: 54 XMR
-    done:
-    status: unfinished
+    done: 15 June 2024
+    status: finished
   - name: D++ Routing method + Network Initialisation
     funds: 54 XMR
-    done:
-    status: unfinished
+    done: 15 June 2024
+    status: finished
   - name: The Block Downloader + Syncer
     funds: 54 XMR
-    done:
-    status: unfinished
+    done: 15 June 2024
+    status: finished
   - name: P2P Documentation
     funds: 28 XMR
-    done:
-    status: unfinished
+    done: 18 July 2024
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 20 June 2024
+    amount: 162
+  - date: 1 August 2024
+    amount: 28
 ---
 
 This proposal is to continue my work on [Cuprate](https://github.com/Cuprate/cuprate), specifically I will be working on

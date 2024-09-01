@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Bulletproofs++ Peer Review
 author: Monero Research Lab
 date: March 22, 2023
@@ -11,13 +11,13 @@ milestones:
     status: finished
   - name: Bp++ eprint peer review GenFund part
     funds: ~$14000
-    done:
-    status: unfinished
+    done: 29 March 2024
+    status: finished
 payouts:
   - date: 7 March 2024
     amount: 130
-  - date:
-    amount:
+  - date: 7 April 2024
+    amount: 101
 ---
 
 ## Bulletproofs++ Peer Review
